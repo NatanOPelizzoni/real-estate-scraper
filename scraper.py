@@ -30,7 +30,10 @@ for group_type in links:
     for link in links[group_type]:
         link_parts = link.split('-')
         category_type = link_parts[-2].split('/')[-1]
-
+        
+        link_parts = link.split('.')
+        real_estate_name = link_parts[1]
+        
         if not category_type in data[group_type]:
             data[group_type][category_type] = {}
 
@@ -138,6 +141,7 @@ for group_type in links:
             floor = floor or None
             
             category_data.append({
+                'real_estate_name':real_estate_name,
                 'property_price':property_price,
                 'property_name':property_name,
                 'city_name':city_name,
