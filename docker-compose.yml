@@ -1,0 +1,12 @@
+version: '3.9'
+
+services:
+  real_estate_db:
+    image: postgres:latest
+    container_name: real_estate_db
+    environment:
+      POSTGRES_USER: real_estate
+      POSTGRES_PASSWORD: real_estate
+      POSTGRES_DB: real_estate
+    ports:
+      - 5432:5432
