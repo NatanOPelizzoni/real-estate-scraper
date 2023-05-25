@@ -142,17 +142,19 @@ for group_type in links:
                         .replace(',', '.')
                     )
 
-            private_property_area = None
-            string_private_property_area = ul_information.find('li', {'class':'area-privativa'})
-            if string_private_property_area:
-                private_property_area = float(
-                    string_private_property_area.get_text()
-                    .strip()
-                    .split(':')[1]
-                    .replace(' m²', '')
-                    .replace('.', '')
-                    .replace(',', '.')
-                )
+                private_property_area = None
+                string_private_property_area = ul_information.find('li', {'class':'area-privativa'})
+                if not string_private_property_area:
+                    string_private_property_area = ul_information.find('li', {'class':'privativa-casa'})
+                if string_private_property_area:
+                    private_property_area = float(
+                        string_private_property_area.get_text()
+                        .strip()
+                        .split(':')[1]
+                        .replace(' m²', '')
+                        .replace('.', '')
+                        .replace(',', '.')
+                    )
 
             furniture = None
             string_furniture = ul_information.find('li', {'class':'mobilia'})
@@ -184,30 +186,33 @@ for group_type in links:
         data[group_type][category_type] = category_data
 
 df = pd.DataFrame(
-        columns=[
-            'real_estate_name',
-            'group_type',
-            'category_type',
-            'property_price',
-            'property_name',
-            'city_name',
-            'abbreviation_uf',
-            'neighborhood_name',
-            'address',
-            'bedrooms_number',
-            'suites_number',
-            'car_vacancies_number',
-            'property_area_size',
-            'private_property_area',
-            'furniture',
-            'floor'
-        ]
-    )
+    columns=[
+        'real_estate_name',
+        'group_type',
+        'category_type',
+        'property_price',
+        'property_name',
+        'city_name',
+        'abbreviation_uf',
+        'neighborhood_name',
+        'address',
+        'bedrooms_number',
+        'suites_number',
+        'car_vacancies_number',
+        'property_area_size',
+        'private_property_area',
+        'furniture',
+        'floor'
+    ]
+)
 
 for group_type in data:
     for category_type in data[group_type]:
         category_data = data[group_type][category_type]
         for item in category_data:
+            item['real_estate_name'] = item['real_estate_name']
+            item['group_type'] = group_type
+            item['category_type'] = category_type
             df = pd.concat([df, pd.DataFrame(item, index=[0])], ignore_index=True)
 
 output_directory = 'data'
