@@ -1,517 +1,519 @@
 real_estate_name;group_type;category_type;property_price;property_name;city_name;abbreviation_uf;neighborhood_name;address;bedrooms_number;suites_number;car_vacancies_number;property_area_size;private_property_area;furniture;floor
-;Sales;casas;1500000.0;CASA EM IBIAÇA;Ibiaca;RS;Centro;;3;;;344.64;;;
-;Sales;casas;1400000.0;CASA GRANDE;Tapejara;RS;Centro;RUA EUGENIO FELINI;4;1;2;840.0;;Semi;
-;Sales;casas;1000000.0;VENDE-SE CASA DE ESQUINA NO CENTRO;Tapejara;RS;Centro;Rua do Comércio Esqu. Manoel Teixeira;3;;2;;;;Baixo
-;Sales;casas;998000.0;VENDE-SE ÓTIMA CASA  DE ALVENARIA;Tapejara;RS;Centro;rua independencia;4;1;2;419.0;;;
-;Sales;casas;980000.0;CASA COM 03 PAVIMENTOS NO LOTEAMENTO COLUSSI;Tapejara;RS;;RUA CEL. LOLICO;3;1;2;;;;
-;Sales;casas;900000.0;LOTEAMENTO BIANCHINI NO BAIRRO SÃO PAULO;Tapejara;RS;;RUA CARINO CANALI;5;;3;412.5;;;
-;Sales;casas;890000.0;CASA DE ESQUINA NA VILA RICA;Tapejara;RS;Sol Nascente;Rua DR. Celso Domingues;3;;2;480.0;;;
-;Sales;casas;890000.0;CASA SEMI-ACABADA A VENDA NO LOT. JARDIM ITÁLIA;Tapejara;RS;Loteamento Jardim Itália;;3;1;2;375.0;;;
-;Sales;casas;830000.0;TERRENO COM DUAS CASAS NO BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;TRAVESSA MARSIGLIO;3;;;400.0;;;
-;Sales;casas;760000.0;VENDE-SE CASA NO BAIRRO SÃO CRISTÓVÃO;Tapejara;RS;São Cristovão;Rua Antônio Marchiori;3;;3;630.15;;;
-;Sales;casas;750000.0;VENDE-SE CASA EM BAIRRO NOBRE DE TAPEJARA;Tapejara;RS;Sol Nascente;RUA SILVA JARDIM;3;;2;;;;
-;Sales;casas;750000.0;CASA PRÓXIMA AO CENTRO;Tapejara;RS;Centro;Rua Tranquilo Basso;3;;2;400.0;;Semi;
-;Sales;casas;750000.0;VENDE-SE CASA COM ÓTIMA LOCALIZAÇÃO;Tapejara;RS;Nazaré;RUA MANOEL TEIXEIRA;3;;1;;;Semi;
-;Sales;casas;730000.0;CASA AMPLA BAIRRO NAZARÉ;Tapejara;RS;Nazaré;RUA TUPINAMBA;4;1;2;350.0;;Semi;
-;Sales;casas;700000.0;CASA VILA RICA;Tapejara;RS;Centro;RUA FREDOLINO CHIMANGO;3;1;2;;;;
-;Sales;casas;700000.0;VENDE-SE CASA NA VILA RICA;Tapejara;RS;Vila Rica;RUA SILVA JARDIM;3;;1;453.29;;Semi;
-;Sales;casas;700000.0;VENDE-SE CASA GRANDE COM 2 PISOS;Tapejara;RS;Centro;RUA ANTONIO XAVIER;5;;1;643.5;;;
-;Sales;casas;690000.0;CASA 03 DORM LOT BIANCHINI;Tapejara;RS;Lot Bianchini;rua do comércio;3;;;242.0;;;
-;Sales;casas;689000.0;VENDE-SE CASA PRÓXIMA AO HOSPITAL;Tapejara;RS;Centro;;3;;2;148.0;;Semi;
-;Sales;casas;680000.0;CASA AMPLA LOT. ZOPPAS;Tapejara;RS;Loteamento Zoppas;RUA SD;4;4;2;600.0;;;
-;Sales;casas;680000.0;VENDE-SE CASA PRÓXIMA AO 2º GRAU;Tapejara;RS;Centro;Rua Tranquilo Basso;5;;1;560.0;;;
-;Sales;casas;650000.0;CASA MISTA COM 03 DORMITÓRIOS;Tapejara;RS;São Paulo;RUA DO COMÉRCIO;3;;1;624.0;;;
-;Sales;casas;620000.0;VENDE-SE CASA DE 2 PISOS EM ESQUINA NO LOT. DAMIN;Tapejara;RS;São Cristovão;;3;;2;225.0;;;
-;Sales;casas;600000.0;CASA COM MOBÍLIA NO LOT NAZARÉ;Tapejara;RS;Nazaré;;4;;1;356.99;;;
-;Sales;casas;600000.0;VENDE-SE CASA NO SÃO CRISTÓVÃO;Tapejara;RS;;;4;;2;;;;
-;Sales;casas;590000.0;CASA DE ESQUINA COM AMPLO TERRENO;Tapejara;RS;;RUA OSWALDO CRUZ;5;;2;500.0;;;
-;Sales;casas;480000.0;VENDE-SE CASA NO BAIRRO REAL II;Tapejara;RS;Loteamento Real;RUA ANTONIO MANICA;3;;1;;;;
-;Sales;casas;430000.0;TERRENO COM 02 CASAS MISTAS;Tapejara;RS;;PAULINO FERMINO DA SILVA;2;;;240.0;;;
-;Sales;casas;430000.0;VENDE-SE CASA EM ALVENARIA NO SOL POENTE;Tapejara;RS;Sol Poente;Rua João Bertoglio;5;;;200.0;;;
-;Sales;casas;420000.0;CASA A VENDA NO BAIRRO NAZARÉ;Tapejara;RS;Nazaré;RUA JOÃO MANOEL BERNARDES;2;;2;162.5;;;
-;Sales;casas;400000.0;CASA NO LOTEAMENTO FAVARETTO;Tapejara;RS;;RUA ISACO CALEGARI;2;;1;130.2;;;
-;Sales;casas;390000.0;VENDE-SE ÓTIMA CASA DE MADEIRA;Tapejara;RS;;R. Primeiro de Maio;2;;;369.2;;Sim;
-;Sales;casas;380000.0;CASA DE 2 PAVIMENTOS LOT. REAL 2;Tapejara;RS;Real Ii;Rua Ivonete Baroni;3;1;3;;;;
-;Sales;casas;370000.0;CASA 04 DORMITÓRIOS;Tapejara;RS;São Paulo;Rua Padre Raimundo Damin;4;;3;;;;
-;Sales;casas;370000.0;CASA DE 2 PAVIMENTOS - BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;Rua Padre Raimundo Damin;3;;2;;;;
-;Sales;casas;370000.0;CASA EM CONSTRUÇÃO COM FINALIZAÇÃO EM BREVE;Tapejara;RS;Lot. Araucária;Rua Paolo Merotto;2;;2;252.0;;;
-;Sales;casas;370000.0;VENDE-SE CASA GERMINADA EM TAPEJARA ESQUINA;Tapejara;RS;São Paulo - Coohasa 01;;2;;1;;;;
-;Sales;casas;370000.0;À VENDA CASA NO BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;RUA JOÃO XXIII;3;;2;198.0;;;Baixo
-;Sales;casas;350000.0;VENDE-SE CASA MOBILIADA;Tapejara;RS;;Linha Girardi;2;;;1000.0;;Sim;
-;Sales;casas;320000.0;VENDE-SE CASA NO LOT. CASA NOVA;Tapejara;RS;;;2;;1;200.0;;;
-;Sales;casas;290000.0;VENDE-SE CASA;Tapejara;RS;;Rua Coronel Gervásio e Arthur Ferraro Filho;2;;1;;;;
-;Sales;casas;280000.0;VENDE-SE ÓTIMA CASA NO BAIRRO NAZARÉ;Tapejara;RS;Nazaré;Rua Valeriano uguini;2;;1;187.5;;;
-;Sales;casas;250000.0;VENDE-SE ÓTIMA CASA NO BAIRRO SÃO CRISTOVÃO;Tapejara;RS;São Cristovão;Rua Fioravente Rech;2;;2;145.0;;;
-;Sales;casas;230000.0;CASA MISTA EM COXILHA;Coxilha;RS;Centro;RUA ITALINO SARTORI;3;;;;;;
-;Sales;casas;200000.0;CASA DE ALVENARIA EM COXILHA;Coxilha;RS;Centro;RUA ITALINO SARTORI;3;;;;;;
-;Sales;casas;189000.0;CASA DE ESQUINA;Tapejara;RS;;RUA IVANETE BARONI;3;1;1;;;;
-;Sales;casas;187000.0;CASA DE MADEIRA NO LOT. BIANCHINI;Tapejara;RS;São Paulo;LOTEAMENTO BIANCHINI;3;;;339.56;;;
-;Sales;casas;180000.0;CASA ACONCHEGANTE EM SERVIDÃO;Tapejara;RS;Centro;RUA TRANQUILO BASSO;2;;1;;;;
-;Sales;casas;175000.0;VENDE-SE CASA NO LOT. BORGES EM TAPEJARA;Tapejara;RS;;;3;;1;;;;
-;Sales;casas;160000.0;CASA DE 03 DORMITÓRIOS NO BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;RUA LOURENÇO DALLOLIVO;3;;1;180.0;;;
-;Sales;casas;;CASA DE ESQUINA REAL 02;Tapejara;RS;Real 02;RUA SERGIO NARDI;3;;1;130.0;;Semi;
-;Sales;casas;;CASA NOVA COM FINO ACABAMENTO;Tapejara;RS;Centro;RUA ANTONIO XAVIER DE OLIVEIRA;3;3;1;250.0;;;Baixo
-;Sales;casas;;CASA DE 02 PISOS COM PAVILHÃO;Tapejara;RS;Centro;RUA CEL GERVASIO;3;;;698.85;;;
-;Sales;casas;;CASA SEMI MOBILIADA PRÓXIMA AO MERCADO REAL;Tapejara;RS;Loteamento Real;Rua ANGELO BERTON;2;;1;204.16;;;
-;Sales;casas;;ÓTIMA CASA MOBILIADA EM BARRACÃO;Barracao;RS;Conceição;RUA ANIBAL JOSÉ DE PAULA;2;;1;300.0;;Sim;
-;Sales;casas;;CASA EM ALVENARIA COM TERRENO;Tapejara;RS;São Cristóvão;RUA ERVILHO BAPTISTA BÉ;2;;;243.0;;;
-;Sales;casas;;CASA DE MORADIA EM ALVENARIA;Tapejara;RS;São Cristóvão;SD-01;3;;;300.0;;;
-;Sales;casas;;CASA DE 02 DORMITÓRIOS;Tapejara;RS;São Paulo;ALBERTO PASQUALINI;2;;2;231.0;;;
-;Sales;casas;;VENDE-SE CASA;Tapejara;RS;Centro;Rua Borges de medeiros;4;1;1;;;;
-;Sales;terrenos;2600000.0;VENDE-SE ÁREA DE TERRA PRÓXIMA A CAPÃO DE MATO;Agua Santa;RS;;;;;;90918.0;;;
-;Sales;terrenos;1790000.0;VENDE-SE 04 AVIÁRIOS COM ÓTIMO RETORNO FINANCEIRO;Tapejara;RS;;;;;;27000.0;;;
-;Sales;terrenos;1600000.0;TERRENO NO CENTRO PRÓXIMO A PRAÇA CENTRAL;Tapejara;RS;Centro;RUA JÚLIO DE CASTILHOS;;;;748.0;;;
-;Sales;terrenos;1600000.0;VENDE-SE AMPLO TERRENO EM VACARIA;Vacaria;RS;Centro;Av. Samuel Guazzelll;;;;3457.0;;;
-;Sales;terrenos;1479000.0;VENDE-SE  ÁREA RURAL DE 87 HECTARES - SÃO SEPÉ;Sao Sepe;RS;;;;;;870000.0;;;
-;Sales;terrenos;1394000.0;VENDE-SE AMPLO TERRENO NO CENTRO DA CIDADE;Tapejara;RS;Centro;AV. VALDO NUNES VIEIRA;;;;100.0;;;
-;Sales;terrenos;1100000.0;ÁREA DE TERRA EM CHARRUA;Charrua;RS;;LOCALIDADE SÃO ROQUE;;;;229000.0;;;
-;Sales;terrenos;850000.0;ÁREA DE TERRA EM CHARRUA;Charrua;RS;Interior;COMUNIDADE DE SÃO ROQUE;;;;0.0;;;
-;Sales;terrenos;799000.0;VENDE-SE TERRENO NA PERIMETRAL;Tapejara;RS;;;;;;6015.21;;;
-;Sales;terrenos;740000.0;ÁREA DE 6 HECTARES NO PAIOL NOVO;Tapejara;RS;Interior;PAIOL NOVO;;;;60000.0;;;
-;Sales;terrenos;580000.0;ÁREA DE TERRA COM MATRÍCULA PRÓXIMA A LOTEAMENTO;Tapejara;RS;;ESTRADA SAÍDA PARA ÁGUA SANTA;;;;2700.0;;;
-;Sales;terrenos;550000.0;TERRENO ESQUINA NO CENTRO;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS ESQ COM AV VALDO NUNES VIEIRA;;;;300.0;;;
-;Sales;terrenos;525000.0;ÓTIMO TERRENO DE ESQUINA NO LOTEAMENTO MÂNICA;Tapejara;RS;;R. Dr. Célso Domingues;;;;525.17;;;
-;Sales;terrenos;520000.0;TERRENO DE FRENTE PARA AV. SETE DE SETEMBRO;Tapejara;RS;São Paulo;AV. SETE DE SETEMBRO;;;;500.0;;;
-;Sales;terrenos;500000.0;ÁREA DE TERRA EM SÃO ROQUE EM CHARRUA;Charrua;RS;Comunidade De Interior;SÃO ROQUE;;;;0.0;;;
-;Sales;terrenos;490000.0;ÓTIMO TERRENO DE ESQUINA COM PAVILHÃO;Tapejara;RS;São Paulo;ESQUINA DA RUA JOÃO XXIII COM A RUA JOÃO MARIN;;;;661.4;;;
-;Sales;terrenos;490000.0;CHÁCARA EM CACHOEIRRA MÉDIA;Charrua;RS;Comunidade;CACHOEIRRA MÉDIA;;;;11336.92;;;
-;Sales;terrenos;490000.0;VENDE-SE CHÁCARA EM VILA CAMPOS;Tapejara;RS;;;;;;2700.0;;;
-;Sales;terrenos;480000.0;VENDE-SE CHÁCARA NO ALTOS DO FUNIL;Tapejara;RS;Loteamento Altos Do Funil;;;;;3000.0;;;
-;Sales;terrenos;450000.0;TERRENO COMERCIAL;Tapejara;RS;Centro;LOT. BASEGGIO;;;;1325.68;;;
-;Sales;terrenos;450000.0;ÓTIMO TERRENO NA VILA RICA;Tapejara;RS;Sol Nascente;RUA SILVA JARDIM;;;;515.9;;;
-;Sales;terrenos;450000.0;TERRENO EM PASSO FUNDO;Passo Fundo;RS;São José;Rua Cruz e Souza;;;;1100.0;;;
-;Sales;terrenos;420000.0;TERRENO ESQUINA NO LOT. MANICA;Tapejara;RS;Loteamento Manica;RUA MANOEL TEIXEIRA COM A SANTOS DOMINGUES;;;;531.47;;;
-;Sales;terrenos;400000.0;EXCELENTE CHÁCARA EM SÃO BRÁS;Tapejara;RS;São Brás;;;;;1425.0;;;
-;Sales;terrenos;375000.0;ÁREA DE TERRA NA DIVISA DE TAPEJARA E IBIAÇA;Ibiaca;RS;;ERS 467;;;;0.0;;;
-;Sales;terrenos;340000.0;TERRENO DE ESQUINA NA VILA RICA;Tapejara;RS;;VILA RICA 2;;;;383.27;;;
-;Sales;terrenos;340000.0;VENDE-SE IMÓVEL NO LOT. COLUSSI;Tapejara;RS;Loteamento Colussi;Rua Ângelo Dalzotto;;;;577.31;;;
-;Sales;terrenos;320000.0;TERRENO NA VILA RICA 4;Tapejara;RS;;;;;;325.0;;;
-;Sales;terrenos;250000.0;CHÁCARA EM VILA CAMPOS;Tapejara;RS;;VILA CAMPOS;;;;1000.0;;;
-;Sales;terrenos;250000.0;ÁREA DE RESERVA E PRÓPRIO PARA CHÁCARAS;Tapejara;RS;;;;;;42000.0;;;
-;Sales;terrenos;240000.0;TERRENOS NO LOTEAMENTO COMIRAN;Tapejara;RS;;Av. Dom Pedro II;;;;0.0;;;
-;Sales;terrenos;240000.0;CHACARA COM CASA E PISCINA NA LINHA CARAVAGIO;Tapejara;RS;;LINHA CARAVAGIO;;;;660.0;;;
-;Sales;terrenos;235000.0;VENDE-SE ÓTIMA CHÁCARA EM VILA CAMPOS;Tapejara;RS;;Vila Campos;;;;1284.0;;;
-;Sales;terrenos;230000.0;ÓTIMO TERRENO NO LOTEAMENTO COLUSSI;Tapejara;RS;Centro;RUA SD,LOTEAMENTO COLUSSI;;;;0.0;;;
-;Sales;terrenos;215000.0;VENDE-SE TERRENO NO SOL POENTE;Tapejara;RS;Sol Poente;Rua Ãngelo Dalzotto;;;;357.6;;;
-;Sales;terrenos;210000.0;VENDE-SE TERRENO - CENTRO DE QUADRA;Tapejara;RS;São Cristóvão;RUA JÚLIO DE CASTILHOS;;;;650.0;;;
-;Sales;terrenos;205000.0;VENDE-SE TERRENO NO LOT. JARDIM ITÁLIA;Tapejara;RS;Lot. Jardim Itália;RUA JÚLIO DE CASTILHOS;;;;336.0;;;
-;Sales;terrenos;200000.0;TERRENO 1  NAZARÉ I I;Tapejara;RS;Nazaré;RUA JOÃO MANOEL BERNARDES;;;;336.0;;;
-;Sales;terrenos;200000.0;TERRENO 2  NAZARÉ I I;Tapejara;RS;Nazaré;RUA JOÃO MANOEL BERNARDES;;;;336.0;;;
-;Sales;terrenos;200000.0;AMPLO TERRENO;Tapejara;RS;São Cristóvão;;;;;312.5;;;
-;Sales;terrenos;200000.0;VENDE-SE TERRENO NO BAIRRO SAO PAULO;Tapejara;RS;São Paulo;;;;;330.0;;;
-;Sales;terrenos;190000.0;VENDE-SE TERRENO EM TAPEJARA;Tapejara;RS;Centro;AV. VALDO NUNES VIEIRA;;;;424.16;;;
-;Sales;terrenos;190000.0;ÓTIMO TERRENO NO LOTEAMENTO VERGINIA;Tapejara;RS;;Loteamento Virginia;;;;238.78;;;
-;Sales;terrenos;185000.0;TERRENO EM LOCAL ALTO NO LOT. ITÁLIA;Tapejara;RS;Loteamento Itália;;;;;375.0;;;
-;Sales;terrenos;185000.0;ÓTIMO TERRENO À VENDA;Tapejara;RS;;Rua Wilson Afonso Damin;;;;240.0;;;
-;Sales;terrenos;180000.0;VENDE-SE TERRENO NO LOT. COASA;Tapejara;RS;São Paulo;RUA GIOCONDO CANALI;;;;320.0;;;
-;Sales;terrenos;180000.0;VENDE-SE TERRENO NO LOT. BELLA COLINA;Tapejara;RS;Loteamneto Bella Colina;Rua Marieli Andreola Esq. Rua Geronimo Bonora;;;;367.5;;;
-;Sales;terrenos;175000.0;TERRENO NO LOTEAMENTO JARDIM ITÁLIA;Tapejara;RS;;RUA JULIO DE CASTILHOS;;;;336.0;;;
-;Sales;terrenos;168000.0;TERRENO NO LOT. JARDIM ITALIA;Tapejara;RS;Loteamento Jardim Itália;RUA DO COMÉRCIO;;;;300.0;;;
-;Sales;terrenos;168000.0;TERRENO NO LOTEAMENTO DO PARQUE;Tapejara;RS;;RUA MANOEL TEIXEIRA;;;;240.0;;;
-;Sales;terrenos;165000.0;TERRENO LOTEAMENTO COLUSSI;Tapejara;RS;;RUA ANGELO DALZOTTO;;;;225.0;;;
-;Sales;terrenos;160000.0;VENDE-SE TERRENO NO BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;Rua PE Júlio João Marin;;;;672.0;;;
-;Sales;terrenos;155000.0;SITIO PROXIMO A ITALAC;Tapejara;RS;;;;;;1000.0;;;
-;Sales;terrenos;150000.0;TERRENO LOT. BIANCHINI;Tapejara;RS;Loteamento Bianchini;;;;;240.0;;;
-;Sales;terrenos;150000.0;TERRENO NA PERIMETRAL;Tapejara;RS;;;;;;671.65;;;
-;Sales;terrenos;;VENDE-SE TERRENOS NO LOTEAMENTO BELLA COLINA;Tapejara;RS;Lot. Bella Colina;;;;;0.0;;;
-;Sales;terrenos;125000.0;PRONTA PARA USUFRUIR;Tapejara;RS;;;;;;1000.0;;;
-;Sales;terrenos;120000.0;CHÁCARA PRÓXIMA A ITALAC;Tapejara;RS;;;;;;0.0;;;
-;Sales;terrenos;110000.0;TERRENO DE ESQUINA NO LOT. ARAUCÁRIA;Tapejara;RS;São Paulo;RUA LODOVINO ZANCHETA;;;;262.5;;;
-;Sales;terrenos;110000.0;VENDE-SE TERRENO NO LOT. ARAUCÁRIA;Tapejara;RS;Loteamento Araucária 2;Rua Fiorante Fiabani Esq. Rua Ulisses Fruscalso;;;;252.0;;;
-;Sales;terrenos;110000.0;VENDE-SE 05 CHÁCARAS EM CACHOEIRRA MÉDIA;Tapejara;RS;;;;;;1000.0;;;
-;Sales;terrenos;90000.0;VENDE-SE TERRENO NO LOT. ARAUCÁRIA;Tapejara;RS;;;;;;262.5;;;
-;Sales;terrenos;90000.0;SITIO PROXIMO AO RIO CARRETEIRO;Tapejara;RS;;;;;;1200.0;;;
-;Sales;terrenos;85000.0;SITIO EM SÃO DOMINGOS - SANANDUVA/RS;Sananduva;RS;;;;;;1000.0;;;
-;Sales;terrenos;82000.0;TERRENO NO LOTEAMENTO REAL;Tapejara;RS;Loteamento Real;RUA ÂNGELO BERTON;;;;143.0;;;
-;Sales;terrenos;70000.0;TERRENOS NO LOTEAMENTO ZOPPAS;Tapejara;RS;Loteamento Zoppas;;;;;200.0;;;
-;Sales;terrenos;;TERRENO ESQUINA;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS ESQUINA COM RUA ARTUR FERREIRA FILHO;;;;280.0;;;
-;Sales;terrenos;;LOTEAMENTO JARDIM ITÁLIA;Tapejara;RS;;;;;;0.0;;;
-;Sales;terrenos;;R$ 150,00 O M²;Tapejara;RS;Perimetral;;;;;18150.0;;;
-;Sales;terrenos;;ÁREA DE TERRA LINHA SCARIOT;Tapejara;RS;;;;;;0.0;;;
-;Sales;terrenos;;3 TERRENOS PARA VENDA NO LOT. BELLA COLINA;Tapejara;RS;;;;;;825.0;;;
-;Sales;terrenos;;TERRENOS NO LOTEAMENTO BELLA COLINA;Tapejara;RS;Saída Para água Santa;ESTRADA PERIMETRAL,SAÍDA PARA ÁGUA SANTA;;;;360.0;;;
-;Sales;terrenos;;CHÁCARA CARAVÁGIO;Tapejara;RS;Interior;LINHA CARAVÁGIO;;;;0.0;;;
-;Sales;terrenos;;TERRENO COMERCIAL NO CENTRO;Tapejara;RS;Centro;RUA DO COMÉRCIO;;;;1050.0;;;
-;Sales;terrenos;;VENDE-SE CHACÁRAS EM VILA CAMPOS COM MAIS DE 1000M;Tapejara;RS;;Vila Campos;;;;0.0;;;
-;Sales;terrenos;;CHÁCARA EM VILA CAMPOS DE 2000 METROS;Tapejara;RS;;Vila Campos;;;;2000.0;;;
-;Sales;terrenos;;VENDE-SE CHÁCARA EM VILA CAMPOS;Tapejara;RS;;VILA CAMPOS;;;;3000.0;;;
-;Sales;terrenos;;OPORTUNIDADE DE NEGÓCIO EM BALNEÁRIO PIÇARRAS;Tapejara;SC;;;3;;;;;;
-;Sales;terrenos;;VENDE-SE TERRENO NO BAIRRO SÃO CRISTÓVÃO;Tapejara;RS;;RUA DO COMÉRCIO;;;;807.6;;;
-;Sales;terrenos;;VENDE-SE AMPLO TERRENO NO SÃO CRISTÓVÃO;Tapejara;RS;;RUA DO COMÉRCIO;;;;497.55;;;
-;Sales;terrenos;;VENDE-SE TERRENO NO B. SÃO CRISTÓVÃO;Tapejara;RS;;RUA DO COMÉRCIO;;;;302.55;;;
-;Sales;terrenos;;VENDE-SE TERRENO DE ESQUINA NO B. SÃO CRISTÓVÃO;Tapejara;RS;;RUA DO COMÉRCIO;;;;302.55;;;
-;Sales;terrenos;;VENDE-SE TERRENO NA RUA FIORAVANTE RECH;Tapejara;RS;;RUA FIORAVANTE RECH;;;;389.1;;;
-;Sales;terrenos;;VENDE-SE TERRENO NO LOT. SEBBEN;Tapejara;RS;São Paulo;;;;;0.0;;;
-;Sales;terrenos;;VENDE-SE TERRENOS NO LOTEAMENTO MARCON;Tapejara;RS;Centro;;;;;0.0;;;
-;Sales;terrenos;;À VENDA CHÁCARAS NA LINHA MARCHIORI;Tapejara;RS;Linha Marchiori;;;;;0.0;;;
-;Sales;terrenos;;VENDE-SE TERRENO NO PAIOL NOVO;Tapejara;RS;;PAIOL NOVO;;;;30000.0;;;
-;Sales;terrenos;;VENDE-SE ÁREA RURAL NA CACHOEIRA MÉDIA;Tapejara;RS;;CACHOEIRA MÉDIA;;;;0.0;;;
-;Sales;apartamentos;800000.0;APARTAMENTO DE 03 DORMITÓRIOS  NO ED. ATTUALITÁ;Tapejara;RS;Centro;AV. 7 DE SETEMBRO;3;1;2;203.24;169.84;Semi;Alto
-;Sales;apartamentos;800000.0;DUPLEX NO EDIFÍCIO AV. CENTER;Tapejara;RS;;AV 7 DE SETEMBRO;3;1;1;190.0;;Semi;Alto
-;Sales;apartamentos;790000.0;APARTAMENTO NO ED. INNOVARE TORRE LUA;Tapejara;RS;;RUA NOVE DE AGOSTO;2;1;1;112.87;97.04;Semi;Alto
-;Sales;apartamentos;750000.0;APARTAMENTO COBERTURA ED. SOLARE;Tapejara;RS;Centro;AV CORONEL LOLICO;2;1;1;147.4;118.45;Semi;Alto
-;Sales;apartamentos;745000.0;ÓTIMO APARTAMENTO NO EDFÍCIO PREMIER;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS;3;;1;;;Sim;Baixo
-;Sales;apartamentos;700000.0;VENDE-SE APTO NO ED. MENEGAZ;Tapejara;RS;Bairro Centro;RUA DO COMÉRCIO;3;1;1;;121.08;;Médio
-;Sales;apartamentos;650000.0;APARTAMENTO DE 03 DORMITÓRIOS NO CENTRO;Tapejara;RS;Centro;RUA SANTO CANALI;3;1;1;145.54;116.51;Sim;Baixo
-;Sales;apartamentos;650000.0;VENDE-SE APTO NO ED. MUNIQUE;Tapejara;RS;Centro;;3;1;1;;;Semi;Alto
-;Sales;apartamentos;650000.0;VENDE-SE APTO NO ED. MURANO;Tapejara;RS;Centro;AV. ELISEU RECH;2;;;123.33;103.87;;
-;Sales;apartamentos;650000.0;VENDE-SE APARTAMENTO TODO MOBILIADO NO ED. SOLARE;Tapejara;RS;Centro;Rua Cel. Lolico;3;1;1;126.97;100.0;Sim;Alto
-;Sales;apartamentos;640000.0;ÓTIMO APARTAMENTO NO EDIFÍCIO PREMIER;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS;2;;2;;80.0;Semi;Médio
-;Sales;apartamentos;640000.0;APARTAMENTO NOVO NO ED. SÃO FRANCISCO;Tapejara;RS;Centro;RUA CEL. GERVÁSIO;3;1;1;;;;Médio
-;Sales;apartamentos;640000.0;APARTAMENTOS SEMIACABADOS NO ED. SÃO FRANCISCO;Tapejara;RS;Centro;RUA CEL. GERVÁSIO;3;1;1;;;;
-;Sales;apartamentos;630000.0;VENDE-SE APTO NO ED. MURANO;Tapejara;RS;Centro;AV. ELISEU RECH;3;1;;131.56;110.8;;Alto
-;Sales;apartamentos;600000.0;VENDE-SE APTO NO ED. GRAN LUIGI;Tapejara;RS;Centro;RUA DO COMÉRCIO;3;;1;;;;Médio
-;Sales;apartamentos;590000.0;VENDE-SE IMÓVEL EM MEIA PRAIA -SC;Itapema;SC;Meia Praia;RUA 408;2;2;1;;;;
-;Sales;apartamentos;580000.0;APARTAMENTO ED. DOM ALFREDO;Tapejara;RS;Centro;RUA SANTO CANALI;3;1;1;126.52;94.36;;Médio
-;Sales;apartamentos;580000.0;APTOS DE FUNDOS SEMIACABADOS ED. SÃO FRANCISCO;Tapejara;RS;Centro;RUA CEL. GERVÁSIO;3;1;1;;;;
-;Sales;apartamentos;550000.0;VENDE-SE APTO NO ED. MUNIQUE;Tapejara;RS;Centro;RUA CEL. LOLICO;3;;1;;;;
-;Sales;apartamentos;550000.0;VENDE-SE APARTAMENTO NO ED. LAFAYETTE;Tapejara;RS;Centro;Rua do Comércio;2;;1;;;;Médio
-;Sales;apartamentos;530000.0;VENDE-SE APARTAMENTO NO ED. HENRIQUE;Tapejara;RS;São Cristovão;RUA JULIO DE CASTILHOS;2;1;2;;84.25;Semi;Médio
-;Sales;apartamentos;525000.0;VENDE-SE APARTAMENTO NO ED.PROVENCE;Tapejara;RS;;R. Ângelo Dalzotto;2;;2;;;;
-;Sales;apartamentos;520000.0;VENDE-SE APARTAMENTO NO ED.SIENA;Tapejara;RS;Centro;R. Padre Nóbrega;2;;1;;76.0;;
-;Sales;apartamentos;495000.0;COBERTURA DE 02 DORM EDIFÍCIO VITÓRIA;Tapejara;RS;Centro;Rua nove de agosto;2;;1;99.0;83.0;Semi;Alto
-;Sales;apartamentos;460000.0;APTO SEMI-MOBILIADO NO ED. SÃO FRANCISCO;Tapejara;RS;Centro;;2;;1;;;Semi;
-;Sales;apartamentos;400000.0;VENDE-SE APTO NO ED. MONTE BELO;Tapejara;RS;Centro;Rua do Comércio;3;1;1;123.37;113.21;;
-;Sales;apartamentos;400000.0;VENDE-SE APTO NO ED. MONTE BELO (DE FRENTE);Tapejara;RS;Centro;Rua do Comércio;3;1;1;123.37;113.21;;Médio
-;Sales;apartamentos;390000.0;VENDE-SE APTO AO LADO DA PRAÇA CENTRAL;Tapejara;RS;Centro;RUA DO COMÉRCIO;2;1;;113.0;;;Baixo
-;Sales;apartamentos;385000.0;POSICIONADO NA ESQUINA;Tapejara;RS;;LOTEAMENTO BIANCHINI NOVO;2;;1;;;;Baixo
-;Sales;apartamentos;380000.0;APTO NO ED. MONTE BELLO (FUNDOS);Tapejara;RS;Centro;RUA DO COMÉRCIO;3;;1;;;;Alto
-;Sales;apartamentos;380000.0;APTO NO ED. MONTE BELLO (FUNDOS);Tapejara;RS;Centro;RUA DO COMÉRCIO;3;;;;;;Alto
-;Sales;apartamentos;370000.0;APTO DE 02 DORMITÓRIOS ED. VITÓRIA;Tapejara;RS;Centro;NOVE DE AGOSTO;2;;1;82.93;;;Médio
-;Sales;apartamentos;360000.0;APARTAMENTO DE 01 DORMITÓRIO NO ED. PREMIER;Tapejara;RS;Centro;;1;;1;65.76;52.88;;Médio
-;Sales;apartamentos;360000.0;VENDE-SE APARTAMENTO NO ED.VENEZA;Tapejara;RS;Centro;R. Osorio da Silveira;2;;;;79.6;Semi;
-;Sales;apartamentos;350000.0;APARTAMENTO NO ED. SAN MARINO;Tapejara;RS;;RUA DO COMÉRCIO;3;;1;;;;Médio
-;Sales;apartamentos;;APTO SEMI ACABADO EDIFÍCIO PROVENCE;Tapejara;RS;Centro;ANGELO DALZOTTO;3;1;1;152.03;118.43;;Médio
-;Sales;apartamentos;330000.0;VENDE-SE APTO 402 DE ESQUINA NO CINCRIS 3;Tapejara;RS;São Cristovão;Rua Aurélio Sossela;2;;1;;;;Alto
-;Sales;apartamentos;300000.0;APTO DE 02 DORMITÓRIOS - 304;Tapejara;RS;São Cristóvão;RUA VALERIANO UHINI;2;;1;;;;
-;Sales;apartamentos;300000.0;VENDE-SE APTO DE 02 DORMITÓRIOS NO ED. PLÁTANOS;Tapejara;RS;São Cristovão;Rua Valeriano Ughini;2;;1;;;;Médio
-;Sales;apartamentos;290000.0;APTO DE 02 DORMITÓRIOS - 302;Tapejara;RS;São Cristóvão;RUA VALERIANO UHINI;2;;1;;;;
-;Sales;apartamentos;290000.0;APTO DE 02 DORMITÓRIOS - 403;Tapejara;RS;São Cristóvão;RUA VALERIANO UHINI;2;;1;;;;
-;Sales;apartamentos;280000.0;APARTAMENTO ED. SÃO GERALDO;Tapejara;RS;Centro;RUA 9 DEGOSTO;2;;;;;;
-;Sales;apartamentos;270000.0;VENDE-SE APTO NO ED. CINCRIS III;Tapejara;RS;São Cristóvão;RUA AURÉLIO SOSSELA;2;;1;;;;Alto
-;Sales;apartamentos;255000.0;APTO 203 NO ED. CINCRIS 3;Tapejara;RS;São Cristóvão;RUA AURÉLIO SOSSELA;2;;1;;;;
-;Sales;apartamentos;250000.0;VENDE-SE APTO NO ED.VERONA;Tapejara;RS;Centro;RUA ASSIS BRASIL;2;;1;;;;
-;Sales;apartamentos;240000.0;APARTAMENTO NO ED. CINCRIS 3;Tapejara;RS;São Cristovão;Rua;2;;1;78.19;66.54;;
-;Sales;apartamentos;238000.0;A POUCOS METROS DA AV. 7 DE SETEMBRO;Tapejara;RS;São Cristóvão;RUA VALERIANO UGHINI;1;;1;;;;
-;Sales;apartamentos;228000.0;APTO DE 1 DORMITÓRIO - 201;Tapejara;RS;São Cristóvão;RUA VALERIANO UGHINI;1;;1;;;;
-;Sales;apartamentos;220000.0;APARTAMENTO EM PASSO FUNDO;Passo Fundo;RS;;;2;;1;;;;
-;Sales;apartamentos;220000.0;VENDE-SE APTO DE 01 DORMITÓRIO NO CENTRO;Tapejara;RS;Centro;AV. SETE DE SETEMBRO;1;;;;60.0;;Médio
-;Sales;apartamentos;215000.0;APTO DE 01 DORMITÓRIO NO ED. SAN MARINO;Tapejara;RS;Centro;RUA DO COMÉRCIO;1;;;;;;
-;Sales;apartamentos;189000.0;VENDE-SE ÓTIMO APTO NO ED.DORING;Tapejara;RS;Centro;R. do Comércio;1;;;35.0;28.0;;
-;Sales;apartamentos;170000.0;VENDE-SE APTO NO ED. ANA PAULA TODO REFORMADO;Tapejara;RS;São Paulo;Rua Egídio Escatula;2;;1;113.73;62.2;;
-;Sales;apartamentos;170000.0;VENDE-SE APTO NO RES. ANA PAULA EM TAPEJARA RS;Tapejara;RS;São Paulo;RUA EGÍDIO SCATOLA;2;;1;96.09;50.2;;Baixo
-;Sales;apartamentos;170000.0;APARTAMENTO CONDOMÍNIO IZIDORO DANIELI;Tapejara;RS;Izidoro Danieli;;2;;1;;;Semi;Baixo
-;Sales;apartamentos;155000.0;VENDE-SE APARTAMENTO NO IZIDORO DANIELI;Tapejara;RS;;;2;;;;;;
-;Sales;apartamentos;;APARTAMENTOS EDIFICIO PREMIER;Tapejara;RS;;Rua Júlio de Castilhos;1;;;;;;
-;Sales;apartamentos;;APTO MODERNO NO PROVENCE RESIDENCIAL;Tapejara;RS;Centro;RUA PADRE NOBREGA;2;1;2;103.73;80.66;;
-;Sales;apartamentos;;RESIDENCIAL MONPANAI EM FRENTE A PRACINHA;Tapejara;RS;;AV. ELISEU RECH;3;1;;;;;
-;Sales;apartamentos;;VENDE-SE APARTAMENTOS NA PLANTA.;Porto Belo;SC;Centro;RUA SÃO JOSÉ PETERMANN;3;3;2;;;;
-;Sales;apartamentos;;OPORTUNIDADE DE NEGÓCIO EM BALNEÁRIO PIÇARRAS;Tapejara;SC;;;3;;;;;;
-;Sales;apartamentos;;VENDE-SE APTOS. NO ED CONTEMPORÂNEO;Tapejara;RS;Centro;AV SETE DE SETEMBRO;2;;;;;;
-;Sales;apartamentos;;CASA GERMINADA DE ALTO PADRÃO;Tapejara;RS;Lot. Bianchini;;3;1;1;;;;
-;Sales;apartamentos;;VENDE-SE APTO EM PORTO BELLO-SC;Porto Belo;SC;Alto Pereque;Rua João Carlos Abraham;3;1;1;198.0;105.0;;
-;Sales;apartamentos;;LÁ GRÁCIA RESIDENCE;Porto Belo;SC;Alto Pereque;R. NEREU RAMOS;3;2;1;;;;JULHO/2026
-;Sales;apartamentos;;ED. AIPÊ NO CENTRO DE TAPEJARA;Tapejara;RS;Centro;Rua 15 de Novembro;2;1;1;;;;
-;Sales;apartamentos;;APTOS PARA VENDA NO RES. MONET;Tapejara;RS;Centro;Rua do Comércio;2;1;1;;;;
-;Sales;comercial;1500000.0;CASA EM IBIAÇA;Ibiaca;RS;Centro;;3;;;344.64;;;
-;Sales;comercial;965000.0;VENDE-SE SALA COMERCIAL DUPLEX;Tapejara;RS;;Rua Leorindo Cavichioli;;;;;114.59;;
-;Sales;comercial;950000.0;PAVILHÃO 500M2;Tapejara;RS;Centro;;;;;490.7;;;
-;Sales;comercial;900000.0;SALA COMERCIAL NA FRENTE DO MERCADO CENTRAL;Tapejara;RS;Centro;Rua do Comércio;;;;30.7;;;
-;Sales;comercial;585000.0;VENDE-SE SALA COMERCIAL NA RUA DO COMÉRCIO;Tapejara;RS;Centro;Rua do Comércio;;;;82.0;;;
-;Sales;comercial;290000.0;SALA COMERCIAL NO ED CINCRIS 5;Tapejara;RS;;RUA VALERIANO UGHINI;;;;;;;
-;Sales;comercial;155000.0;VENDE-SE SALA COMERCIAL;Tapejara;RS;Centro;Rua cel lolico;;;;3472.98;2748.5;;
-;Sales;comercial;110000.0;SALA COMERCIAL NO ED. PROFISSIONAL CENTER;Tapejara;RS;Centro;RUA DO COMÉRCIO;;;;;;;
-;Sales;comercial;;SALAS COMERCIAIS ED. CONTEMPORANEO;Tapejara;RS;Centro;AV 7 DE SETEMBRO;;;;;;;
-;Sales;comercial;;CASA DE 02 PISOS COM PAVILHÃO;Tapejara;RS;Centro;RUA CEL GERVASIO;3;;;698.85;;;
-;Sales;comercial;;VENDE-SE VARIAS SALAS COMERCIAIS PRÓXIMAS A PRAÇA;Tapejara;RS;Centro;;;;;;;;
-;Sales;comercial;;07 SALAS PARA VENDA NO ED. CONTEMPORÂNEO.;Tapejara;RS;Centro;Av.07 de Setembro;;;;;;;
-;Sales;comercial;;ED. AIPÊ NO CENTRO DE TAPEJARA;Tapejara;RS;Centro;Rua 15 de Novembro;2;1;1;;;;
-;Rents;comercial;6500.0;SALA COMERCIAL NO ED. ASTECA;Tapejara;RS;;Rua do Comércio;;;;;;;
-;Rents;comercial;6000.0;ALUGA-SE ÓTIMO PAVILHÃO;Tapejara;RS;;Av. SETE DE SETEMBRO;;;;;;;
-;Rents;comercial;3600.0;PAVILHÃO NA RUA SANTO CANALI;Tapejara;RS;Centro;RUA SANTO CANALI;;;1;850.0;;;
-;Rents;comercial;2600.0;ALUGA-SE CASA NA FRENTE DA PRAÇA CENTRAL;Tapejara;RS;Centro;R. Júlio de Castilhos;;;;;;;
-;Rents;comercial;2500.0;SALA COMERCIAL AO LADO DO SAÚDE CENTER;Tapejara;RS;Centro;RUA TRANQUILO BASSO;;;;73.0;;;
-;Rents;comercial;2500.0;ALUGA-SE SALA COMERCIAL;Tapejara;RS;Centro;Rua Tranquilo Basso;;;1;;;;Baixo
-;Rents;comercial;2200.0;ALUGA-SE CLINICA ODONTOLÓGICA;Tapejara;RS;Centro;RUA CORONEL LOLICO;;;;;53.0;;Baixo
-;Rents;comercial;2160.0;ALUGA-SE SALA COMERCIAL;Tapejara;RS;Lot. Bianchini;Rua Pedro Rebeschini;;;;160.0;;;
-;Rents;comercial;2000.0;PAVILHÃO AO LADO DA  AGROMILK;Tapejara;RS;;RUA OSÓRIO DA SILVEIRA;;;;160.0;;;
-;Rents;comercial;1900.0;SALA COMERCIAL NO ED. MERIDIONAL;Tapejara;RS;;RUA XV DE NOVEMBRO;;;;;120.0;;
-;Rents;comercial;1500.0;SALA COMERCIAL PRÓXIMA AO GRILO;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS;;;;;;;
-;Rents;comercial;1400.0;ALUGA-SE SALA COMERCIAL;Tapejara;RS;Centro;Av. Eliseu Rech;;;;;;;
-;Rents;comercial;1300.0;ALUGA-SE ÓTIMA SALA COMERCIAL;Tapejara;RS;Centro;R. Valeriano Ughini;;;;;;;
-;Rents;comercial;1200.0;SALA AÉREA NO ED. MERIDIONAL;Tapejara;RS;;RUA DO COMÉRCIO;;;;;80.0;;
-;Rents;comercial;790.0;SALA COMERCIAL NO ED PROFISSIONAL CENTER;Tapejara;RS;;RUA DO COMÉRCIO;;;;;22.0;;Médio
-;Rents;comercial;790.0;SALA COMERCIAL NO ED. PROFISSIONAL CENTER;Tapejara;RS;Centro;RUA DO COMÉRCIO;;;;;;;
-;Rents;casas;1350.0;ALUGA-SE CASA CENTRAL FRENTE COM BIBLIOTECA;Tapejara;RS;Centro;R. Cel. Gervásio;3;;;;;;
-;Rents;casas;1000.0;ALUGA-SE PARTE SUPERIOR;Tapejara;RS;;R. Manoel Teixeira;3;;;;;;
-;Rents;casas;;ALUGA-SE ÓTIMA CASA;Tapejara;RS;São Paulo;R. Amélia da Silva;2;;1;;;;
-;Rents;apartamentos;2600.0;ALUGA-SE APARTAMENTO COBERTURA NO ED.SOLARE;Tapejara;RS;Centro;Av coronel lolico;3;1;1;;;;
-;Rents;apartamentos;2500.0;ALUGA-SE ÓTIMO APARTAMENTO NO ED.NOBLESSE;Tapejara;RS;Centro;RUA INDEPENDENCIA,710;3;1;2;;;Semi;Alto
-;Rents;apartamentos;1700.0;ALUGA-SE ÓTIMO APARTAMENTO NO ED. MURANO;Tapejara;RS;;Av. Eliseu Rech;2;;;;;;
-;Rents;apartamentos;1450.0;ALUGA-SE ÓTIMO APTO NO ED.SITTA;Tapejara;RS;Centro;R. do Comércio;2;;;;;;
-;Rents;apartamentos;1300.0;ALUGA-SE APTO ED.PANORÂMICO;Tapejara;RS;;Av. Valdo Nunes Viêira;1;;1;;;Sim;
-;Rents;apartamentos;1100.0;ALUGA-SE ÓTIMO APARTAMENTO NO ED.MILANO;Tapejara;RS;;21 de abril;2;;;;;;
-;Rents;apartamentos;1000.0;PORÃO NO CENTRO;Tapejara;RS;Centro;Rua XV de Novembro;2;;1;;;;Baixo
-;Rents;apartamentos;900.0;ALUGA-SE ÓTIMO APARTAMENTO NO ED.IZIDORO DANIELI;Tapejara;RS;;izidoro danieli;2;;;;;;
-;Rents;apartamentos;750.0;ALUGA-SE APARTAMENTO NO ED.IZIDORO DANIELI;Tapejara;RS;;Condominio Izidoro Danieli;2;;;;;;
-;Rents;apartamentos;700.0;ALUGA-SE ÓTIMO APARTAMENTO;Tapejara;RS;;;1;;;;;;
-;Rents;apartamentos;700.0;QUITINETE NO ED. CINCRIS 6 AP-602;Tapejara;RS;;RUA VALERIANO UGHINI;1;;;;;;
-;Rents;apartamentos;700.0;QUITINETE NO ED. CINCRIS 6 AP-502;Tapejara;RS;;RUA VALERIANO UGHINI;1;;;;;;
-conceitoimoveistapejara;;;1500000.0;CASA EM IBIAÇA;Ibiaca;RS;Centro;;3;;;344.64;;;
-conceitoimoveistapejara;;;1400000.0;CASA GRANDE;Tapejara;RS;Centro;RUA EUGENIO FELINI;4;1;2;840.0;;Semi;
-conceitoimoveistapejara;;;1000000.0;VENDE-SE CASA DE ESQUINA NO CENTRO;Tapejara;RS;Centro;Rua do Comércio Esqu. Manoel Teixeira;3;;2;;;;Baixo
-conceitoimoveistapejara;;;998000.0;VENDE-SE ÓTIMA CASA  DE ALVENARIA;Tapejara;RS;Centro;rua independencia;4;1;2;419.0;;;
-conceitoimoveistapejara;;;980000.0;CASA COM 03 PAVIMENTOS NO LOTEAMENTO COLUSSI;Tapejara;RS;;RUA CEL. LOLICO;3;1;2;;;;
-conceitoimoveistapejara;;;900000.0;LOTEAMENTO BIANCHINI NO BAIRRO SÃO PAULO;Tapejara;RS;;RUA CARINO CANALI;5;;3;412.5;;;
-conceitoimoveistapejara;;;890000.0;CASA DE ESQUINA NA VILA RICA;Tapejara;RS;Sol Nascente;Rua DR. Celso Domingues;3;;2;480.0;;;
-conceitoimoveistapejara;;;890000.0;CASA SEMI-ACABADA A VENDA NO LOT. JARDIM ITÁLIA;Tapejara;RS;Loteamento Jardim Itália;;3;1;2;375.0;;;
-conceitoimoveistapejara;;;830000.0;TERRENO COM DUAS CASAS NO BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;TRAVESSA MARSIGLIO;3;;;400.0;;;
-conceitoimoveistapejara;;;760000.0;VENDE-SE CASA NO BAIRRO SÃO CRISTÓVÃO;Tapejara;RS;São Cristovão;Rua Antônio Marchiori;3;;3;630.15;;;
-conceitoimoveistapejara;;;750000.0;VENDE-SE CASA EM BAIRRO NOBRE DE TAPEJARA;Tapejara;RS;Sol Nascente;RUA SILVA JARDIM;3;;2;;;;
-conceitoimoveistapejara;;;750000.0;CASA PRÓXIMA AO CENTRO;Tapejara;RS;Centro;Rua Tranquilo Basso;3;;2;400.0;;Semi;
-conceitoimoveistapejara;;;750000.0;VENDE-SE CASA COM ÓTIMA LOCALIZAÇÃO;Tapejara;RS;Nazaré;RUA MANOEL TEIXEIRA;3;;1;;;Semi;
-conceitoimoveistapejara;;;730000.0;CASA AMPLA BAIRRO NAZARÉ;Tapejara;RS;Nazaré;RUA TUPINAMBA;4;1;2;350.0;;Semi;
-conceitoimoveistapejara;;;700000.0;CASA VILA RICA;Tapejara;RS;Centro;RUA FREDOLINO CHIMANGO;3;1;2;;;;
-conceitoimoveistapejara;;;700000.0;VENDE-SE CASA NA VILA RICA;Tapejara;RS;Vila Rica;RUA SILVA JARDIM;3;;1;453.29;;Semi;
-conceitoimoveistapejara;;;700000.0;VENDE-SE CASA GRANDE COM 2 PISOS;Tapejara;RS;Centro;RUA ANTONIO XAVIER;5;;1;643.5;;;
-conceitoimoveistapejara;;;690000.0;CASA 03 DORM LOT BIANCHINI;Tapejara;RS;Lot Bianchini;rua do comércio;3;;;242.0;;;
-conceitoimoveistapejara;;;689000.0;VENDE-SE CASA PRÓXIMA AO HOSPITAL;Tapejara;RS;Centro;;3;;2;148.0;;Semi;
-conceitoimoveistapejara;;;680000.0;CASA AMPLA LOT. ZOPPAS;Tapejara;RS;Loteamento Zoppas;RUA SD;4;4;2;600.0;;;
-conceitoimoveistapejara;;;680000.0;VENDE-SE CASA PRÓXIMA AO 2º GRAU;Tapejara;RS;Centro;Rua Tranquilo Basso;5;;1;560.0;;;
-conceitoimoveistapejara;;;650000.0;CASA MISTA COM 03 DORMITÓRIOS;Tapejara;RS;São Paulo;RUA DO COMÉRCIO;3;;1;624.0;;;
-conceitoimoveistapejara;;;620000.0;VENDE-SE CASA DE 2 PISOS EM ESQUINA NO LOT. DAMIN;Tapejara;RS;São Cristovão;;3;;2;225.0;;;
-conceitoimoveistapejara;;;600000.0;CASA COM MOBÍLIA NO LOT NAZARÉ;Tapejara;RS;Nazaré;;4;;1;356.99;;;
-conceitoimoveistapejara;;;600000.0;VENDE-SE CASA NO SÃO CRISTÓVÃO;Tapejara;RS;;;4;;2;;;;
-conceitoimoveistapejara;;;590000.0;CASA DE ESQUINA COM AMPLO TERRENO;Tapejara;RS;;RUA OSWALDO CRUZ;5;;2;500.0;;;
-conceitoimoveistapejara;;;480000.0;VENDE-SE CASA NO BAIRRO REAL II;Tapejara;RS;Loteamento Real;RUA ANTONIO MANICA;3;;1;;;;
-conceitoimoveistapejara;;;430000.0;TERRENO COM 02 CASAS MISTAS;Tapejara;RS;;PAULINO FERMINO DA SILVA;2;;;240.0;;;
-conceitoimoveistapejara;;;430000.0;VENDE-SE CASA EM ALVENARIA NO SOL POENTE;Tapejara;RS;Sol Poente;Rua João Bertoglio;5;;;200.0;;;
-conceitoimoveistapejara;;;420000.0;CASA A VENDA NO BAIRRO NAZARÉ;Tapejara;RS;Nazaré;RUA JOÃO MANOEL BERNARDES;2;;2;162.5;;;
-conceitoimoveistapejara;;;400000.0;CASA NO LOTEAMENTO FAVARETTO;Tapejara;RS;;RUA ISACO CALEGARI;2;;1;130.2;;;
-conceitoimoveistapejara;;;390000.0;VENDE-SE ÓTIMA CASA DE MADEIRA;Tapejara;RS;;R. Primeiro de Maio;2;;;369.2;;Sim;
-conceitoimoveistapejara;;;380000.0;CASA DE 2 PAVIMENTOS LOT. REAL 2;Tapejara;RS;Real Ii;Rua Ivonete Baroni;3;1;3;;;;
-conceitoimoveistapejara;;;370000.0;CASA 04 DORMITÓRIOS;Tapejara;RS;São Paulo;Rua Padre Raimundo Damin;4;;3;;;;
-conceitoimoveistapejara;;;370000.0;CASA DE 2 PAVIMENTOS - BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;Rua Padre Raimundo Damin;3;;2;;;;
-conceitoimoveistapejara;;;370000.0;CASA EM CONSTRUÇÃO COM FINALIZAÇÃO EM BREVE;Tapejara;RS;Lot. Araucária;Rua Paolo Merotto;2;;2;252.0;;;
-conceitoimoveistapejara;;;370000.0;VENDE-SE CASA GERMINADA EM TAPEJARA ESQUINA;Tapejara;RS;São Paulo - Coohasa 01;;2;;1;;;;
-conceitoimoveistapejara;;;370000.0;À VENDA CASA NO BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;RUA JOÃO XXIII;3;;2;198.0;;;Baixo
-conceitoimoveistapejara;;;350000.0;VENDE-SE CASA MOBILIADA;Tapejara;RS;;Linha Girardi;2;;;1000.0;;Sim;
-conceitoimoveistapejara;;;320000.0;VENDE-SE CASA NO LOT. CASA NOVA;Tapejara;RS;;;2;;1;200.0;;;
-conceitoimoveistapejara;;;290000.0;VENDE-SE CASA;Tapejara;RS;;Rua Coronel Gervásio e Arthur Ferraro Filho;2;;1;;;;
-conceitoimoveistapejara;;;280000.0;VENDE-SE ÓTIMA CASA NO BAIRRO NAZARÉ;Tapejara;RS;Nazaré;Rua Valeriano uguini;2;;1;187.5;;;
-conceitoimoveistapejara;;;250000.0;VENDE-SE ÓTIMA CASA NO BAIRRO SÃO CRISTOVÃO;Tapejara;RS;São Cristovão;Rua Fioravente Rech;2;;2;145.0;;;
-conceitoimoveistapejara;;;230000.0;CASA MISTA EM COXILHA;Coxilha;RS;Centro;RUA ITALINO SARTORI;3;;;;;;
-conceitoimoveistapejara;;;200000.0;CASA DE ALVENARIA EM COXILHA;Coxilha;RS;Centro;RUA ITALINO SARTORI;3;;;;;;
-conceitoimoveistapejara;;;189000.0;CASA DE ESQUINA;Tapejara;RS;;RUA IVANETE BARONI;3;1;1;;;;
-conceitoimoveistapejara;;;187000.0;CASA DE MADEIRA NO LOT. BIANCHINI;Tapejara;RS;São Paulo;LOTEAMENTO BIANCHINI;3;;;339.56;;;
-conceitoimoveistapejara;;;180000.0;CASA ACONCHEGANTE EM SERVIDÃO;Tapejara;RS;Centro;RUA TRANQUILO BASSO;2;;1;;;;
-conceitoimoveistapejara;;;175000.0;VENDE-SE CASA NO LOT. BORGES EM TAPEJARA;Tapejara;RS;;;3;;1;;;;
-conceitoimoveistapejara;;;160000.0;CASA DE 03 DORMITÓRIOS NO BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;RUA LOURENÇO DALLOLIVO;3;;1;180.0;;;
-conceitoimoveistapejara;;;;CASA DE ESQUINA REAL 02;Tapejara;RS;Real 02;RUA SERGIO NARDI;3;;1;130.0;;Semi;
-conceitoimoveistapejara;;;;CASA NOVA COM FINO ACABAMENTO;Tapejara;RS;Centro;RUA ANTONIO XAVIER DE OLIVEIRA;3;3;1;250.0;;;Baixo
-conceitoimoveistapejara;;;;CASA DE 02 PISOS COM PAVILHÃO;Tapejara;RS;Centro;RUA CEL GERVASIO;3;;;698.85;;;
-conceitoimoveistapejara;;;;CASA SEMI MOBILIADA PRÓXIMA AO MERCADO REAL;Tapejara;RS;Loteamento Real;Rua ANGELO BERTON;2;;1;204.16;;;
-conceitoimoveistapejara;;;;ÓTIMA CASA MOBILIADA EM BARRACÃO;Barracao;RS;Conceição;RUA ANIBAL JOSÉ DE PAULA;2;;1;300.0;;Sim;
-conceitoimoveistapejara;;;;CASA EM ALVENARIA COM TERRENO;Tapejara;RS;São Cristóvão;RUA ERVILHO BAPTISTA BÉ;2;;;243.0;;;
-conceitoimoveistapejara;;;;CASA DE MORADIA EM ALVENARIA;Tapejara;RS;São Cristóvão;SD-01;3;;;300.0;;;
-conceitoimoveistapejara;;;;CASA DE 02 DORMITÓRIOS;Tapejara;RS;São Paulo;ALBERTO PASQUALINI;2;;2;231.0;;;
-conceitoimoveistapejara;;;;VENDE-SE CASA;Tapejara;RS;Centro;Rua Borges de medeiros;4;1;1;;;;
-conceitoimoveistapejara;;;2600000.0;VENDE-SE ÁREA DE TERRA PRÓXIMA A CAPÃO DE MATO;Agua Santa;RS;;;;;;90918.0;;;
-conceitoimoveistapejara;;;1790000.0;VENDE-SE 04 AVIÁRIOS COM ÓTIMO RETORNO FINANCEIRO;Tapejara;RS;;;;;;27000.0;;;
-conceitoimoveistapejara;;;1600000.0;TERRENO NO CENTRO PRÓXIMO A PRAÇA CENTRAL;Tapejara;RS;Centro;RUA JÚLIO DE CASTILHOS;;;;748.0;;;
-conceitoimoveistapejara;;;1600000.0;VENDE-SE AMPLO TERRENO EM VACARIA;Vacaria;RS;Centro;Av. Samuel Guazzelll;;;;3457.0;;;
-conceitoimoveistapejara;;;1479000.0;VENDE-SE  ÁREA RURAL DE 87 HECTARES - SÃO SEPÉ;Sao Sepe;RS;;;;;;870000.0;;;
-conceitoimoveistapejara;;;1394000.0;VENDE-SE AMPLO TERRENO NO CENTRO DA CIDADE;Tapejara;RS;Centro;AV. VALDO NUNES VIEIRA;;;;100.0;;;
-conceitoimoveistapejara;;;1100000.0;ÁREA DE TERRA EM CHARRUA;Charrua;RS;;LOCALIDADE SÃO ROQUE;;;;229000.0;;;
-conceitoimoveistapejara;;;850000.0;ÁREA DE TERRA EM CHARRUA;Charrua;RS;Interior;COMUNIDADE DE SÃO ROQUE;;;;0.0;;;
-conceitoimoveistapejara;;;799000.0;VENDE-SE TERRENO NA PERIMETRAL;Tapejara;RS;;;;;;6015.21;;;
-conceitoimoveistapejara;;;740000.0;ÁREA DE 6 HECTARES NO PAIOL NOVO;Tapejara;RS;Interior;PAIOL NOVO;;;;60000.0;;;
-conceitoimoveistapejara;;;580000.0;ÁREA DE TERRA COM MATRÍCULA PRÓXIMA A LOTEAMENTO;Tapejara;RS;;ESTRADA SAÍDA PARA ÁGUA SANTA;;;;2700.0;;;
-conceitoimoveistapejara;;;550000.0;TERRENO ESQUINA NO CENTRO;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS ESQ COM AV VALDO NUNES VIEIRA;;;;300.0;;;
-conceitoimoveistapejara;;;525000.0;ÓTIMO TERRENO DE ESQUINA NO LOTEAMENTO MÂNICA;Tapejara;RS;;R. Dr. Célso Domingues;;;;525.17;;;
-conceitoimoveistapejara;;;520000.0;TERRENO DE FRENTE PARA AV. SETE DE SETEMBRO;Tapejara;RS;São Paulo;AV. SETE DE SETEMBRO;;;;500.0;;;
-conceitoimoveistapejara;;;500000.0;ÁREA DE TERRA EM SÃO ROQUE EM CHARRUA;Charrua;RS;Comunidade De Interior;SÃO ROQUE;;;;0.0;;;
-conceitoimoveistapejara;;;490000.0;ÓTIMO TERRENO DE ESQUINA COM PAVILHÃO;Tapejara;RS;São Paulo;ESQUINA DA RUA JOÃO XXIII COM A RUA JOÃO MARIN;;;;661.4;;;
-conceitoimoveistapejara;;;490000.0;CHÁCARA EM CACHOEIRRA MÉDIA;Charrua;RS;Comunidade;CACHOEIRRA MÉDIA;;;;11336.92;;;
-conceitoimoveistapejara;;;490000.0;VENDE-SE CHÁCARA EM VILA CAMPOS;Tapejara;RS;;;;;;2700.0;;;
-conceitoimoveistapejara;;;480000.0;VENDE-SE CHÁCARA NO ALTOS DO FUNIL;Tapejara;RS;Loteamento Altos Do Funil;;;;;3000.0;;;
-conceitoimoveistapejara;;;450000.0;TERRENO COMERCIAL;Tapejara;RS;Centro;LOT. BASEGGIO;;;;1325.68;;;
-conceitoimoveistapejara;;;450000.0;ÓTIMO TERRENO NA VILA RICA;Tapejara;RS;Sol Nascente;RUA SILVA JARDIM;;;;515.9;;;
-conceitoimoveistapejara;;;450000.0;TERRENO EM PASSO FUNDO;Passo Fundo;RS;São José;Rua Cruz e Souza;;;;1100.0;;;
-conceitoimoveistapejara;;;420000.0;TERRENO ESQUINA NO LOT. MANICA;Tapejara;RS;Loteamento Manica;RUA MANOEL TEIXEIRA COM A SANTOS DOMINGUES;;;;531.47;;;
-conceitoimoveistapejara;;;400000.0;EXCELENTE CHÁCARA EM SÃO BRÁS;Tapejara;RS;São Brás;;;;;1425.0;;;
-conceitoimoveistapejara;;;375000.0;ÁREA DE TERRA NA DIVISA DE TAPEJARA E IBIAÇA;Ibiaca;RS;;ERS 467;;;;0.0;;;
-conceitoimoveistapejara;;;340000.0;TERRENO DE ESQUINA NA VILA RICA;Tapejara;RS;;VILA RICA 2;;;;383.27;;;
-conceitoimoveistapejara;;;340000.0;VENDE-SE IMÓVEL NO LOT. COLUSSI;Tapejara;RS;Loteamento Colussi;Rua Ângelo Dalzotto;;;;577.31;;;
-conceitoimoveistapejara;;;320000.0;TERRENO NA VILA RICA 4;Tapejara;RS;;;;;;325.0;;;
-conceitoimoveistapejara;;;250000.0;CHÁCARA EM VILA CAMPOS;Tapejara;RS;;VILA CAMPOS;;;;1000.0;;;
-conceitoimoveistapejara;;;250000.0;ÁREA DE RESERVA E PRÓPRIO PARA CHÁCARAS;Tapejara;RS;;;;;;42000.0;;;
-conceitoimoveistapejara;;;240000.0;TERRENOS NO LOTEAMENTO COMIRAN;Tapejara;RS;;Av. Dom Pedro II;;;;0.0;;;
-conceitoimoveistapejara;;;240000.0;CHACARA COM CASA E PISCINA NA LINHA CARAVAGIO;Tapejara;RS;;LINHA CARAVAGIO;;;;660.0;;;
-conceitoimoveistapejara;;;235000.0;VENDE-SE ÓTIMA CHÁCARA EM VILA CAMPOS;Tapejara;RS;;Vila Campos;;;;1284.0;;;
-conceitoimoveistapejara;;;230000.0;ÓTIMO TERRENO NO LOTEAMENTO COLUSSI;Tapejara;RS;Centro;RUA SD,LOTEAMENTO COLUSSI;;;;0.0;;;
-conceitoimoveistapejara;;;215000.0;VENDE-SE TERRENO NO SOL POENTE;Tapejara;RS;Sol Poente;Rua Ãngelo Dalzotto;;;;357.6;;;
-conceitoimoveistapejara;;;210000.0;VENDE-SE TERRENO - CENTRO DE QUADRA;Tapejara;RS;São Cristóvão;RUA JÚLIO DE CASTILHOS;;;;650.0;;;
-conceitoimoveistapejara;;;205000.0;VENDE-SE TERRENO NO LOT. JARDIM ITÁLIA;Tapejara;RS;Lot. Jardim Itália;RUA JÚLIO DE CASTILHOS;;;;336.0;;;
-conceitoimoveistapejara;;;200000.0;TERRENO 1  NAZARÉ I I;Tapejara;RS;Nazaré;RUA JOÃO MANOEL BERNARDES;;;;336.0;;;
-conceitoimoveistapejara;;;200000.0;TERRENO 2  NAZARÉ I I;Tapejara;RS;Nazaré;RUA JOÃO MANOEL BERNARDES;;;;336.0;;;
-conceitoimoveistapejara;;;200000.0;AMPLO TERRENO;Tapejara;RS;São Cristóvão;;;;;312.5;;;
-conceitoimoveistapejara;;;200000.0;VENDE-SE TERRENO NO BAIRRO SAO PAULO;Tapejara;RS;São Paulo;;;;;330.0;;;
-conceitoimoveistapejara;;;190000.0;VENDE-SE TERRENO EM TAPEJARA;Tapejara;RS;Centro;AV. VALDO NUNES VIEIRA;;;;424.16;;;
-conceitoimoveistapejara;;;190000.0;ÓTIMO TERRENO NO LOTEAMENTO VERGINIA;Tapejara;RS;;Loteamento Virginia;;;;238.78;;;
-conceitoimoveistapejara;;;185000.0;TERRENO EM LOCAL ALTO NO LOT. ITÁLIA;Tapejara;RS;Loteamento Itália;;;;;375.0;;;
-conceitoimoveistapejara;;;185000.0;ÓTIMO TERRENO À VENDA;Tapejara;RS;;Rua Wilson Afonso Damin;;;;240.0;;;
-conceitoimoveistapejara;;;180000.0;VENDE-SE TERRENO NO LOT. COASA;Tapejara;RS;São Paulo;RUA GIOCONDO CANALI;;;;320.0;;;
-conceitoimoveistapejara;;;180000.0;VENDE-SE TERRENO NO LOT. BELLA COLINA;Tapejara;RS;Loteamneto Bella Colina;Rua Marieli Andreola Esq. Rua Geronimo Bonora;;;;367.5;;;
-conceitoimoveistapejara;;;175000.0;TERRENO NO LOTEAMENTO JARDIM ITÁLIA;Tapejara;RS;;RUA JULIO DE CASTILHOS;;;;336.0;;;
-conceitoimoveistapejara;;;168000.0;TERRENO NO LOT. JARDIM ITALIA;Tapejara;RS;Loteamento Jardim Itália;RUA DO COMÉRCIO;;;;300.0;;;
-conceitoimoveistapejara;;;168000.0;TERRENO NO LOTEAMENTO DO PARQUE;Tapejara;RS;;RUA MANOEL TEIXEIRA;;;;240.0;;;
-conceitoimoveistapejara;;;165000.0;TERRENO LOTEAMENTO COLUSSI;Tapejara;RS;;RUA ANGELO DALZOTTO;;;;225.0;;;
-conceitoimoveistapejara;;;160000.0;VENDE-SE TERRENO NO BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;Rua PE Júlio João Marin;;;;672.0;;;
-conceitoimoveistapejara;;;155000.0;SITIO PROXIMO A ITALAC;Tapejara;RS;;;;;;1000.0;;;
-conceitoimoveistapejara;;;150000.0;TERRENO LOT. BIANCHINI;Tapejara;RS;Loteamento Bianchini;;;;;240.0;;;
-conceitoimoveistapejara;;;150000.0;TERRENO NA PERIMETRAL;Tapejara;RS;;;;;;671.65;;;
-conceitoimoveistapejara;;;;VENDE-SE TERRENOS NO LOTEAMENTO BELLA COLINA;Tapejara;RS;Lot. Bella Colina;;;;;0.0;;;
-conceitoimoveistapejara;;;125000.0;PRONTA PARA USUFRUIR;Tapejara;RS;;;;;;1000.0;;;
-conceitoimoveistapejara;;;120000.0;CHÁCARA PRÓXIMA A ITALAC;Tapejara;RS;;;;;;0.0;;;
-conceitoimoveistapejara;;;110000.0;TERRENO DE ESQUINA NO LOT. ARAUCÁRIA;Tapejara;RS;São Paulo;RUA LODOVINO ZANCHETA;;;;262.5;;;
-conceitoimoveistapejara;;;110000.0;VENDE-SE TERRENO NO LOT. ARAUCÁRIA;Tapejara;RS;Loteamento Araucária 2;Rua Fiorante Fiabani Esq. Rua Ulisses Fruscalso;;;;252.0;;;
-conceitoimoveistapejara;;;110000.0;VENDE-SE 05 CHÁCARAS EM CACHOEIRRA MÉDIA;Tapejara;RS;;;;;;1000.0;;;
-conceitoimoveistapejara;;;90000.0;VENDE-SE TERRENO NO LOT. ARAUCÁRIA;Tapejara;RS;;;;;;262.5;;;
-conceitoimoveistapejara;;;90000.0;SITIO PROXIMO AO RIO CARRETEIRO;Tapejara;RS;;;;;;1200.0;;;
-conceitoimoveistapejara;;;85000.0;SITIO EM SÃO DOMINGOS - SANANDUVA/RS;Sananduva;RS;;;;;;1000.0;;;
-conceitoimoveistapejara;;;82000.0;TERRENO NO LOTEAMENTO REAL;Tapejara;RS;Loteamento Real;RUA ÂNGELO BERTON;;;;143.0;;;
-conceitoimoveistapejara;;;70000.0;TERRENOS NO LOTEAMENTO ZOPPAS;Tapejara;RS;Loteamento Zoppas;;;;;200.0;;;
-conceitoimoveistapejara;;;;TERRENO ESQUINA;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS ESQUINA COM RUA ARTUR FERREIRA FILHO;;;;280.0;;;
-conceitoimoveistapejara;;;;LOTEAMENTO JARDIM ITÁLIA;Tapejara;RS;;;;;;0.0;;;
-conceitoimoveistapejara;;;;R$ 150,00 O M²;Tapejara;RS;Perimetral;;;;;18150.0;;;
-conceitoimoveistapejara;;;;ÁREA DE TERRA LINHA SCARIOT;Tapejara;RS;;;;;;0.0;;;
-conceitoimoveistapejara;;;;3 TERRENOS PARA VENDA NO LOT. BELLA COLINA;Tapejara;RS;;;;;;825.0;;;
-conceitoimoveistapejara;;;;TERRENOS NO LOTEAMENTO BELLA COLINA;Tapejara;RS;Saída Para água Santa;ESTRADA PERIMETRAL,SAÍDA PARA ÁGUA SANTA;;;;360.0;;;
-conceitoimoveistapejara;;;;CHÁCARA CARAVÁGIO;Tapejara;RS;Interior;LINHA CARAVÁGIO;;;;0.0;;;
-conceitoimoveistapejara;;;;TERRENO COMERCIAL NO CENTRO;Tapejara;RS;Centro;RUA DO COMÉRCIO;;;;1050.0;;;
-conceitoimoveistapejara;;;;VENDE-SE CHACÁRAS EM VILA CAMPOS COM MAIS DE 1000M;Tapejara;RS;;Vila Campos;;;;0.0;;;
-conceitoimoveistapejara;;;;CHÁCARA EM VILA CAMPOS DE 2000 METROS;Tapejara;RS;;Vila Campos;;;;2000.0;;;
-conceitoimoveistapejara;;;;VENDE-SE CHÁCARA EM VILA CAMPOS;Tapejara;RS;;VILA CAMPOS;;;;3000.0;;;
-conceitoimoveistapejara;;;;OPORTUNIDADE DE NEGÓCIO EM BALNEÁRIO PIÇARRAS;Tapejara;SC;;;3;;;;;;
-conceitoimoveistapejara;;;;VENDE-SE TERRENO NO BAIRRO SÃO CRISTÓVÃO;Tapejara;RS;;RUA DO COMÉRCIO;;;;807.6;;;
-conceitoimoveistapejara;;;;VENDE-SE AMPLO TERRENO NO SÃO CRISTÓVÃO;Tapejara;RS;;RUA DO COMÉRCIO;;;;497.55;;;
-conceitoimoveistapejara;;;;VENDE-SE TERRENO NO B. SÃO CRISTÓVÃO;Tapejara;RS;;RUA DO COMÉRCIO;;;;302.55;;;
-conceitoimoveistapejara;;;;VENDE-SE TERRENO DE ESQUINA NO B. SÃO CRISTÓVÃO;Tapejara;RS;;RUA DO COMÉRCIO;;;;302.55;;;
-conceitoimoveistapejara;;;;VENDE-SE TERRENO NA RUA FIORAVANTE RECH;Tapejara;RS;;RUA FIORAVANTE RECH;;;;389.1;;;
-conceitoimoveistapejara;;;;VENDE-SE TERRENO NO LOT. SEBBEN;Tapejara;RS;São Paulo;;;;;0.0;;;
-conceitoimoveistapejara;;;;VENDE-SE TERRENOS NO LOTEAMENTO MARCON;Tapejara;RS;Centro;;;;;0.0;;;
-conceitoimoveistapejara;;;;À VENDA CHÁCARAS NA LINHA MARCHIORI;Tapejara;RS;Linha Marchiori;;;;;0.0;;;
-conceitoimoveistapejara;;;;VENDE-SE TERRENO NO PAIOL NOVO;Tapejara;RS;;PAIOL NOVO;;;;30000.0;;;
-conceitoimoveistapejara;;;;VENDE-SE ÁREA RURAL NA CACHOEIRA MÉDIA;Tapejara;RS;;CACHOEIRA MÉDIA;;;;0.0;;;
-conceitoimoveistapejara;;;800000.0;APARTAMENTO DE 03 DORMITÓRIOS  NO ED. ATTUALITÁ;Tapejara;RS;Centro;AV. 7 DE SETEMBRO;3;1;2;203.24;169.84;Semi;Alto
-conceitoimoveistapejara;;;800000.0;DUPLEX NO EDIFÍCIO AV. CENTER;Tapejara;RS;;AV 7 DE SETEMBRO;3;1;1;190.0;;Semi;Alto
-conceitoimoveistapejara;;;790000.0;APARTAMENTO NO ED. INNOVARE TORRE LUA;Tapejara;RS;;RUA NOVE DE AGOSTO;2;1;1;112.87;97.04;Semi;Alto
-conceitoimoveistapejara;;;750000.0;APARTAMENTO COBERTURA ED. SOLARE;Tapejara;RS;Centro;AV CORONEL LOLICO;2;1;1;147.4;118.45;Semi;Alto
-conceitoimoveistapejara;;;745000.0;ÓTIMO APARTAMENTO NO EDFÍCIO PREMIER;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS;3;;1;;;Sim;Baixo
-conceitoimoveistapejara;;;700000.0;VENDE-SE APTO NO ED. MENEGAZ;Tapejara;RS;Bairro Centro;RUA DO COMÉRCIO;3;1;1;;121.08;;Médio
-conceitoimoveistapejara;;;650000.0;APARTAMENTO DE 03 DORMITÓRIOS NO CENTRO;Tapejara;RS;Centro;RUA SANTO CANALI;3;1;1;145.54;116.51;Sim;Baixo
-conceitoimoveistapejara;;;650000.0;VENDE-SE APTO NO ED. MUNIQUE;Tapejara;RS;Centro;;3;1;1;;;Semi;Alto
-conceitoimoveistapejara;;;650000.0;VENDE-SE APTO NO ED. MURANO;Tapejara;RS;Centro;AV. ELISEU RECH;2;;;123.33;103.87;;
-conceitoimoveistapejara;;;650000.0;VENDE-SE APARTAMENTO TODO MOBILIADO NO ED. SOLARE;Tapejara;RS;Centro;Rua Cel. Lolico;3;1;1;126.97;100.0;Sim;Alto
-conceitoimoveistapejara;;;640000.0;ÓTIMO APARTAMENTO NO EDIFÍCIO PREMIER;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS;2;;2;;80.0;Semi;Médio
-conceitoimoveistapejara;;;640000.0;APARTAMENTO NOVO NO ED. SÃO FRANCISCO;Tapejara;RS;Centro;RUA CEL. GERVÁSIO;3;1;1;;;;Médio
-conceitoimoveistapejara;;;640000.0;APARTAMENTOS SEMIACABADOS NO ED. SÃO FRANCISCO;Tapejara;RS;Centro;RUA CEL. GERVÁSIO;3;1;1;;;;
-conceitoimoveistapejara;;;630000.0;VENDE-SE APTO NO ED. MURANO;Tapejara;RS;Centro;AV. ELISEU RECH;3;1;;131.56;110.8;;Alto
-conceitoimoveistapejara;;;600000.0;VENDE-SE APTO NO ED. GRAN LUIGI;Tapejara;RS;Centro;RUA DO COMÉRCIO;3;;1;;;;Médio
-conceitoimoveistapejara;;;590000.0;VENDE-SE IMÓVEL EM MEIA PRAIA -SC;Itapema;SC;Meia Praia;RUA 408;2;2;1;;;;
-conceitoimoveistapejara;;;580000.0;APARTAMENTO ED. DOM ALFREDO;Tapejara;RS;Centro;RUA SANTO CANALI;3;1;1;126.52;94.36;;Médio
-conceitoimoveistapejara;;;580000.0;APTOS DE FUNDOS SEMIACABADOS ED. SÃO FRANCISCO;Tapejara;RS;Centro;RUA CEL. GERVÁSIO;3;1;1;;;;
-conceitoimoveistapejara;;;550000.0;VENDE-SE APTO NO ED. MUNIQUE;Tapejara;RS;Centro;RUA CEL. LOLICO;3;;1;;;;
-conceitoimoveistapejara;;;550000.0;VENDE-SE APARTAMENTO NO ED. LAFAYETTE;Tapejara;RS;Centro;Rua do Comércio;2;;1;;;;Médio
-conceitoimoveistapejara;;;530000.0;VENDE-SE APARTAMENTO NO ED. HENRIQUE;Tapejara;RS;São Cristovão;RUA JULIO DE CASTILHOS;2;1;2;;84.25;Semi;Médio
-conceitoimoveistapejara;;;525000.0;VENDE-SE APARTAMENTO NO ED.PROVENCE;Tapejara;RS;;R. Ângelo Dalzotto;2;;2;;;;
-conceitoimoveistapejara;;;520000.0;VENDE-SE APARTAMENTO NO ED.SIENA;Tapejara;RS;Centro;R. Padre Nóbrega;2;;1;;76.0;;
-conceitoimoveistapejara;;;495000.0;COBERTURA DE 02 DORM EDIFÍCIO VITÓRIA;Tapejara;RS;Centro;Rua nove de agosto;2;;1;99.0;83.0;Semi;Alto
-conceitoimoveistapejara;;;460000.0;APTO SEMI-MOBILIADO NO ED. SÃO FRANCISCO;Tapejara;RS;Centro;;2;;1;;;Semi;
-conceitoimoveistapejara;;;400000.0;VENDE-SE APTO NO ED. MONTE BELO;Tapejara;RS;Centro;Rua do Comércio;3;1;1;123.37;113.21;;
-conceitoimoveistapejara;;;400000.0;VENDE-SE APTO NO ED. MONTE BELO (DE FRENTE);Tapejara;RS;Centro;Rua do Comércio;3;1;1;123.37;113.21;;Médio
-conceitoimoveistapejara;;;390000.0;VENDE-SE APTO AO LADO DA PRAÇA CENTRAL;Tapejara;RS;Centro;RUA DO COMÉRCIO;2;1;;113.0;;;Baixo
-conceitoimoveistapejara;;;385000.0;POSICIONADO NA ESQUINA;Tapejara;RS;;LOTEAMENTO BIANCHINI NOVO;2;;1;;;;Baixo
-conceitoimoveistapejara;;;380000.0;APTO NO ED. MONTE BELLO (FUNDOS);Tapejara;RS;Centro;RUA DO COMÉRCIO;3;;1;;;;Alto
-conceitoimoveistapejara;;;380000.0;APTO NO ED. MONTE BELLO (FUNDOS);Tapejara;RS;Centro;RUA DO COMÉRCIO;3;;;;;;Alto
-conceitoimoveistapejara;;;370000.0;APTO DE 02 DORMITÓRIOS ED. VITÓRIA;Tapejara;RS;Centro;NOVE DE AGOSTO;2;;1;82.93;;;Médio
-conceitoimoveistapejara;;;360000.0;APARTAMENTO DE 01 DORMITÓRIO NO ED. PREMIER;Tapejara;RS;Centro;;1;;1;65.76;52.88;;Médio
-conceitoimoveistapejara;;;360000.0;VENDE-SE APARTAMENTO NO ED.VENEZA;Tapejara;RS;Centro;R. Osorio da Silveira;2;;;;79.6;Semi;
-conceitoimoveistapejara;;;350000.0;APARTAMENTO NO ED. SAN MARINO;Tapejara;RS;;RUA DO COMÉRCIO;3;;1;;;;Médio
-conceitoimoveistapejara;;;;APTO SEMI ACABADO EDIFÍCIO PROVENCE;Tapejara;RS;Centro;ANGELO DALZOTTO;3;1;1;152.03;118.43;;Médio
-conceitoimoveistapejara;;;330000.0;VENDE-SE APTO 402 DE ESQUINA NO CINCRIS 3;Tapejara;RS;São Cristovão;Rua Aurélio Sossela;2;;1;;;;Alto
-conceitoimoveistapejara;;;300000.0;APTO DE 02 DORMITÓRIOS - 304;Tapejara;RS;São Cristóvão;RUA VALERIANO UHINI;2;;1;;;;
-conceitoimoveistapejara;;;300000.0;VENDE-SE APTO DE 02 DORMITÓRIOS NO ED. PLÁTANOS;Tapejara;RS;São Cristovão;Rua Valeriano Ughini;2;;1;;;;Médio
-conceitoimoveistapejara;;;290000.0;APTO DE 02 DORMITÓRIOS - 302;Tapejara;RS;São Cristóvão;RUA VALERIANO UHINI;2;;1;;;;
-conceitoimoveistapejara;;;290000.0;APTO DE 02 DORMITÓRIOS - 403;Tapejara;RS;São Cristóvão;RUA VALERIANO UHINI;2;;1;;;;
-conceitoimoveistapejara;;;280000.0;APARTAMENTO ED. SÃO GERALDO;Tapejara;RS;Centro;RUA 9 DEGOSTO;2;;;;;;
-conceitoimoveistapejara;;;270000.0;VENDE-SE APTO NO ED. CINCRIS III;Tapejara;RS;São Cristóvão;RUA AURÉLIO SOSSELA;2;;1;;;;Alto
-conceitoimoveistapejara;;;255000.0;APTO 203 NO ED. CINCRIS 3;Tapejara;RS;São Cristóvão;RUA AURÉLIO SOSSELA;2;;1;;;;
-conceitoimoveistapejara;;;250000.0;VENDE-SE APTO NO ED.VERONA;Tapejara;RS;Centro;RUA ASSIS BRASIL;2;;1;;;;
-conceitoimoveistapejara;;;240000.0;APARTAMENTO NO ED. CINCRIS 3;Tapejara;RS;São Cristovão;Rua;2;;1;78.19;66.54;;
-conceitoimoveistapejara;;;238000.0;A POUCOS METROS DA AV. 7 DE SETEMBRO;Tapejara;RS;São Cristóvão;RUA VALERIANO UGHINI;1;;1;;;;
-conceitoimoveistapejara;;;228000.0;APTO DE 1 DORMITÓRIO - 201;Tapejara;RS;São Cristóvão;RUA VALERIANO UGHINI;1;;1;;;;
-conceitoimoveistapejara;;;220000.0;APARTAMENTO EM PASSO FUNDO;Passo Fundo;RS;;;2;;1;;;;
-conceitoimoveistapejara;;;220000.0;VENDE-SE APTO DE 01 DORMITÓRIO NO CENTRO;Tapejara;RS;Centro;AV. SETE DE SETEMBRO;1;;;;60.0;;Médio
-conceitoimoveistapejara;;;215000.0;APTO DE 01 DORMITÓRIO NO ED. SAN MARINO;Tapejara;RS;Centro;RUA DO COMÉRCIO;1;;;;;;
-conceitoimoveistapejara;;;189000.0;VENDE-SE ÓTIMO APTO NO ED.DORING;Tapejara;RS;Centro;R. do Comércio;1;;;35.0;28.0;;
-conceitoimoveistapejara;;;170000.0;VENDE-SE APTO NO ED. ANA PAULA TODO REFORMADO;Tapejara;RS;São Paulo;Rua Egídio Escatula;2;;1;113.73;62.2;;
-conceitoimoveistapejara;;;170000.0;VENDE-SE APTO NO RES. ANA PAULA EM TAPEJARA RS;Tapejara;RS;São Paulo;RUA EGÍDIO SCATOLA;2;;1;96.09;50.2;;Baixo
-conceitoimoveistapejara;;;170000.0;APARTAMENTO CONDOMÍNIO IZIDORO DANIELI;Tapejara;RS;Izidoro Danieli;;2;;1;;;Semi;Baixo
-conceitoimoveistapejara;;;155000.0;VENDE-SE APARTAMENTO NO IZIDORO DANIELI;Tapejara;RS;;;2;;;;;;
-conceitoimoveistapejara;;;;APARTAMENTOS EDIFICIO PREMIER;Tapejara;RS;;Rua Júlio de Castilhos;1;;;;;;
-conceitoimoveistapejara;;;;APTO MODERNO NO PROVENCE RESIDENCIAL;Tapejara;RS;Centro;RUA PADRE NOBREGA;2;1;2;103.73;80.66;;
-conceitoimoveistapejara;;;;RESIDENCIAL MONPANAI EM FRENTE A PRACINHA;Tapejara;RS;;AV. ELISEU RECH;3;1;;;;;
-conceitoimoveistapejara;;;;VENDE-SE APARTAMENTOS NA PLANTA.;Porto Belo;SC;Centro;RUA SÃO JOSÉ PETERMANN;3;3;2;;;;
-conceitoimoveistapejara;;;;OPORTUNIDADE DE NEGÓCIO EM BALNEÁRIO PIÇARRAS;Tapejara;SC;;;3;;;;;;
-conceitoimoveistapejara;;;;VENDE-SE APTOS. NO ED CONTEMPORÂNEO;Tapejara;RS;Centro;AV SETE DE SETEMBRO;2;;;;;;
-conceitoimoveistapejara;;;;CASA GERMINADA DE ALTO PADRÃO;Tapejara;RS;Lot. Bianchini;;3;1;1;;;;
-conceitoimoveistapejara;;;;VENDE-SE APTO EM PORTO BELLO-SC;Porto Belo;SC;Alto Pereque;Rua João Carlos Abraham;3;1;1;198.0;105.0;;
-conceitoimoveistapejara;;;;LÁ GRÁCIA RESIDENCE;Porto Belo;SC;Alto Pereque;R. NEREU RAMOS;3;2;1;;;;JULHO/2026
-conceitoimoveistapejara;;;;ED. AIPÊ NO CENTRO DE TAPEJARA;Tapejara;RS;Centro;Rua 15 de Novembro;2;1;1;;;;
-conceitoimoveistapejara;;;;APTOS PARA VENDA NO RES. MONET;Tapejara;RS;Centro;Rua do Comércio;2;1;1;;;;
-conceitoimoveistapejara;;;1500000.0;CASA EM IBIAÇA;Ibiaca;RS;Centro;;3;;;344.64;;;
-conceitoimoveistapejara;;;965000.0;VENDE-SE SALA COMERCIAL DUPLEX;Tapejara;RS;;Rua Leorindo Cavichioli;;;;;114.59;;
-conceitoimoveistapejara;;;950000.0;PAVILHÃO 500M2;Tapejara;RS;Centro;;;;;490.7;;;
-conceitoimoveistapejara;;;900000.0;SALA COMERCIAL NA FRENTE DO MERCADO CENTRAL;Tapejara;RS;Centro;Rua do Comércio;;;;30.7;;;
-conceitoimoveistapejara;;;585000.0;VENDE-SE SALA COMERCIAL NA RUA DO COMÉRCIO;Tapejara;RS;Centro;Rua do Comércio;;;;82.0;;;
-conceitoimoveistapejara;;;290000.0;SALA COMERCIAL NO ED CINCRIS 5;Tapejara;RS;;RUA VALERIANO UGHINI;;;;;;;
-conceitoimoveistapejara;;;155000.0;VENDE-SE SALA COMERCIAL;Tapejara;RS;Centro;Rua cel lolico;;;;3472.98;2748.5;;
-conceitoimoveistapejara;;;110000.0;SALA COMERCIAL NO ED. PROFISSIONAL CENTER;Tapejara;RS;Centro;RUA DO COMÉRCIO;;;;;;;
-conceitoimoveistapejara;;;;SALAS COMERCIAIS ED. CONTEMPORANEO;Tapejara;RS;Centro;AV 7 DE SETEMBRO;;;;;;;
-conceitoimoveistapejara;;;;CASA DE 02 PISOS COM PAVILHÃO;Tapejara;RS;Centro;RUA CEL GERVASIO;3;;;698.85;;;
-conceitoimoveistapejara;;;;VENDE-SE VARIAS SALAS COMERCIAIS PRÓXIMAS A PRAÇA;Tapejara;RS;Centro;;;;;;;;
-conceitoimoveistapejara;;;;07 SALAS PARA VENDA NO ED. CONTEMPORÂNEO.;Tapejara;RS;Centro;Av.07 de Setembro;;;;;;;
-conceitoimoveistapejara;;;;ED. AIPÊ NO CENTRO DE TAPEJARA;Tapejara;RS;Centro;Rua 15 de Novembro;2;1;1;;;;
-conceitoimoveistapejara;;;6500.0;SALA COMERCIAL NO ED. ASTECA;Tapejara;RS;;Rua do Comércio;;;;;;;
-conceitoimoveistapejara;;;6000.0;ALUGA-SE ÓTIMO PAVILHÃO;Tapejara;RS;;Av. SETE DE SETEMBRO;;;;;;;
-conceitoimoveistapejara;;;3600.0;PAVILHÃO NA RUA SANTO CANALI;Tapejara;RS;Centro;RUA SANTO CANALI;;;1;850.0;;;
-conceitoimoveistapejara;;;2600.0;ALUGA-SE CASA NA FRENTE DA PRAÇA CENTRAL;Tapejara;RS;Centro;R. Júlio de Castilhos;;;;;;;
-conceitoimoveistapejara;;;2500.0;SALA COMERCIAL AO LADO DO SAÚDE CENTER;Tapejara;RS;Centro;RUA TRANQUILO BASSO;;;;73.0;;;
-conceitoimoveistapejara;;;2500.0;ALUGA-SE SALA COMERCIAL;Tapejara;RS;Centro;Rua Tranquilo Basso;;;1;;;;Baixo
-conceitoimoveistapejara;;;2200.0;ALUGA-SE CLINICA ODONTOLÓGICA;Tapejara;RS;Centro;RUA CORONEL LOLICO;;;;;53.0;;Baixo
-conceitoimoveistapejara;;;2160.0;ALUGA-SE SALA COMERCIAL;Tapejara;RS;Lot. Bianchini;Rua Pedro Rebeschini;;;;160.0;;;
-conceitoimoveistapejara;;;2000.0;PAVILHÃO AO LADO DA  AGROMILK;Tapejara;RS;;RUA OSÓRIO DA SILVEIRA;;;;160.0;;;
-conceitoimoveistapejara;;;1900.0;SALA COMERCIAL NO ED. MERIDIONAL;Tapejara;RS;;RUA XV DE NOVEMBRO;;;;;120.0;;
-conceitoimoveistapejara;;;1500.0;SALA COMERCIAL PRÓXIMA AO GRILO;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS;;;;;;;
-conceitoimoveistapejara;;;1400.0;ALUGA-SE SALA COMERCIAL;Tapejara;RS;Centro;Av. Eliseu Rech;;;;;;;
-conceitoimoveistapejara;;;1300.0;ALUGA-SE ÓTIMA SALA COMERCIAL;Tapejara;RS;Centro;R. Valeriano Ughini;;;;;;;
-conceitoimoveistapejara;;;1200.0;SALA AÉREA NO ED. MERIDIONAL;Tapejara;RS;;RUA DO COMÉRCIO;;;;;80.0;;
-conceitoimoveistapejara;;;790.0;SALA COMERCIAL NO ED PROFISSIONAL CENTER;Tapejara;RS;;RUA DO COMÉRCIO;;;;;22.0;;Médio
-conceitoimoveistapejara;;;790.0;SALA COMERCIAL NO ED. PROFISSIONAL CENTER;Tapejara;RS;Centro;RUA DO COMÉRCIO;;;;;;;
-conceitoimoveistapejara;;;1350.0;ALUGA-SE CASA CENTRAL FRENTE COM BIBLIOTECA;Tapejara;RS;Centro;R. Cel. Gervásio;3;;;;;;
-conceitoimoveistapejara;;;1000.0;ALUGA-SE PARTE SUPERIOR;Tapejara;RS;;R. Manoel Teixeira;3;;;;;;
-conceitoimoveistapejara;;;;ALUGA-SE ÓTIMA CASA;Tapejara;RS;São Paulo;R. Amélia da Silva;2;;1;;;;
-conceitoimoveistapejara;;;2600.0;ALUGA-SE APARTAMENTO COBERTURA NO ED.SOLARE;Tapejara;RS;Centro;Av coronel lolico;3;1;1;;;;
-conceitoimoveistapejara;;;2500.0;ALUGA-SE ÓTIMO APARTAMENTO NO ED.NOBLESSE;Tapejara;RS;Centro;RUA INDEPENDENCIA,710;3;1;2;;;Semi;Alto
-conceitoimoveistapejara;;;1700.0;ALUGA-SE ÓTIMO APARTAMENTO NO ED. MURANO;Tapejara;RS;;Av. Eliseu Rech;2;;;;;;
-conceitoimoveistapejara;;;1450.0;ALUGA-SE ÓTIMO APTO NO ED.SITTA;Tapejara;RS;Centro;R. do Comércio;2;;;;;;
-conceitoimoveistapejara;;;1300.0;ALUGA-SE APTO ED.PANORÂMICO;Tapejara;RS;;Av. Valdo Nunes Viêira;1;;1;;;Sim;
-conceitoimoveistapejara;;;1100.0;ALUGA-SE ÓTIMO APARTAMENTO NO ED.MILANO;Tapejara;RS;;21 de abril;2;;;;;;
-conceitoimoveistapejara;;;1000.0;PORÃO NO CENTRO;Tapejara;RS;Centro;Rua XV de Novembro;2;;1;;;;Baixo
-conceitoimoveistapejara;;;900.0;ALUGA-SE ÓTIMO APARTAMENTO NO ED.IZIDORO DANIELI;Tapejara;RS;;izidoro danieli;2;;;;;;
-conceitoimoveistapejara;;;750.0;ALUGA-SE APARTAMENTO NO ED.IZIDORO DANIELI;Tapejara;RS;;Condominio Izidoro Danieli;2;;;;;;
-conceitoimoveistapejara;;;700.0;ALUGA-SE ÓTIMO APARTAMENTO;Tapejara;RS;;;1;;;;;;
-conceitoimoveistapejara;;;700.0;QUITINETE NO ED. CINCRIS 6 AP-602;Tapejara;RS;;RUA VALERIANO UGHINI;1;;;;;;
-conceitoimoveistapejara;;;700.0;QUITINETE NO ED. CINCRIS 6 AP-502;Tapejara;RS;;RUA VALERIANO UGHINI;1;;;;;;
+conceitoimoveistapejara;Sales;comercial;1500000.0;CASA EM IBIAÇA;Ibiaca;RS;Centro;;3;;;344.64;381.1;;
+conceitoimoveistapejara;Sales;comercial;965000.0;VENDE-SE SALA COMERCIAL DUPLEX;Tapejara;RS;;Rua Leorindo Cavichioli;;;;;381.1;;
+conceitoimoveistapejara;Sales;comercial;950000.0;PAVILHÃO 500M2;Tapejara;RS;Centro;;;;;490.7;;;
+conceitoimoveistapejara;Sales;comercial;900000.0;SALA COMERCIAL NA FRENTE DO MERCADO CENTRAL;Tapejara;RS;Centro;Rua do Comércio;;;;30.7;;;
+conceitoimoveistapejara;Sales;comercial;585000.0;VENDE-SE SALA COMERCIAL NA RUA DO COMÉRCIO;Tapejara;RS;Centro;Rua do Comércio;;;;82.0;;;
+conceitoimoveistapejara;Sales;comercial;290000.0;SALA COMERCIAL NO ED CINCRIS 5;Tapejara;RS;;RUA VALERIANO UGHINI;;;;;;;
+conceitoimoveistapejara;Sales;comercial;155000.0;VENDE-SE SALA COMERCIAL;Tapejara;RS;Centro;Rua cel lolico;;;;3472.98;2748.5;;
+conceitoimoveistapejara;Sales;comercial;110000.0;SALA COMERCIAL NO ED. PROFISSIONAL CENTER;Tapejara;RS;Centro;RUA DO COMÉRCIO;;;;;2748.5;;
+conceitoimoveistapejara;Sales;comercial;;SALAS COMERCIAIS ED. CONTEMPORANEO;Tapejara;RS;Centro;AV 7 DE SETEMBRO;;;;;2748.5;;
+conceitoimoveistapejara;Sales;comercial;;CASA DE 02 PISOS COM PAVILHÃO;Tapejara;RS;Centro;RUA CEL GERVASIO;3;;;698.85;;;
+conceitoimoveistapejara;Sales;comercial;;VENDE-SE VARIAS SALAS COMERCIAIS PRÓXIMAS A PRAÇA;Tapejara;RS;Centro;;;;;;;;
+conceitoimoveistapejara;Sales;comercial;;07 SALAS PARA VENDA NO ED. CONTEMPORÂNEO.;Tapejara;RS;Centro;Av.07 de Setembro;;;;;;;
+conceitoimoveistapejara;Sales;comercial;;ED. AIPÊ NO CENTRO DE TAPEJARA;Tapejara;RS;Centro;Rua 15 de Novembro;2;1;1;;;;
+conceitoimoveistapejara;Sales;terrenos;2600000.0;VENDE-SE ÁREA DE TERRA PRÓXIMA A CAPÃO DE MATO;Agua Santa;RS;;;;;;90918.0;;;
+conceitoimoveistapejara;Sales;terrenos;1790000.0;VENDE-SE 04 AVIÁRIOS COM ÓTIMO RETORNO FINANCEIRO;Tapejara;RS;;;;;;27000.0;;;
+conceitoimoveistapejara;Sales;terrenos;1600000.0;TERRENO NO CENTRO PRÓXIMO A PRAÇA CENTRAL;Tapejara;RS;Centro;RUA JÚLIO DE CASTILHOS;;;;748.0;;;
+conceitoimoveistapejara;Sales;terrenos;1600000.0;VENDE-SE AMPLO TERRENO EM VACARIA;Vacaria;RS;Centro;Av. Samuel Guazzelll;;;;3457.0;;;
+conceitoimoveistapejara;Sales;terrenos;1479000.0;VENDE-SE  ÁREA RURAL DE 87 HECTARES - SÃO SEPÉ;Sao Sepe;RS;;;;;;870000.0;;;
+conceitoimoveistapejara;Sales;terrenos;1394000.0;VENDE-SE AMPLO TERRENO NO CENTRO DA CIDADE;Tapejara;RS;Centro;AV. VALDO NUNES VIEIRA;;;;100.0;;;
+conceitoimoveistapejara;Sales;terrenos;1100000.0;ÁREA DE TERRA EM CHARRUA;Charrua;RS;;LOCALIDADE SÃO ROQUE;;;;229000.0;;;
+conceitoimoveistapejara;Sales;terrenos;850000.0;ÁREA DE TERRA EM CHARRUA;Charrua;RS;Interior;COMUNIDADE DE SÃO ROQUE;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;799000.0;VENDE-SE TERRENO NA PERIMETRAL;Tapejara;RS;;;;;;6015.21;;;
+conceitoimoveistapejara;Sales;terrenos;740000.0;ÁREA DE 6 HECTARES NO PAIOL NOVO;Tapejara;RS;Interior;PAIOL NOVO;;;;60000.0;;;
+conceitoimoveistapejara;Sales;terrenos;580000.0;ÁREA DE TERRA COM MATRÍCULA PRÓXIMA A LOTEAMENTO;Tapejara;RS;;ESTRADA SAÍDA PARA ÁGUA SANTA;;;;2700.0;;;
+conceitoimoveistapejara;Sales;terrenos;550000.0;TERRENO ESQUINA NO CENTRO;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS ESQ COM AV VALDO NUNES VIEIRA;;;;300.0;;;
+conceitoimoveistapejara;Sales;terrenos;525000.0;ÓTIMO TERRENO DE ESQUINA NO LOTEAMENTO MÂNICA;Tapejara;RS;;R. Dr. Célso Domingues;;;;525.17;;;
+conceitoimoveistapejara;Sales;terrenos;520000.0;TERRENO DE FRENTE PARA AV. SETE DE SETEMBRO;Tapejara;RS;São Paulo;AV. SETE DE SETEMBRO;;;;500.0;;;
+conceitoimoveistapejara;Sales;terrenos;500000.0;ÁREA DE TERRA EM SÃO ROQUE EM CHARRUA;Charrua;RS;Comunidade De Interior;SÃO ROQUE;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;490000.0;ÓTIMO TERRENO DE ESQUINA COM PAVILHÃO;Tapejara;RS;São Paulo;ESQUINA DA RUA JOÃO XXIII COM A RUA JOÃO MARIN;;;;661.4;;;
+conceitoimoveistapejara;Sales;terrenos;490000.0;CHÁCARA EM CACHOEIRRA MÉDIA;Charrua;RS;Comunidade;CACHOEIRRA MÉDIA;;;;11336.92;;;
+conceitoimoveistapejara;Sales;terrenos;490000.0;VENDE-SE CHÁCARA EM VILA CAMPOS;Tapejara;RS;;;;;;2700.0;;;
+conceitoimoveistapejara;Sales;terrenos;480000.0;VENDE-SE CHÁCARA NO ALTOS DO FUNIL;Tapejara;RS;Loteamento Altos Do Funil;;;;;3000.0;;;
+conceitoimoveistapejara;Sales;terrenos;450000.0;TERRENO COMERCIAL;Tapejara;RS;Centro;LOT. BASEGGIO;;;;1325.68;;;
+conceitoimoveistapejara;Sales;terrenos;450000.0;ÓTIMO TERRENO NA VILA RICA;Tapejara;RS;Sol Nascente;RUA SILVA JARDIM;;;;515.9;;;
+conceitoimoveistapejara;Sales;terrenos;450000.0;TERRENO EM PASSO FUNDO;Passo Fundo;RS;São José;Rua Cruz e Souza;;;;1100.0;;;
+conceitoimoveistapejara;Sales;terrenos;420000.0;TERRENO ESQUINA NO LOT. MANICA;Tapejara;RS;Loteamento Manica;RUA MANOEL TEIXEIRA COM A SANTOS DOMINGUES;;;;531.47;;;
+conceitoimoveistapejara;Sales;terrenos;400000.0;EXCELENTE CHÁCARA EM SÃO BRÁS;Tapejara;RS;São Brás;;;;;1425.0;;;
+conceitoimoveistapejara;Sales;terrenos;375000.0;ÁREA DE TERRA NA DIVISA DE TAPEJARA E IBIAÇA;Ibiaca;RS;;ERS 467;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;340000.0;TERRENO DE ESQUINA NA VILA RICA;Tapejara;RS;;VILA RICA 2;;;;383.27;;;
+conceitoimoveistapejara;Sales;terrenos;340000.0;VENDE-SE IMÓVEL NO LOT. COLUSSI;Tapejara;RS;Loteamento Colussi;Rua Ângelo Dalzotto;;;;577.31;;;
+conceitoimoveistapejara;Sales;terrenos;320000.0;TERRENO NA VILA RICA 4;Tapejara;RS;;;;;;325.0;;;
+conceitoimoveistapejara;Sales;terrenos;250000.0;CHÁCARA EM VILA CAMPOS;Tapejara;RS;;VILA CAMPOS;;;;1000.0;;;
+conceitoimoveistapejara;Sales;terrenos;250000.0;ÁREA DE RESERVA E PRÓPRIO PARA CHÁCARAS;Tapejara;RS;;;;;;42000.0;;;
+conceitoimoveistapejara;Sales;terrenos;240000.0;TERRENOS NO LOTEAMENTO COMIRAN;Tapejara;RS;;Av. Dom Pedro II;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;240000.0;CHACARA COM CASA E PISCINA NA LINHA CARAVAGIO;Tapejara;RS;;LINHA CARAVAGIO;;;;660.0;;;
+conceitoimoveistapejara;Sales;terrenos;235000.0;VENDE-SE ÓTIMA CHÁCARA EM VILA CAMPOS;Tapejara;RS;;Vila Campos;;;;1284.0;;;
+conceitoimoveistapejara;Sales;terrenos;230000.0;ÓTIMO TERRENO NO LOTEAMENTO COLUSSI;Tapejara;RS;Centro;RUA SD,LOTEAMENTO COLUSSI;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;215000.0;VENDE-SE TERRENO NO SOL POENTE;Tapejara;RS;Sol Poente;Rua Ãngelo Dalzotto;;;;357.6;;;
+conceitoimoveistapejara;Sales;terrenos;210000.0;VENDE-SE TERRENO - CENTRO DE QUADRA;Tapejara;RS;São Cristóvão;RUA JÚLIO DE CASTILHOS;;;;650.0;;;
+conceitoimoveistapejara;Sales;terrenos;205000.0;VENDE-SE TERRENO NO LOT. JARDIM ITÁLIA;Tapejara;RS;Lot. Jardim Itália;RUA JÚLIO DE CASTILHOS;;;;336.0;;;
+conceitoimoveistapejara;Sales;terrenos;200000.0;TERRENO 1  NAZARÉ I I;Tapejara;RS;Nazaré;RUA JOÃO MANOEL BERNARDES;;;;336.0;;;
+conceitoimoveistapejara;Sales;terrenos;200000.0;TERRENO 2  NAZARÉ I I;Tapejara;RS;Nazaré;RUA JOÃO MANOEL BERNARDES;;;;336.0;;;
+conceitoimoveistapejara;Sales;terrenos;200000.0;AMPLO TERRENO;Tapejara;RS;São Cristóvão;;;;;312.5;;;
+conceitoimoveistapejara;Sales;terrenos;200000.0;VENDE-SE TERRENO NO BAIRRO SAO PAULO;Tapejara;RS;São Paulo;;;;;330.0;;;
+conceitoimoveistapejara;Sales;terrenos;190000.0;VENDE-SE TERRENO EM TAPEJARA;Tapejara;RS;Centro;AV. VALDO NUNES VIEIRA;;;;424.16;;;
+conceitoimoveistapejara;Sales;terrenos;190000.0;ÓTIMO TERRENO NO LOTEAMENTO VERGINIA;Tapejara;RS;;Loteamento Virginia;;;;238.78;;;
+conceitoimoveistapejara;Sales;terrenos;185000.0;TERRENO EM LOCAL ALTO NO LOT. ITÁLIA;Tapejara;RS;Loteamento Itália;;;;;375.0;;;
+conceitoimoveistapejara;Sales;terrenos;185000.0;ÓTIMO TERRENO À VENDA;Tapejara;RS;;Rua Wilson Afonso Damin;;;;240.0;;;
+conceitoimoveistapejara;Sales;terrenos;180000.0;VENDE-SE TERRENO NO LOT. COASA;Tapejara;RS;São Paulo;RUA GIOCONDO CANALI;;;;320.0;;;
+conceitoimoveistapejara;Sales;terrenos;180000.0;VENDE-SE TERRENO NO LOT. BELLA COLINA;Tapejara;RS;Loteamneto Bella Colina;Rua Marieli Andreola Esq. Rua Geronimo Bonora;;;;367.5;;;
+conceitoimoveistapejara;Sales;terrenos;175000.0;TERRENO NO LOTEAMENTO JARDIM ITÁLIA;Tapejara;RS;;RUA JULIO DE CASTILHOS;;;;336.0;;;
+conceitoimoveistapejara;Sales;terrenos;168000.0;TERRENO NO LOT. JARDIM ITALIA;Tapejara;RS;Loteamento Jardim Itália;RUA DO COMÉRCIO;;;;300.0;;;
+conceitoimoveistapejara;Sales;terrenos;168000.0;TERRENO NO LOTEAMENTO DO PARQUE;Tapejara;RS;;RUA MANOEL TEIXEIRA;;;;240.0;;;
+conceitoimoveistapejara;Sales;terrenos;165000.0;TERRENO LOTEAMENTO COLUSSI;Tapejara;RS;;RUA ANGELO DALZOTTO;;;;225.0;;;
+conceitoimoveistapejara;Sales;terrenos;160000.0;VENDE-SE TERRENO NO BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;Rua PE Júlio João Marin;;;;672.0;;;
+conceitoimoveistapejara;Sales;terrenos;155000.0;SITIO PROXIMO A ITALAC;Tapejara;RS;;;;;;1000.0;;;
+conceitoimoveistapejara;Sales;terrenos;150000.0;TERRENO LOT. BIANCHINI;Tapejara;RS;Loteamento Bianchini;;;;;240.0;;;
+conceitoimoveistapejara;Sales;terrenos;150000.0;TERRENO NA PERIMETRAL;Tapejara;RS;;;;;;671.65;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE TERRENOS NO LOTEAMENTO BELLA COLINA;Tapejara;RS;Lot. Bella Colina;;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;125000.0;PRONTA PARA USUFRUIR;Tapejara;RS;;;;;;1000.0;;;
+conceitoimoveistapejara;Sales;terrenos;120000.0;CHÁCARA PRÓXIMA A ITALAC;Tapejara;RS;;;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;110000.0;TERRENO DE ESQUINA NO LOT. ARAUCÁRIA;Tapejara;RS;São Paulo;RUA LODOVINO ZANCHETA;;;;262.5;;;
+conceitoimoveistapejara;Sales;terrenos;110000.0;VENDE-SE TERRENO NO LOT. ARAUCÁRIA;Tapejara;RS;Loteamento Araucária 2;Rua Fiorante Fiabani Esq. Rua Ulisses Fruscalso;;;;252.0;;;
+conceitoimoveistapejara;Sales;terrenos;110000.0;VENDE-SE 05 CHÁCARAS EM CACHOEIRRA MÉDIA;Tapejara;RS;;;;;;1000.0;;;
+conceitoimoveistapejara;Sales;terrenos;90000.0;VENDE-SE TERRENO NO LOT. ARAUCÁRIA;Tapejara;RS;;;;;;262.5;;;
+conceitoimoveistapejara;Sales;terrenos;90000.0;SITIO PROXIMO AO RIO CARRETEIRO;Tapejara;RS;;;;;;1200.0;;;
+conceitoimoveistapejara;Sales;terrenos;85000.0;SITIO EM SÃO DOMINGOS - SANANDUVA/RS;Sananduva;RS;;;;;;1000.0;;;
+conceitoimoveistapejara;Sales;terrenos;82000.0;TERRENO NO LOTEAMENTO REAL;Tapejara;RS;Loteamento Real;RUA ÂNGELO BERTON;;;;143.0;;;
+conceitoimoveistapejara;Sales;terrenos;70000.0;TERRENOS NO LOTEAMENTO ZOPPAS;Tapejara;RS;Loteamento Zoppas;;;;;200.0;;;
+conceitoimoveistapejara;Sales;terrenos;;TERRENO ESQUINA;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS ESQUINA COM RUA ARTUR FERREIRA FILHO;;;;280.0;;;
+conceitoimoveistapejara;Sales;terrenos;;LOTEAMENTO JARDIM ITÁLIA;Tapejara;RS;;;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;;R$ 150,00 O M²;Tapejara;RS;Perimetral;;;;;18150.0;;;
+conceitoimoveistapejara;Sales;terrenos;;ÁREA DE TERRA LINHA SCARIOT;Tapejara;RS;;;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;;3 TERRENOS PARA VENDA NO LOT. BELLA COLINA;Tapejara;RS;;;;;;825.0;;;
+conceitoimoveistapejara;Sales;terrenos;;TERRENOS NO LOTEAMENTO BELLA COLINA;Tapejara;RS;Saída Para água Santa;ESTRADA PERIMETRAL,SAÍDA PARA ÁGUA SANTA;;;;360.0;;;
+conceitoimoveistapejara;Sales;terrenos;;CHÁCARA CARAVÁGIO;Tapejara;RS;Interior;LINHA CARAVÁGIO;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;;TERRENO COMERCIAL NO CENTRO;Tapejara;RS;Centro;RUA DO COMÉRCIO;;;;1050.0;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE CHACÁRAS EM VILA CAMPOS COM MAIS DE 1000M;Tapejara;RS;;Vila Campos;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;;CHÁCARA EM VILA CAMPOS DE 2000 METROS;Tapejara;RS;;Vila Campos;;;;2000.0;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE CHÁCARA EM VILA CAMPOS;Tapejara;RS;;VILA CAMPOS;;;;3000.0;;;
+conceitoimoveistapejara;Sales;terrenos;;OPORTUNIDADE DE NEGÓCIO EM BALNEÁRIO PIÇARRAS;Tapejara;SC;;;3;;;;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE TERRENO NO BAIRRO SÃO CRISTÓVÃO;Tapejara;RS;;RUA DO COMÉRCIO;;;;807.6;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE AMPLO TERRENO NO SÃO CRISTÓVÃO;Tapejara;RS;;RUA DO COMÉRCIO;;;;497.55;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE TERRENO NO B. SÃO CRISTÓVÃO;Tapejara;RS;;RUA DO COMÉRCIO;;;;302.55;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE TERRENO DE ESQUINA NO B. SÃO CRISTÓVÃO;Tapejara;RS;;RUA DO COMÉRCIO;;;;302.55;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE TERRENO NA RUA FIORAVANTE RECH;Tapejara;RS;;RUA FIORAVANTE RECH;;;;389.1;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE TERRENO NO LOT. SEBBEN;Tapejara;RS;São Paulo;;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE TERRENOS NO LOTEAMENTO MARCON;Tapejara;RS;Centro;;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;;À VENDA CHÁCARAS NA LINHA MARCHIORI;Tapejara;RS;Linha Marchiori;;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE TERRENO NO PAIOL NOVO;Tapejara;RS;;PAIOL NOVO;;;;30000.0;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE ÁREA RURAL NA CACHOEIRA MÉDIA;Tapejara;RS;;CACHOEIRA MÉDIA;;;;0.0;;;
+conceitoimoveistapejara;Sales;casas;1500000.0;CASA EM IBIAÇA;Ibiaca;RS;Centro;;3;;;344.64;381.1;;
+conceitoimoveistapejara;Sales;casas;1400000.0;CASA GRANDE;Tapejara;RS;Centro;RUA EUGENIO FELINI;4;1;2;840.0;;Semi;
+conceitoimoveistapejara;Sales;casas;1000000.0;VENDE-SE CASA DE ESQUINA NO CENTRO;Tapejara;RS;Centro;Rua do Comércio Esqu. Manoel Teixeira;3;;2;;;;Baixo
+conceitoimoveistapejara;Sales;casas;998000.0;VENDE-SE ÓTIMA CASA  DE ALVENARIA;Tapejara;RS;Centro;rua independencia;4;1;2;419.0;186.0;;
+conceitoimoveistapejara;Sales;casas;980000.0;CASA COM 03 PAVIMENTOS NO LOTEAMENTO COLUSSI;Tapejara;RS;;RUA CEL. LOLICO;3;1;2;;186.0;;
+conceitoimoveistapejara;Sales;casas;900000.0;LOTEAMENTO BIANCHINI NO BAIRRO SÃO PAULO;Tapejara;RS;;RUA CARINO CANALI;5;;3;412.5;;;
+conceitoimoveistapejara;Sales;casas;890000.0;CASA DE ESQUINA NA VILA RICA;Tapejara;RS;Sol Nascente;Rua DR. Celso Domingues;3;;2;480.0;215.0;;
+conceitoimoveistapejara;Sales;casas;890000.0;CASA SEMI-ACABADA A VENDA NO LOT. JARDIM ITÁLIA;Tapejara;RS;Loteamento Jardim Itália;;3;1;2;375.0;;;
+conceitoimoveistapejara;Sales;casas;830000.0;TERRENO COM DUAS CASAS NO BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;TRAVESSA MARSIGLIO;3;;;400.0;;;
+conceitoimoveistapejara;Sales;casas;760000.0;VENDE-SE CASA NO BAIRRO SÃO CRISTÓVÃO;Tapejara;RS;São Cristovão;Rua Antônio Marchiori;3;;3;630.15;228.72;;
+conceitoimoveistapejara;Sales;casas;750000.0;VENDE-SE CASA EM BAIRRO NOBRE DE TAPEJARA;Tapejara;RS;Sol Nascente;RUA SILVA JARDIM;3;;2;;228.72;;
+conceitoimoveistapejara;Sales;casas;750000.0;CASA PRÓXIMA AO CENTRO;Tapejara;RS;Centro;Rua Tranquilo Basso;3;;2;400.0;;Semi;
+conceitoimoveistapejara;Sales;casas;750000.0;VENDE-SE CASA COM ÓTIMA LOCALIZAÇÃO;Tapejara;RS;Nazaré;RUA MANOEL TEIXEIRA;3;;1;;;Semi;
+conceitoimoveistapejara;Sales;casas;730000.0;CASA AMPLA BAIRRO NAZARÉ;Tapejara;RS;Nazaré;RUA TUPINAMBA;4;1;2;350.0;200.0;Semi;
+conceitoimoveistapejara;Sales;casas;700000.0;CASA VILA RICA;Tapejara;RS;Centro;RUA FREDOLINO CHIMANGO;3;1;2;;200.0;;
+conceitoimoveistapejara;Sales;casas;700000.0;VENDE-SE CASA NA VILA RICA;Tapejara;RS;Vila Rica;RUA SILVA JARDIM;3;;1;453.29;;Semi;
+conceitoimoveistapejara;Sales;casas;700000.0;VENDE-SE CASA GRANDE COM 2 PISOS;Tapejara;RS;Centro;RUA ANTONIO XAVIER;5;;1;643.5;170.22;;
+conceitoimoveistapejara;Sales;casas;690000.0;CASA 03 DORM LOT BIANCHINI;Tapejara;RS;Lot Bianchini;rua do comércio;3;;;242.0;170.75;;
+conceitoimoveistapejara;Sales;casas;689000.0;VENDE-SE CASA PRÓXIMA AO HOSPITAL;Tapejara;RS;Centro;;3;;2;148.0;128.0;Semi;
+conceitoimoveistapejara;Sales;casas;680000.0;CASA AMPLA LOT. ZOPPAS;Tapejara;RS;Loteamento Zoppas;RUA SD;4;4;2;600.0;222.0;;
+conceitoimoveistapejara;Sales;casas;680000.0;VENDE-SE CASA PRÓXIMA AO 2º GRAU;Tapejara;RS;Centro;Rua Tranquilo Basso;5;;1;560.0;;;
+conceitoimoveistapejara;Sales;casas;650000.0;CASA MISTA COM 03 DORMITÓRIOS;Tapejara;RS;São Paulo;RUA DO COMÉRCIO;3;;1;624.0;;;
+conceitoimoveistapejara;Sales;casas;620000.0;VENDE-SE CASA DE 2 PISOS EM ESQUINA NO LOT. DAMIN;Tapejara;RS;São Cristovão;;3;;2;225.0;181.0;;
+conceitoimoveistapejara;Sales;casas;600000.0;CASA COM MOBÍLIA NO LOT NAZARÉ;Tapejara;RS;Nazaré;;4;;1;356.99;;;
+conceitoimoveistapejara;Sales;casas;600000.0;VENDE-SE CASA NO SÃO CRISTÓVÃO;Tapejara;RS;;;4;;2;;;;
+conceitoimoveistapejara;Sales;casas;590000.0;CASA DE ESQUINA COM AMPLO TERRENO;Tapejara;RS;;RUA OSWALDO CRUZ;5;;2;500.0;;;
+conceitoimoveistapejara;Sales;casas;480000.0;VENDE-SE CASA NO BAIRRO REAL II;Tapejara;RS;Loteamento Real;RUA ANTONIO MANICA;3;;1;;;;
+conceitoimoveistapejara;Sales;casas;430000.0;TERRENO COM 02 CASAS MISTAS;Tapejara;RS;;PAULINO FERMINO DA SILVA;2;;;240.0;;;
+conceitoimoveistapejara;Sales;casas;430000.0;VENDE-SE CASA EM ALVENARIA NO SOL POENTE;Tapejara;RS;Sol Poente;Rua João Bertoglio;5;;;200.0;100.0;;
+conceitoimoveistapejara;Sales;casas;420000.0;CASA A VENDA NO BAIRRO NAZARÉ;Tapejara;RS;Nazaré;RUA JOÃO MANOEL BERNARDES;2;;2;162.5;66.85;;
+conceitoimoveistapejara;Sales;casas;400000.0;CASA NO LOTEAMENTO FAVARETTO;Tapejara;RS;;RUA ISACO CALEGARI;2;;1;130.2;140.0;;
+conceitoimoveistapejara;Sales;casas;390000.0;VENDE-SE ÓTIMA CASA DE MADEIRA;Tapejara;RS;;R. Primeiro de Maio;2;;;369.2;90.0;Sim;
+conceitoimoveistapejara;Sales;casas;380000.0;CASA DE 2 PAVIMENTOS LOT. REAL 2;Tapejara;RS;Real Ii;Rua Ivonete Baroni;3;1;3;;90.0;;
+conceitoimoveistapejara;Sales;casas;370000.0;CASA 04 DORMITÓRIOS;Tapejara;RS;São Paulo;Rua Padre Raimundo Damin;4;;3;;90.0;;
+conceitoimoveistapejara;Sales;casas;370000.0;CASA DE 2 PAVIMENTOS - BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;Rua Padre Raimundo Damin;3;;2;;90.0;;
+conceitoimoveistapejara;Sales;casas;370000.0;CASA EM CONSTRUÇÃO COM FINALIZAÇÃO EM BREVE;Tapejara;RS;Lot. Araucária;Rua Paolo Merotto;2;;2;252.0;126.0;;
+conceitoimoveistapejara;Sales;casas;370000.0;VENDE-SE CASA GERMINADA EM TAPEJARA ESQUINA;Tapejara;RS;São Paulo - Coohasa 01;;2;;1;;126.0;;
+conceitoimoveistapejara;Sales;casas;370000.0;À VENDA CASA NO BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;RUA JOÃO XXIII;3;;2;198.0;98.0;;Baixo
+conceitoimoveistapejara;Sales;casas;350000.0;VENDE-SE CASA MOBILIADA;Tapejara;RS;;Linha Girardi;2;;;1000.0;;Sim;
+conceitoimoveistapejara;Sales;casas;320000.0;VENDE-SE CASA NO LOT. CASA NOVA;Tapejara;RS;;;2;;1;200.0;;;
+conceitoimoveistapejara;Sales;casas;290000.0;VENDE-SE CASA;Tapejara;RS;;Rua Coronel Gervásio e Arthur Ferraro Filho;2;;1;;;;
+conceitoimoveistapejara;Sales;casas;280000.0;VENDE-SE ÓTIMA CASA NO BAIRRO NAZARÉ;Tapejara;RS;Nazaré;Rua Valeriano uguini;2;;1;187.5;69.84;;
+conceitoimoveistapejara;Sales;casas;250000.0;VENDE-SE ÓTIMA CASA NO BAIRRO SÃO CRISTOVÃO;Tapejara;RS;São Cristovão;Rua Fioravente Rech;2;;2;145.0;80.0;;
+conceitoimoveistapejara;Sales;casas;230000.0;CASA MISTA EM COXILHA;Coxilha;RS;Centro;RUA ITALINO SARTORI;3;;;;80.0;;
+conceitoimoveistapejara;Sales;casas;200000.0;CASA DE ALVENARIA EM COXILHA;Coxilha;RS;Centro;RUA ITALINO SARTORI;3;;;;80.0;;
+conceitoimoveistapejara;Sales;casas;189000.0;CASA DE ESQUINA;Tapejara;RS;;RUA IVANETE BARONI;3;1;1;;80.0;;
+conceitoimoveistapejara;Sales;casas;187000.0;CASA DE MADEIRA NO LOT. BIANCHINI;Tapejara;RS;São Paulo;LOTEAMENTO BIANCHINI;3;;;339.56;90.0;;
+conceitoimoveistapejara;Sales;casas;180000.0;CASA ACONCHEGANTE EM SERVIDÃO;Tapejara;RS;Centro;RUA TRANQUILO BASSO;2;;1;;90.0;;
+conceitoimoveistapejara;Sales;casas;175000.0;VENDE-SE CASA NO LOT. BORGES EM TAPEJARA;Tapejara;RS;;;3;;1;;90.0;;
+conceitoimoveistapejara;Sales;casas;160000.0;CASA DE 03 DORMITÓRIOS NO BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;RUA LOURENÇO DALLOLIVO;3;;1;180.0;;;
+conceitoimoveistapejara;Sales;casas;;CASA DE ESQUINA REAL 02;Tapejara;RS;Real 02;RUA SERGIO NARDI;3;;1;130.0;67.0;Semi;
+conceitoimoveistapejara;Sales;casas;;CASA NOVA COM FINO ACABAMENTO;Tapejara;RS;Centro;RUA ANTONIO XAVIER DE OLIVEIRA;3;3;1;250.0;215.34;;Baixo
+conceitoimoveistapejara;Sales;casas;;CASA DE 02 PISOS COM PAVILHÃO;Tapejara;RS;Centro;RUA CEL GERVASIO;3;;;698.85;;;
+conceitoimoveistapejara;Sales;casas;;CASA SEMI MOBILIADA PRÓXIMA AO MERCADO REAL;Tapejara;RS;Loteamento Real;Rua ANGELO BERTON;2;;1;204.16;;;
+conceitoimoveistapejara;Sales;casas;;ÓTIMA CASA MOBILIADA EM BARRACÃO;Barracao;RS;Conceição;RUA ANIBAL JOSÉ DE PAULA;2;;1;300.0;;Sim;
+conceitoimoveistapejara;Sales;casas;;CASA EM ALVENARIA COM TERRENO;Tapejara;RS;São Cristóvão;RUA ERVILHO BAPTISTA BÉ;2;;;243.0;;;
+conceitoimoveistapejara;Sales;casas;;CASA DE MORADIA EM ALVENARIA;Tapejara;RS;São Cristóvão;SD-01;3;;;300.0;;;
+conceitoimoveistapejara;Sales;casas;;CASA DE 02 DORMITÓRIOS;Tapejara;RS;São Paulo;ALBERTO PASQUALINI;2;;2;231.0;;;
+conceitoimoveistapejara;Sales;casas;;VENDE-SE CASA;Tapejara;RS;Centro;Rua Borges de medeiros;4;1;1;;;;
+conceitoimoveistapejara;Sales;apartamentos;800000.0;APARTAMENTO DE 03 DORMITÓRIOS  NO ED. ATTUALITÁ;Tapejara;RS;Centro;AV. 7 DE SETEMBRO;3;1;2;203.24;169.84;Semi;Alto
+conceitoimoveistapejara;Sales;apartamentos;800000.0;DUPLEX NO EDIFÍCIO AV. CENTER;Tapejara;RS;;AV 7 DE SETEMBRO;3;1;1;190.0;;Semi;Alto
+conceitoimoveistapejara;Sales;apartamentos;790000.0;APARTAMENTO NO ED. INNOVARE TORRE LUA;Tapejara;RS;;RUA NOVE DE AGOSTO;2;1;1;112.87;97.04;Semi;Alto
+conceitoimoveistapejara;Sales;apartamentos;750000.0;APARTAMENTO COBERTURA ED. SOLARE;Tapejara;RS;Centro;AV CORONEL LOLICO;2;1;1;147.4;118.45;Semi;Alto
+conceitoimoveistapejara;Sales;apartamentos;745000.0;ÓTIMO APARTAMENTO NO EDFÍCIO PREMIER;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS;3;;1;;118.45;Sim;Baixo
+conceitoimoveistapejara;Sales;apartamentos;700000.0;VENDE-SE APTO NO ED. MENEGAZ;Tapejara;RS;Bairro Centro;RUA DO COMÉRCIO;3;1;1;;118.45;;Médio
+conceitoimoveistapejara;Sales;apartamentos;650000.0;APARTAMENTO DE 03 DORMITÓRIOS NO CENTRO;Tapejara;RS;Centro;RUA SANTO CANALI;3;1;1;145.54;116.51;Sim;Baixo
+conceitoimoveistapejara;Sales;apartamentos;650000.0;VENDE-SE APTO NO ED. MUNIQUE;Tapejara;RS;Centro;;3;1;1;;116.51;Semi;Alto
+conceitoimoveistapejara;Sales;apartamentos;650000.0;VENDE-SE APTO NO ED. MURANO;Tapejara;RS;Centro;AV. ELISEU RECH;2;;;123.33;103.87;;
+conceitoimoveistapejara;Sales;apartamentos;650000.0;VENDE-SE APARTAMENTO TODO MOBILIADO NO ED. SOLARE;Tapejara;RS;Centro;Rua Cel. Lolico;3;1;1;126.97;100.0;Sim;Alto
+conceitoimoveistapejara;Sales;apartamentos;640000.0;ÓTIMO APARTAMENTO NO EDIFÍCIO PREMIER;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS;2;;2;;100.0;Semi;Médio
+conceitoimoveistapejara;Sales;apartamentos;640000.0;APARTAMENTO NOVO NO ED. SÃO FRANCISCO;Tapejara;RS;Centro;RUA CEL. GERVÁSIO;3;1;1;;100.0;;Médio
+conceitoimoveistapejara;Sales;apartamentos;640000.0;APARTAMENTOS SEMIACABADOS NO ED. SÃO FRANCISCO;Tapejara;RS;Centro;RUA CEL. GERVÁSIO;3;1;1;;100.0;;
+conceitoimoveistapejara;Sales;apartamentos;630000.0;VENDE-SE APTO NO ED. MURANO;Tapejara;RS;Centro;AV. ELISEU RECH;3;1;;131.56;110.8;;Alto
+conceitoimoveistapejara;Sales;apartamentos;600000.0;VENDE-SE APTO NO ED. GRAN LUIGI;Tapejara;RS;Centro;RUA DO COMÉRCIO;3;;1;;110.8;;Médio
+conceitoimoveistapejara;Sales;apartamentos;590000.0;VENDE-SE IMÓVEL EM MEIA PRAIA -SC;Itapema;SC;Meia Praia;RUA 408;2;2;1;;110.8;;
+conceitoimoveistapejara;Sales;apartamentos;580000.0;APARTAMENTO ED. DOM ALFREDO;Tapejara;RS;Centro;RUA SANTO CANALI;3;1;1;126.52;94.36;;Médio
+conceitoimoveistapejara;Sales;apartamentos;580000.0;APTOS DE FUNDOS SEMIACABADOS ED. SÃO FRANCISCO;Tapejara;RS;Centro;RUA CEL. GERVÁSIO;3;1;1;;94.36;;
+conceitoimoveistapejara;Sales;apartamentos;550000.0;VENDE-SE APTO NO ED. MUNIQUE;Tapejara;RS;Centro;RUA CEL. LOLICO;3;;1;;94.36;;
+conceitoimoveistapejara;Sales;apartamentos;550000.0;VENDE-SE APARTAMENTO NO ED. LAFAYETTE;Tapejara;RS;Centro;Rua do Comércio;2;;1;;94.36;;Médio
+conceitoimoveistapejara;Sales;apartamentos;530000.0;VENDE-SE APARTAMENTO NO ED. HENRIQUE;Tapejara;RS;São Cristovão;RUA JULIO DE CASTILHOS;2;1;2;;94.36;Semi;Médio
+conceitoimoveistapejara;Sales;apartamentos;525000.0;VENDE-SE APARTAMENTO NO ED.PROVENCE;Tapejara;RS;;R. Ângelo Dalzotto;2;;2;;94.36;;
+conceitoimoveistapejara;Sales;apartamentos;520000.0;VENDE-SE APARTAMENTO NO ED.SIENA;Tapejara;RS;Centro;R. Padre Nóbrega;2;;1;;94.36;;
+conceitoimoveistapejara;Sales;apartamentos;495000.0;COBERTURA DE 02 DORM EDIFÍCIO VITÓRIA;Tapejara;RS;Centro;Rua nove de agosto;2;;1;99.0;83.0;Semi;Alto
+conceitoimoveistapejara;Sales;apartamentos;460000.0;APTO SEMI-MOBILIADO NO ED. SÃO FRANCISCO;Tapejara;RS;Centro;;2;;1;;83.0;Semi;
+conceitoimoveistapejara;Sales;apartamentos;400000.0;VENDE-SE APTO NO ED. MONTE BELO;Tapejara;RS;Centro;Rua do Comércio;3;1;1;123.37;113.21;;
+conceitoimoveistapejara;Sales;apartamentos;400000.0;VENDE-SE APTO NO ED. MONTE BELO (DE FRENTE);Tapejara;RS;Centro;Rua do Comércio;3;1;1;123.37;113.21;;Médio
+conceitoimoveistapejara;Sales;apartamentos;390000.0;VENDE-SE APTO AO LADO DA PRAÇA CENTRAL;Tapejara;RS;Centro;RUA DO COMÉRCIO;2;1;;113.0;;;Baixo
+conceitoimoveistapejara;Sales;apartamentos;385000.0;POSICIONADO NA ESQUINA;Tapejara;RS;;LOTEAMENTO BIANCHINI NOVO;2;;1;;;;Baixo
+conceitoimoveistapejara;Sales;apartamentos;380000.0;APTO NO ED. MONTE BELLO (FUNDOS);Tapejara;RS;Centro;RUA DO COMÉRCIO;3;;1;;;;Alto
+conceitoimoveistapejara;Sales;apartamentos;380000.0;APTO NO ED. MONTE BELLO (FUNDOS);Tapejara;RS;Centro;RUA DO COMÉRCIO;3;;;;;;Alto
+conceitoimoveistapejara;Sales;apartamentos;370000.0;APTO DE 02 DORMITÓRIOS ED. VITÓRIA;Tapejara;RS;Centro;NOVE DE AGOSTO;2;;1;82.93;;;Médio
+conceitoimoveistapejara;Sales;apartamentos;360000.0;APARTAMENTO DE 01 DORMITÓRIO NO ED. PREMIER;Tapejara;RS;Centro;;1;;1;65.76;52.88;;Médio
+conceitoimoveistapejara;Sales;apartamentos;360000.0;VENDE-SE APARTAMENTO NO ED.VENEZA;Tapejara;RS;Centro;R. Osorio da Silveira;2;;;;52.88;Semi;
+conceitoimoveistapejara;Sales;apartamentos;350000.0;APARTAMENTO NO ED. SAN MARINO;Tapejara;RS;;RUA DO COMÉRCIO;3;;1;;52.88;;Médio
+conceitoimoveistapejara;Sales;apartamentos;;APTO SEMI ACABADO EDIFÍCIO PROVENCE;Tapejara;RS;Centro;ANGELO DALZOTTO;3;1;1;152.03;118.43;;Médio
+conceitoimoveistapejara;Sales;apartamentos;330000.0;VENDE-SE APTO 402 DE ESQUINA NO CINCRIS 3;Tapejara;RS;São Cristovão;Rua Aurélio Sossela;2;;1;;118.43;;Alto
+conceitoimoveistapejara;Sales;apartamentos;300000.0;APTO DE 02 DORMITÓRIOS - 304;Tapejara;RS;São Cristóvão;RUA VALERIANO UHINI;2;;1;;118.43;;
+conceitoimoveistapejara;Sales;apartamentos;300000.0;VENDE-SE APTO DE 02 DORMITÓRIOS NO ED. PLÁTANOS;Tapejara;RS;São Cristovão;Rua Valeriano Ughini;2;;1;;118.43;;Médio
+conceitoimoveistapejara;Sales;apartamentos;290000.0;APTO DE 02 DORMITÓRIOS - 302;Tapejara;RS;São Cristóvão;RUA VALERIANO UHINI;2;;1;;118.43;;
+conceitoimoveistapejara;Sales;apartamentos;290000.0;APTO DE 02 DORMITÓRIOS - 403;Tapejara;RS;São Cristóvão;RUA VALERIANO UHINI;2;;1;;118.43;;
+conceitoimoveistapejara;Sales;apartamentos;280000.0;APARTAMENTO ED. SÃO GERALDO;Tapejara;RS;Centro;RUA 9 DEGOSTO;2;;;;118.43;;
+conceitoimoveistapejara;Sales;apartamentos;270000.0;VENDE-SE APTO NO ED. CINCRIS III;Tapejara;RS;São Cristóvão;RUA AURÉLIO SOSSELA;2;;1;;118.43;;Alto
+conceitoimoveistapejara;Sales;apartamentos;255000.0;APTO 203 NO ED. CINCRIS 3;Tapejara;RS;São Cristóvão;RUA AURÉLIO SOSSELA;2;;1;;118.43;;
+conceitoimoveistapejara;Sales;apartamentos;250000.0;VENDE-SE APTO NO ED.VERONA;Tapejara;RS;Centro;RUA ASSIS BRASIL;2;;1;;118.43;;
+conceitoimoveistapejara;Sales;apartamentos;240000.0;APARTAMENTO NO ED. CINCRIS 3;Tapejara;RS;São Cristovão;Rua;2;;1;78.19;66.54;;
+conceitoimoveistapejara;Sales;apartamentos;238000.0;A POUCOS METROS DA AV. 7 DE SETEMBRO;Tapejara;RS;São Cristóvão;RUA VALERIANO UGHINI;1;;1;;66.54;;
+conceitoimoveistapejara;Sales;apartamentos;228000.0;APTO DE 1 DORMITÓRIO - 201;Tapejara;RS;São Cristóvão;RUA VALERIANO UGHINI;1;;1;;66.54;;
+conceitoimoveistapejara;Sales;apartamentos;220000.0;APARTAMENTO EM PASSO FUNDO;Passo Fundo;RS;;;2;;1;;66.54;;
+conceitoimoveistapejara;Sales;apartamentos;220000.0;VENDE-SE APTO DE 01 DORMITÓRIO NO CENTRO;Tapejara;RS;Centro;AV. SETE DE SETEMBRO;1;;;;66.54;;Médio
+conceitoimoveistapejara;Sales;apartamentos;215000.0;APTO DE 01 DORMITÓRIO NO ED. SAN MARINO;Tapejara;RS;Centro;RUA DO COMÉRCIO;1;;;;66.54;;
+conceitoimoveistapejara;Sales;apartamentos;189000.0;VENDE-SE ÓTIMO APTO NO ED.DORING;Tapejara;RS;Centro;R. do Comércio;1;;;35.0;28.0;;
+conceitoimoveistapejara;Sales;apartamentos;170000.0;VENDE-SE APTO NO ED. ANA PAULA TODO REFORMADO;Tapejara;RS;São Paulo;Rua Egídio Escatula;2;;1;113.73;62.2;;
+conceitoimoveistapejara;Sales;apartamentos;170000.0;VENDE-SE APTO NO RES. ANA PAULA EM TAPEJARA RS;Tapejara;RS;São Paulo;RUA EGÍDIO SCATOLA;2;;1;96.09;50.2;;Baixo
+conceitoimoveistapejara;Sales;apartamentos;170000.0;APARTAMENTO CONDOMÍNIO IZIDORO DANIELI;Tapejara;RS;Izidoro Danieli;;2;;1;;50.2;Semi;Baixo
+conceitoimoveistapejara;Sales;apartamentos;155000.0;VENDE-SE APARTAMENTO NO IZIDORO DANIELI;Tapejara;RS;;;2;;;;50.2;;
+conceitoimoveistapejara;Sales;apartamentos;;APARTAMENTOS EDIFICIO PREMIER;Tapejara;RS;;Rua Júlio de Castilhos;1;;;;50.2;;
+conceitoimoveistapejara;Sales;apartamentos;;APTO MODERNO NO PROVENCE RESIDENCIAL;Tapejara;RS;Centro;RUA PADRE NOBREGA;2;1;2;103.73;80.66;;
+conceitoimoveistapejara;Sales;apartamentos;;RESIDENCIAL MONPANAI EM FRENTE A PRACINHA;Tapejara;RS;;AV. ELISEU RECH;3;1;;;80.66;;
+conceitoimoveistapejara;Sales;apartamentos;;VENDE-SE APARTAMENTOS NA PLANTA.;Porto Belo;SC;Centro;RUA SÃO JOSÉ PETERMANN;3;3;2;;80.66;;
+conceitoimoveistapejara;Sales;apartamentos;;OPORTUNIDADE DE NEGÓCIO EM BALNEÁRIO PIÇARRAS;Tapejara;SC;;;3;;;;80.66;;
+conceitoimoveistapejara;Sales;apartamentos;;VENDE-SE APTOS. NO ED CONTEMPORÂNEO;Tapejara;RS;Centro;AV SETE DE SETEMBRO;2;;;;80.66;;
+conceitoimoveistapejara;Sales;apartamentos;;CASA GERMINADA DE ALTO PADRÃO;Tapejara;RS;Lot. Bianchini;;3;1;1;;80.66;;
+conceitoimoveistapejara;Sales;apartamentos;;VENDE-SE APTO EM PORTO BELLO-SC;Porto Belo;SC;Alto Pereque;Rua João Carlos Abraham;3;1;1;198.0;105.0;;
+conceitoimoveistapejara;Sales;apartamentos;;LÁ GRÁCIA RESIDENCE;Porto Belo;SC;Alto Pereque;R. NEREU RAMOS;3;2;1;;105.0;;JULHO/2026
+conceitoimoveistapejara;Sales;apartamentos;;ED. AIPÊ NO CENTRO DE TAPEJARA;Tapejara;RS;Centro;Rua 15 de Novembro;2;1;1;;105.0;;
+conceitoimoveistapejara;Sales;apartamentos;;APTOS PARA VENDA NO RES. MONET;Tapejara;RS;Centro;Rua do Comércio;2;1;1;;105.0;;
+conceitoimoveistapejara;Rents;casas;1350.0;ALUGA-SE CASA CENTRAL FRENTE COM BIBLIOTECA;Tapejara;RS;Centro;R. Cel. Gervásio;3;;;;105.0;;
+conceitoimoveistapejara;Rents;casas;1000.0;ALUGA-SE PARTE SUPERIOR;Tapejara;RS;;R. Manoel Teixeira;3;;;;105.0;;
+conceitoimoveistapejara;Rents;casas;;ALUGA-SE ÓTIMA CASA;Tapejara;RS;São Paulo;R. Amélia da Silva;2;;1;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;2600.0;ALUGA-SE APARTAMENTO COBERTURA NO ED.SOLARE;Tapejara;RS;Centro;Av coronel lolico;3;1;1;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;2500.0;ALUGA-SE ÓTIMO APARTAMENTO NO ED.NOBLESSE;Tapejara;RS;Centro;RUA INDEPENDENCIA,710;3;1;2;;105.0;Semi;Alto
+conceitoimoveistapejara;Rents;apartamentos;1700.0;ALUGA-SE ÓTIMO APARTAMENTO NO ED. MURANO;Tapejara;RS;;Av. Eliseu Rech;2;;;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;1450.0;ALUGA-SE ÓTIMO APTO NO ED.SITTA;Tapejara;RS;Centro;R. do Comércio;2;;;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;1300.0;ALUGA-SE APTO ED.PANORÂMICO;Tapejara;RS;;Av. Valdo Nunes Viêira;1;;1;;105.0;Sim;
+conceitoimoveistapejara;Rents;apartamentos;1150.0;ALUGA-SE ÓTIMO APARTAMENTO NO ED.MILANO;Tapejara;RS;;21 de abril;3;;;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;1100.0;ALUGA-SE ÓTIMO APARTAMENTO NO ED.MILANO;Tapejara;RS;;21 de abril;2;;;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;1000.0;PORÃO NO CENTRO;Tapejara;RS;Centro;Rua XV de Novembro;2;;1;;105.0;;Baixo
+conceitoimoveistapejara;Rents;apartamentos;900.0;ALUGA-SE ÓTIMO APARTAMENTO NO ED.IZIDORO DANIELI;Tapejara;RS;;izidoro danieli;2;;;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;750.0;ALUGA-SE APARTAMENTO NO ED.IZIDORO DANIELI;Tapejara;RS;;Condominio Izidoro Danieli;2;;;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;700.0;ALUGA-SE ÓTIMO APARTAMENTO;Tapejara;RS;;;1;;;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;700.0;QUITINETE NO ED. CINCRIS 6 AP-602;Tapejara;RS;;RUA VALERIANO UGHINI;1;;;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;700.0;QUITINETE NO ED. CINCRIS 6 AP-502;Tapejara;RS;;RUA VALERIANO UGHINI;1;;;;105.0;;
+conceitoimoveistapejara;Rents;comercial;6500.0;SALA COMERCIAL NO ED. ASTECA;Tapejara;RS;;Rua do Comércio;;;;;105.0;;
+conceitoimoveistapejara;Rents;comercial;6000.0;ALUGA-SE ÓTIMO PAVILHÃO;Tapejara;RS;;Av. SETE DE SETEMBRO;;;;;105.0;;
+conceitoimoveistapejara;Rents;comercial;3600.0;PAVILHÃO NA RUA SANTO CANALI;Tapejara;RS;Centro;RUA SANTO CANALI;;;1;850.0;450.0;;
+conceitoimoveistapejara;Rents;comercial;2600.0;ALUGA-SE CASA NA FRENTE DA PRAÇA CENTRAL;Tapejara;RS;Centro;R. Júlio de Castilhos;;;;;450.0;;
+conceitoimoveistapejara;Rents;comercial;2500.0;SALA COMERCIAL AO LADO DO SAÚDE CENTER;Tapejara;RS;Centro;RUA TRANQUILO BASSO;;;;73.0;;;
+conceitoimoveistapejara;Rents;comercial;2500.0;ALUGA-SE SALA COMERCIAL;Tapejara;RS;Centro;Rua Tranquilo Basso;;;1;;;;Baixo
+conceitoimoveistapejara;Rents;comercial;2200.0;ALUGA-SE CLINICA ODONTOLÓGICA;Tapejara;RS;Centro;RUA CORONEL LOLICO;;;;;;;Baixo
+conceitoimoveistapejara;Rents;comercial;2160.0;ALUGA-SE SALA COMERCIAL;Tapejara;RS;Lot. Bianchini;Rua Pedro Rebeschini;;;;160.0;;;
+conceitoimoveistapejara;Rents;comercial;2000.0;PAVILHÃO AO LADO DA  AGROMILK;Tapejara;RS;;RUA OSÓRIO DA SILVEIRA;;;;160.0;160.0;;
+conceitoimoveistapejara;Rents;comercial;1900.0;SALA COMERCIAL NO ED. MERIDIONAL;Tapejara;RS;;RUA XV DE NOVEMBRO;;;;;160.0;;
+conceitoimoveistapejara;Rents;comercial;1500.0;SALA COMERCIAL PRÓXIMA AO GRILO;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS;;;;;160.0;;
+conceitoimoveistapejara;Rents;comercial;1400.0;ALUGA-SE SALA COMERCIAL;Tapejara;RS;Centro;Av. Eliseu Rech;;;;;160.0;;
+conceitoimoveistapejara;Rents;comercial;1300.0;ALUGA-SE ÓTIMA SALA COMERCIAL;Tapejara;RS;Centro;R. Valeriano Ughini;;;;;160.0;;
+conceitoimoveistapejara;Rents;comercial;1200.0;SALA AÉREA NO ED. MERIDIONAL;Tapejara;RS;;RUA DO COMÉRCIO;;;;;160.0;;
+conceitoimoveistapejara;Rents;comercial;790.0;SALA COMERCIAL NO ED PROFISSIONAL CENTER;Tapejara;RS;;RUA DO COMÉRCIO;;;;;160.0;;Médio
+conceitoimoveistapejara;Rents;comercial;790.0;SALA COMERCIAL NO ED. PROFISSIONAL CENTER;Tapejara;RS;Centro;RUA DO COMÉRCIO;;;;;160.0;;
+conceitoimoveistapejara;Sales;comercial;1500000.0;CASA EM IBIAÇA;Ibiaca;RS;Centro;;3;;;344.64;381.1;;
+conceitoimoveistapejara;Sales;comercial;965000.0;VENDE-SE SALA COMERCIAL DUPLEX;Tapejara;RS;;Rua Leorindo Cavichioli;;;;;381.1;;
+conceitoimoveistapejara;Sales;comercial;950000.0;PAVILHÃO 500M2;Tapejara;RS;Centro;;;;;490.7;;;
+conceitoimoveistapejara;Sales;comercial;900000.0;SALA COMERCIAL NA FRENTE DO MERCADO CENTRAL;Tapejara;RS;Centro;Rua do Comércio;;;;30.7;;;
+conceitoimoveistapejara;Sales;comercial;585000.0;VENDE-SE SALA COMERCIAL NA RUA DO COMÉRCIO;Tapejara;RS;Centro;Rua do Comércio;;;;82.0;;;
+conceitoimoveistapejara;Sales;comercial;290000.0;SALA COMERCIAL NO ED CINCRIS 5;Tapejara;RS;;RUA VALERIANO UGHINI;;;;;;;
+conceitoimoveistapejara;Sales;comercial;155000.0;VENDE-SE SALA COMERCIAL;Tapejara;RS;Centro;Rua cel lolico;;;;3472.98;2748.5;;
+conceitoimoveistapejara;Sales;comercial;110000.0;SALA COMERCIAL NO ED. PROFISSIONAL CENTER;Tapejara;RS;Centro;RUA DO COMÉRCIO;;;;;2748.5;;
+conceitoimoveistapejara;Sales;comercial;;SALAS COMERCIAIS ED. CONTEMPORANEO;Tapejara;RS;Centro;AV 7 DE SETEMBRO;;;;;2748.5;;
+conceitoimoveistapejara;Sales;comercial;;CASA DE 02 PISOS COM PAVILHÃO;Tapejara;RS;Centro;RUA CEL GERVASIO;3;;;698.85;;;
+conceitoimoveistapejara;Sales;comercial;;VENDE-SE VARIAS SALAS COMERCIAIS PRÓXIMAS A PRAÇA;Tapejara;RS;Centro;;;;;;;;
+conceitoimoveistapejara;Sales;comercial;;07 SALAS PARA VENDA NO ED. CONTEMPORÂNEO.;Tapejara;RS;Centro;Av.07 de Setembro;;;;;;;
+conceitoimoveistapejara;Sales;comercial;;ED. AIPÊ NO CENTRO DE TAPEJARA;Tapejara;RS;Centro;Rua 15 de Novembro;2;1;1;;;;
+conceitoimoveistapejara;Sales;terrenos;2600000.0;VENDE-SE ÁREA DE TERRA PRÓXIMA A CAPÃO DE MATO;Agua Santa;RS;;;;;;90918.0;;;
+conceitoimoveistapejara;Sales;terrenos;1790000.0;VENDE-SE 04 AVIÁRIOS COM ÓTIMO RETORNO FINANCEIRO;Tapejara;RS;;;;;;27000.0;;;
+conceitoimoveistapejara;Sales;terrenos;1600000.0;TERRENO NO CENTRO PRÓXIMO A PRAÇA CENTRAL;Tapejara;RS;Centro;RUA JÚLIO DE CASTILHOS;;;;748.0;;;
+conceitoimoveistapejara;Sales;terrenos;1600000.0;VENDE-SE AMPLO TERRENO EM VACARIA;Vacaria;RS;Centro;Av. Samuel Guazzelll;;;;3457.0;;;
+conceitoimoveistapejara;Sales;terrenos;1479000.0;VENDE-SE  ÁREA RURAL DE 87 HECTARES - SÃO SEPÉ;Sao Sepe;RS;;;;;;870000.0;;;
+conceitoimoveistapejara;Sales;terrenos;1394000.0;VENDE-SE AMPLO TERRENO NO CENTRO DA CIDADE;Tapejara;RS;Centro;AV. VALDO NUNES VIEIRA;;;;100.0;;;
+conceitoimoveistapejara;Sales;terrenos;1100000.0;ÁREA DE TERRA EM CHARRUA;Charrua;RS;;LOCALIDADE SÃO ROQUE;;;;229000.0;;;
+conceitoimoveistapejara;Sales;terrenos;850000.0;ÁREA DE TERRA EM CHARRUA;Charrua;RS;Interior;COMUNIDADE DE SÃO ROQUE;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;799000.0;VENDE-SE TERRENO NA PERIMETRAL;Tapejara;RS;;;;;;6015.21;;;
+conceitoimoveistapejara;Sales;terrenos;740000.0;ÁREA DE 6 HECTARES NO PAIOL NOVO;Tapejara;RS;Interior;PAIOL NOVO;;;;60000.0;;;
+conceitoimoveistapejara;Sales;terrenos;580000.0;ÁREA DE TERRA COM MATRÍCULA PRÓXIMA A LOTEAMENTO;Tapejara;RS;;ESTRADA SAÍDA PARA ÁGUA SANTA;;;;2700.0;;;
+conceitoimoveistapejara;Sales;terrenos;550000.0;TERRENO ESQUINA NO CENTRO;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS ESQ COM AV VALDO NUNES VIEIRA;;;;300.0;;;
+conceitoimoveistapejara;Sales;terrenos;525000.0;ÓTIMO TERRENO DE ESQUINA NO LOTEAMENTO MÂNICA;Tapejara;RS;;R. Dr. Célso Domingues;;;;525.17;;;
+conceitoimoveistapejara;Sales;terrenos;520000.0;TERRENO DE FRENTE PARA AV. SETE DE SETEMBRO;Tapejara;RS;São Paulo;AV. SETE DE SETEMBRO;;;;500.0;;;
+conceitoimoveistapejara;Sales;terrenos;500000.0;ÁREA DE TERRA EM SÃO ROQUE EM CHARRUA;Charrua;RS;Comunidade De Interior;SÃO ROQUE;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;490000.0;ÓTIMO TERRENO DE ESQUINA COM PAVILHÃO;Tapejara;RS;São Paulo;ESQUINA DA RUA JOÃO XXIII COM A RUA JOÃO MARIN;;;;661.4;;;
+conceitoimoveistapejara;Sales;terrenos;490000.0;CHÁCARA EM CACHOEIRRA MÉDIA;Charrua;RS;Comunidade;CACHOEIRRA MÉDIA;;;;11336.92;;;
+conceitoimoveistapejara;Sales;terrenos;490000.0;VENDE-SE CHÁCARA EM VILA CAMPOS;Tapejara;RS;;;;;;2700.0;;;
+conceitoimoveistapejara;Sales;terrenos;480000.0;VENDE-SE CHÁCARA NO ALTOS DO FUNIL;Tapejara;RS;Loteamento Altos Do Funil;;;;;3000.0;;;
+conceitoimoveistapejara;Sales;terrenos;450000.0;TERRENO COMERCIAL;Tapejara;RS;Centro;LOT. BASEGGIO;;;;1325.68;;;
+conceitoimoveistapejara;Sales;terrenos;450000.0;ÓTIMO TERRENO NA VILA RICA;Tapejara;RS;Sol Nascente;RUA SILVA JARDIM;;;;515.9;;;
+conceitoimoveistapejara;Sales;terrenos;450000.0;TERRENO EM PASSO FUNDO;Passo Fundo;RS;São José;Rua Cruz e Souza;;;;1100.0;;;
+conceitoimoveistapejara;Sales;terrenos;420000.0;TERRENO ESQUINA NO LOT. MANICA;Tapejara;RS;Loteamento Manica;RUA MANOEL TEIXEIRA COM A SANTOS DOMINGUES;;;;531.47;;;
+conceitoimoveistapejara;Sales;terrenos;400000.0;EXCELENTE CHÁCARA EM SÃO BRÁS;Tapejara;RS;São Brás;;;;;1425.0;;;
+conceitoimoveistapejara;Sales;terrenos;375000.0;ÁREA DE TERRA NA DIVISA DE TAPEJARA E IBIAÇA;Ibiaca;RS;;ERS 467;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;340000.0;TERRENO DE ESQUINA NA VILA RICA;Tapejara;RS;;VILA RICA 2;;;;383.27;;;
+conceitoimoveistapejara;Sales;terrenos;340000.0;VENDE-SE IMÓVEL NO LOT. COLUSSI;Tapejara;RS;Loteamento Colussi;Rua Ângelo Dalzotto;;;;577.31;;;
+conceitoimoveistapejara;Sales;terrenos;320000.0;TERRENO NA VILA RICA 4;Tapejara;RS;;;;;;325.0;;;
+conceitoimoveistapejara;Sales;terrenos;250000.0;CHÁCARA EM VILA CAMPOS;Tapejara;RS;;VILA CAMPOS;;;;1000.0;;;
+conceitoimoveistapejara;Sales;terrenos;250000.0;ÁREA DE RESERVA E PRÓPRIO PARA CHÁCARAS;Tapejara;RS;;;;;;42000.0;;;
+conceitoimoveistapejara;Sales;terrenos;240000.0;TERRENOS NO LOTEAMENTO COMIRAN;Tapejara;RS;;Av. Dom Pedro II;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;240000.0;CHACARA COM CASA E PISCINA NA LINHA CARAVAGIO;Tapejara;RS;;LINHA CARAVAGIO;;;;660.0;;;
+conceitoimoveistapejara;Sales;terrenos;235000.0;VENDE-SE ÓTIMA CHÁCARA EM VILA CAMPOS;Tapejara;RS;;Vila Campos;;;;1284.0;;;
+conceitoimoveistapejara;Sales;terrenos;230000.0;ÓTIMO TERRENO NO LOTEAMENTO COLUSSI;Tapejara;RS;Centro;RUA SD,LOTEAMENTO COLUSSI;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;215000.0;VENDE-SE TERRENO NO SOL POENTE;Tapejara;RS;Sol Poente;Rua Ãngelo Dalzotto;;;;357.6;;;
+conceitoimoveistapejara;Sales;terrenos;210000.0;VENDE-SE TERRENO - CENTRO DE QUADRA;Tapejara;RS;São Cristóvão;RUA JÚLIO DE CASTILHOS;;;;650.0;;;
+conceitoimoveistapejara;Sales;terrenos;205000.0;VENDE-SE TERRENO NO LOT. JARDIM ITÁLIA;Tapejara;RS;Lot. Jardim Itália;RUA JÚLIO DE CASTILHOS;;;;336.0;;;
+conceitoimoveistapejara;Sales;terrenos;200000.0;TERRENO 1  NAZARÉ I I;Tapejara;RS;Nazaré;RUA JOÃO MANOEL BERNARDES;;;;336.0;;;
+conceitoimoveistapejara;Sales;terrenos;200000.0;TERRENO 2  NAZARÉ I I;Tapejara;RS;Nazaré;RUA JOÃO MANOEL BERNARDES;;;;336.0;;;
+conceitoimoveistapejara;Sales;terrenos;200000.0;AMPLO TERRENO;Tapejara;RS;São Cristóvão;;;;;312.5;;;
+conceitoimoveistapejara;Sales;terrenos;200000.0;VENDE-SE TERRENO NO BAIRRO SAO PAULO;Tapejara;RS;São Paulo;;;;;330.0;;;
+conceitoimoveistapejara;Sales;terrenos;190000.0;VENDE-SE TERRENO EM TAPEJARA;Tapejara;RS;Centro;AV. VALDO NUNES VIEIRA;;;;424.16;;;
+conceitoimoveistapejara;Sales;terrenos;190000.0;ÓTIMO TERRENO NO LOTEAMENTO VERGINIA;Tapejara;RS;;Loteamento Virginia;;;;238.78;;;
+conceitoimoveistapejara;Sales;terrenos;185000.0;TERRENO EM LOCAL ALTO NO LOT. ITÁLIA;Tapejara;RS;Loteamento Itália;;;;;375.0;;;
+conceitoimoveistapejara;Sales;terrenos;185000.0;ÓTIMO TERRENO À VENDA;Tapejara;RS;;Rua Wilson Afonso Damin;;;;240.0;;;
+conceitoimoveistapejara;Sales;terrenos;180000.0;VENDE-SE TERRENO NO LOT. COASA;Tapejara;RS;São Paulo;RUA GIOCONDO CANALI;;;;320.0;;;
+conceitoimoveistapejara;Sales;terrenos;180000.0;VENDE-SE TERRENO NO LOT. BELLA COLINA;Tapejara;RS;Loteamneto Bella Colina;Rua Marieli Andreola Esq. Rua Geronimo Bonora;;;;367.5;;;
+conceitoimoveistapejara;Sales;terrenos;175000.0;TERRENO NO LOTEAMENTO JARDIM ITÁLIA;Tapejara;RS;;RUA JULIO DE CASTILHOS;;;;336.0;;;
+conceitoimoveistapejara;Sales;terrenos;168000.0;TERRENO NO LOT. JARDIM ITALIA;Tapejara;RS;Loteamento Jardim Itália;RUA DO COMÉRCIO;;;;300.0;;;
+conceitoimoveistapejara;Sales;terrenos;168000.0;TERRENO NO LOTEAMENTO DO PARQUE;Tapejara;RS;;RUA MANOEL TEIXEIRA;;;;240.0;;;
+conceitoimoveistapejara;Sales;terrenos;165000.0;TERRENO LOTEAMENTO COLUSSI;Tapejara;RS;;RUA ANGELO DALZOTTO;;;;225.0;;;
+conceitoimoveistapejara;Sales;terrenos;160000.0;VENDE-SE TERRENO NO BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;Rua PE Júlio João Marin;;;;672.0;;;
+conceitoimoveistapejara;Sales;terrenos;155000.0;SITIO PROXIMO A ITALAC;Tapejara;RS;;;;;;1000.0;;;
+conceitoimoveistapejara;Sales;terrenos;150000.0;TERRENO LOT. BIANCHINI;Tapejara;RS;Loteamento Bianchini;;;;;240.0;;;
+conceitoimoveistapejara;Sales;terrenos;150000.0;TERRENO NA PERIMETRAL;Tapejara;RS;;;;;;671.65;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE TERRENOS NO LOTEAMENTO BELLA COLINA;Tapejara;RS;Lot. Bella Colina;;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;125000.0;PRONTA PARA USUFRUIR;Tapejara;RS;;;;;;1000.0;;;
+conceitoimoveistapejara;Sales;terrenos;120000.0;CHÁCARA PRÓXIMA A ITALAC;Tapejara;RS;;;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;110000.0;TERRENO DE ESQUINA NO LOT. ARAUCÁRIA;Tapejara;RS;São Paulo;RUA LODOVINO ZANCHETA;;;;262.5;;;
+conceitoimoveistapejara;Sales;terrenos;110000.0;VENDE-SE TERRENO NO LOT. ARAUCÁRIA;Tapejara;RS;Loteamento Araucária 2;Rua Fiorante Fiabani Esq. Rua Ulisses Fruscalso;;;;252.0;;;
+conceitoimoveistapejara;Sales;terrenos;110000.0;VENDE-SE 05 CHÁCARAS EM CACHOEIRRA MÉDIA;Tapejara;RS;;;;;;1000.0;;;
+conceitoimoveistapejara;Sales;terrenos;90000.0;VENDE-SE TERRENO NO LOT. ARAUCÁRIA;Tapejara;RS;;;;;;262.5;;;
+conceitoimoveistapejara;Sales;terrenos;90000.0;SITIO PROXIMO AO RIO CARRETEIRO;Tapejara;RS;;;;;;1200.0;;;
+conceitoimoveistapejara;Sales;terrenos;85000.0;SITIO EM SÃO DOMINGOS - SANANDUVA/RS;Sananduva;RS;;;;;;1000.0;;;
+conceitoimoveistapejara;Sales;terrenos;82000.0;TERRENO NO LOTEAMENTO REAL;Tapejara;RS;Loteamento Real;RUA ÂNGELO BERTON;;;;143.0;;;
+conceitoimoveistapejara;Sales;terrenos;70000.0;TERRENOS NO LOTEAMENTO ZOPPAS;Tapejara;RS;Loteamento Zoppas;;;;;200.0;;;
+conceitoimoveistapejara;Sales;terrenos;;TERRENO ESQUINA;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS ESQUINA COM RUA ARTUR FERREIRA FILHO;;;;280.0;;;
+conceitoimoveistapejara;Sales;terrenos;;LOTEAMENTO JARDIM ITÁLIA;Tapejara;RS;;;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;;R$ 150,00 O M²;Tapejara;RS;Perimetral;;;;;18150.0;;;
+conceitoimoveistapejara;Sales;terrenos;;ÁREA DE TERRA LINHA SCARIOT;Tapejara;RS;;;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;;3 TERRENOS PARA VENDA NO LOT. BELLA COLINA;Tapejara;RS;;;;;;825.0;;;
+conceitoimoveistapejara;Sales;terrenos;;TERRENOS NO LOTEAMENTO BELLA COLINA;Tapejara;RS;Saída Para água Santa;ESTRADA PERIMETRAL,SAÍDA PARA ÁGUA SANTA;;;;360.0;;;
+conceitoimoveistapejara;Sales;terrenos;;CHÁCARA CARAVÁGIO;Tapejara;RS;Interior;LINHA CARAVÁGIO;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;;TERRENO COMERCIAL NO CENTRO;Tapejara;RS;Centro;RUA DO COMÉRCIO;;;;1050.0;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE CHACÁRAS EM VILA CAMPOS COM MAIS DE 1000M;Tapejara;RS;;Vila Campos;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;;CHÁCARA EM VILA CAMPOS DE 2000 METROS;Tapejara;RS;;Vila Campos;;;;2000.0;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE CHÁCARA EM VILA CAMPOS;Tapejara;RS;;VILA CAMPOS;;;;3000.0;;;
+conceitoimoveistapejara;Sales;terrenos;;OPORTUNIDADE DE NEGÓCIO EM BALNEÁRIO PIÇARRAS;Tapejara;SC;;;3;;;;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE TERRENO NO BAIRRO SÃO CRISTÓVÃO;Tapejara;RS;;RUA DO COMÉRCIO;;;;807.6;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE AMPLO TERRENO NO SÃO CRISTÓVÃO;Tapejara;RS;;RUA DO COMÉRCIO;;;;497.55;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE TERRENO NO B. SÃO CRISTÓVÃO;Tapejara;RS;;RUA DO COMÉRCIO;;;;302.55;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE TERRENO DE ESQUINA NO B. SÃO CRISTÓVÃO;Tapejara;RS;;RUA DO COMÉRCIO;;;;302.55;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE TERRENO NA RUA FIORAVANTE RECH;Tapejara;RS;;RUA FIORAVANTE RECH;;;;389.1;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE TERRENO NO LOT. SEBBEN;Tapejara;RS;São Paulo;;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE TERRENOS NO LOTEAMENTO MARCON;Tapejara;RS;Centro;;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;;À VENDA CHÁCARAS NA LINHA MARCHIORI;Tapejara;RS;Linha Marchiori;;;;;0.0;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE TERRENO NO PAIOL NOVO;Tapejara;RS;;PAIOL NOVO;;;;30000.0;;;
+conceitoimoveistapejara;Sales;terrenos;;VENDE-SE ÁREA RURAL NA CACHOEIRA MÉDIA;Tapejara;RS;;CACHOEIRA MÉDIA;;;;0.0;;;
+conceitoimoveistapejara;Sales;casas;1500000.0;CASA EM IBIAÇA;Ibiaca;RS;Centro;;3;;;344.64;381.1;;
+conceitoimoveistapejara;Sales;casas;1400000.0;CASA GRANDE;Tapejara;RS;Centro;RUA EUGENIO FELINI;4;1;2;840.0;;Semi;
+conceitoimoveistapejara;Sales;casas;1000000.0;VENDE-SE CASA DE ESQUINA NO CENTRO;Tapejara;RS;Centro;Rua do Comércio Esqu. Manoel Teixeira;3;;2;;;;Baixo
+conceitoimoveistapejara;Sales;casas;998000.0;VENDE-SE ÓTIMA CASA  DE ALVENARIA;Tapejara;RS;Centro;rua independencia;4;1;2;419.0;186.0;;
+conceitoimoveistapejara;Sales;casas;980000.0;CASA COM 03 PAVIMENTOS NO LOTEAMENTO COLUSSI;Tapejara;RS;;RUA CEL. LOLICO;3;1;2;;186.0;;
+conceitoimoveistapejara;Sales;casas;900000.0;LOTEAMENTO BIANCHINI NO BAIRRO SÃO PAULO;Tapejara;RS;;RUA CARINO CANALI;5;;3;412.5;;;
+conceitoimoveistapejara;Sales;casas;890000.0;CASA DE ESQUINA NA VILA RICA;Tapejara;RS;Sol Nascente;Rua DR. Celso Domingues;3;;2;480.0;215.0;;
+conceitoimoveistapejara;Sales;casas;890000.0;CASA SEMI-ACABADA A VENDA NO LOT. JARDIM ITÁLIA;Tapejara;RS;Loteamento Jardim Itália;;3;1;2;375.0;;;
+conceitoimoveistapejara;Sales;casas;830000.0;TERRENO COM DUAS CASAS NO BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;TRAVESSA MARSIGLIO;3;;;400.0;;;
+conceitoimoveistapejara;Sales;casas;760000.0;VENDE-SE CASA NO BAIRRO SÃO CRISTÓVÃO;Tapejara;RS;São Cristovão;Rua Antônio Marchiori;3;;3;630.15;228.72;;
+conceitoimoveistapejara;Sales;casas;750000.0;VENDE-SE CASA EM BAIRRO NOBRE DE TAPEJARA;Tapejara;RS;Sol Nascente;RUA SILVA JARDIM;3;;2;;228.72;;
+conceitoimoveistapejara;Sales;casas;750000.0;CASA PRÓXIMA AO CENTRO;Tapejara;RS;Centro;Rua Tranquilo Basso;3;;2;400.0;;Semi;
+conceitoimoveistapejara;Sales;casas;750000.0;VENDE-SE CASA COM ÓTIMA LOCALIZAÇÃO;Tapejara;RS;Nazaré;RUA MANOEL TEIXEIRA;3;;1;;;Semi;
+conceitoimoveistapejara;Sales;casas;730000.0;CASA AMPLA BAIRRO NAZARÉ;Tapejara;RS;Nazaré;RUA TUPINAMBA;4;1;2;350.0;200.0;Semi;
+conceitoimoveistapejara;Sales;casas;700000.0;CASA VILA RICA;Tapejara;RS;Centro;RUA FREDOLINO CHIMANGO;3;1;2;;200.0;;
+conceitoimoveistapejara;Sales;casas;700000.0;VENDE-SE CASA NA VILA RICA;Tapejara;RS;Vila Rica;RUA SILVA JARDIM;3;;1;453.29;;Semi;
+conceitoimoveistapejara;Sales;casas;700000.0;VENDE-SE CASA GRANDE COM 2 PISOS;Tapejara;RS;Centro;RUA ANTONIO XAVIER;5;;1;643.5;170.22;;
+conceitoimoveistapejara;Sales;casas;690000.0;CASA 03 DORM LOT BIANCHINI;Tapejara;RS;Lot Bianchini;rua do comércio;3;;;242.0;170.75;;
+conceitoimoveistapejara;Sales;casas;689000.0;VENDE-SE CASA PRÓXIMA AO HOSPITAL;Tapejara;RS;Centro;;3;;2;148.0;128.0;Semi;
+conceitoimoveistapejara;Sales;casas;680000.0;CASA AMPLA LOT. ZOPPAS;Tapejara;RS;Loteamento Zoppas;RUA SD;4;4;2;600.0;222.0;;
+conceitoimoveistapejara;Sales;casas;680000.0;VENDE-SE CASA PRÓXIMA AO 2º GRAU;Tapejara;RS;Centro;Rua Tranquilo Basso;5;;1;560.0;;;
+conceitoimoveistapejara;Sales;casas;650000.0;CASA MISTA COM 03 DORMITÓRIOS;Tapejara;RS;São Paulo;RUA DO COMÉRCIO;3;;1;624.0;;;
+conceitoimoveistapejara;Sales;casas;620000.0;VENDE-SE CASA DE 2 PISOS EM ESQUINA NO LOT. DAMIN;Tapejara;RS;São Cristovão;;3;;2;225.0;181.0;;
+conceitoimoveistapejara;Sales;casas;600000.0;CASA COM MOBÍLIA NO LOT NAZARÉ;Tapejara;RS;Nazaré;;4;;1;356.99;;;
+conceitoimoveistapejara;Sales;casas;600000.0;VENDE-SE CASA NO SÃO CRISTÓVÃO;Tapejara;RS;;;4;;2;;;;
+conceitoimoveistapejara;Sales;casas;590000.0;CASA DE ESQUINA COM AMPLO TERRENO;Tapejara;RS;;RUA OSWALDO CRUZ;5;;2;500.0;;;
+conceitoimoveistapejara;Sales;casas;480000.0;VENDE-SE CASA NO BAIRRO REAL II;Tapejara;RS;Loteamento Real;RUA ANTONIO MANICA;3;;1;;;;
+conceitoimoveistapejara;Sales;casas;430000.0;TERRENO COM 02 CASAS MISTAS;Tapejara;RS;;PAULINO FERMINO DA SILVA;2;;;240.0;;;
+conceitoimoveistapejara;Sales;casas;430000.0;VENDE-SE CASA EM ALVENARIA NO SOL POENTE;Tapejara;RS;Sol Poente;Rua João Bertoglio;5;;;200.0;100.0;;
+conceitoimoveistapejara;Sales;casas;420000.0;CASA A VENDA NO BAIRRO NAZARÉ;Tapejara;RS;Nazaré;RUA JOÃO MANOEL BERNARDES;2;;2;162.5;66.85;;
+conceitoimoveistapejara;Sales;casas;400000.0;CASA NO LOTEAMENTO FAVARETTO;Tapejara;RS;;RUA ISACO CALEGARI;2;;1;130.2;140.0;;
+conceitoimoveistapejara;Sales;casas;390000.0;VENDE-SE ÓTIMA CASA DE MADEIRA;Tapejara;RS;;R. Primeiro de Maio;2;;;369.2;90.0;Sim;
+conceitoimoveistapejara;Sales;casas;380000.0;CASA DE 2 PAVIMENTOS LOT. REAL 2;Tapejara;RS;Real Ii;Rua Ivonete Baroni;3;1;3;;90.0;;
+conceitoimoveistapejara;Sales;casas;370000.0;CASA 04 DORMITÓRIOS;Tapejara;RS;São Paulo;Rua Padre Raimundo Damin;4;;3;;90.0;;
+conceitoimoveistapejara;Sales;casas;370000.0;CASA DE 2 PAVIMENTOS - BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;Rua Padre Raimundo Damin;3;;2;;90.0;;
+conceitoimoveistapejara;Sales;casas;370000.0;CASA EM CONSTRUÇÃO COM FINALIZAÇÃO EM BREVE;Tapejara;RS;Lot. Araucária;Rua Paolo Merotto;2;;2;252.0;126.0;;
+conceitoimoveistapejara;Sales;casas;370000.0;VENDE-SE CASA GERMINADA EM TAPEJARA ESQUINA;Tapejara;RS;São Paulo - Coohasa 01;;2;;1;;126.0;;
+conceitoimoveistapejara;Sales;casas;370000.0;À VENDA CASA NO BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;RUA JOÃO XXIII;3;;2;198.0;98.0;;Baixo
+conceitoimoveistapejara;Sales;casas;350000.0;VENDE-SE CASA MOBILIADA;Tapejara;RS;;Linha Girardi;2;;;1000.0;;Sim;
+conceitoimoveistapejara;Sales;casas;320000.0;VENDE-SE CASA NO LOT. CASA NOVA;Tapejara;RS;;;2;;1;200.0;;;
+conceitoimoveistapejara;Sales;casas;290000.0;VENDE-SE CASA;Tapejara;RS;;Rua Coronel Gervásio e Arthur Ferraro Filho;2;;1;;;;
+conceitoimoveistapejara;Sales;casas;280000.0;VENDE-SE ÓTIMA CASA NO BAIRRO NAZARÉ;Tapejara;RS;Nazaré;Rua Valeriano uguini;2;;1;187.5;69.84;;
+conceitoimoveistapejara;Sales;casas;250000.0;VENDE-SE ÓTIMA CASA NO BAIRRO SÃO CRISTOVÃO;Tapejara;RS;São Cristovão;Rua Fioravente Rech;2;;2;145.0;80.0;;
+conceitoimoveistapejara;Sales;casas;230000.0;CASA MISTA EM COXILHA;Coxilha;RS;Centro;RUA ITALINO SARTORI;3;;;;80.0;;
+conceitoimoveistapejara;Sales;casas;200000.0;CASA DE ALVENARIA EM COXILHA;Coxilha;RS;Centro;RUA ITALINO SARTORI;3;;;;80.0;;
+conceitoimoveistapejara;Sales;casas;189000.0;CASA DE ESQUINA;Tapejara;RS;;RUA IVANETE BARONI;3;1;1;;80.0;;
+conceitoimoveistapejara;Sales;casas;187000.0;CASA DE MADEIRA NO LOT. BIANCHINI;Tapejara;RS;São Paulo;LOTEAMENTO BIANCHINI;3;;;339.56;90.0;;
+conceitoimoveistapejara;Sales;casas;180000.0;CASA ACONCHEGANTE EM SERVIDÃO;Tapejara;RS;Centro;RUA TRANQUILO BASSO;2;;1;;90.0;;
+conceitoimoveistapejara;Sales;casas;175000.0;VENDE-SE CASA NO LOT. BORGES EM TAPEJARA;Tapejara;RS;;;3;;1;;90.0;;
+conceitoimoveistapejara;Sales;casas;160000.0;CASA DE 03 DORMITÓRIOS NO BAIRRO SÃO PAULO;Tapejara;RS;São Paulo;RUA LOURENÇO DALLOLIVO;3;;1;180.0;;;
+conceitoimoveistapejara;Sales;casas;;CASA DE ESQUINA REAL 02;Tapejara;RS;Real 02;RUA SERGIO NARDI;3;;1;130.0;67.0;Semi;
+conceitoimoveistapejara;Sales;casas;;CASA NOVA COM FINO ACABAMENTO;Tapejara;RS;Centro;RUA ANTONIO XAVIER DE OLIVEIRA;3;3;1;250.0;215.34;;Baixo
+conceitoimoveistapejara;Sales;casas;;CASA DE 02 PISOS COM PAVILHÃO;Tapejara;RS;Centro;RUA CEL GERVASIO;3;;;698.85;;;
+conceitoimoveistapejara;Sales;casas;;CASA SEMI MOBILIADA PRÓXIMA AO MERCADO REAL;Tapejara;RS;Loteamento Real;Rua ANGELO BERTON;2;;1;204.16;;;
+conceitoimoveistapejara;Sales;casas;;ÓTIMA CASA MOBILIADA EM BARRACÃO;Barracao;RS;Conceição;RUA ANIBAL JOSÉ DE PAULA;2;;1;300.0;;Sim;
+conceitoimoveistapejara;Sales;casas;;CASA EM ALVENARIA COM TERRENO;Tapejara;RS;São Cristóvão;RUA ERVILHO BAPTISTA BÉ;2;;;243.0;;;
+conceitoimoveistapejara;Sales;casas;;CASA DE MORADIA EM ALVENARIA;Tapejara;RS;São Cristóvão;SD-01;3;;;300.0;;;
+conceitoimoveistapejara;Sales;casas;;CASA DE 02 DORMITÓRIOS;Tapejara;RS;São Paulo;ALBERTO PASQUALINI;2;;2;231.0;;;
+conceitoimoveistapejara;Sales;casas;;VENDE-SE CASA;Tapejara;RS;Centro;Rua Borges de medeiros;4;1;1;;;;
+conceitoimoveistapejara;Sales;apartamentos;800000.0;APARTAMENTO DE 03 DORMITÓRIOS  NO ED. ATTUALITÁ;Tapejara;RS;Centro;AV. 7 DE SETEMBRO;3;1;2;203.24;169.84;Semi;Alto
+conceitoimoveistapejara;Sales;apartamentos;800000.0;DUPLEX NO EDIFÍCIO AV. CENTER;Tapejara;RS;;AV 7 DE SETEMBRO;3;1;1;190.0;;Semi;Alto
+conceitoimoveistapejara;Sales;apartamentos;790000.0;APARTAMENTO NO ED. INNOVARE TORRE LUA;Tapejara;RS;;RUA NOVE DE AGOSTO;2;1;1;112.87;97.04;Semi;Alto
+conceitoimoveistapejara;Sales;apartamentos;750000.0;APARTAMENTO COBERTURA ED. SOLARE;Tapejara;RS;Centro;AV CORONEL LOLICO;2;1;1;147.4;118.45;Semi;Alto
+conceitoimoveistapejara;Sales;apartamentos;745000.0;ÓTIMO APARTAMENTO NO EDFÍCIO PREMIER;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS;3;;1;;118.45;Sim;Baixo
+conceitoimoveistapejara;Sales;apartamentos;700000.0;VENDE-SE APTO NO ED. MENEGAZ;Tapejara;RS;Bairro Centro;RUA DO COMÉRCIO;3;1;1;;118.45;;Médio
+conceitoimoveistapejara;Sales;apartamentos;650000.0;APARTAMENTO DE 03 DORMITÓRIOS NO CENTRO;Tapejara;RS;Centro;RUA SANTO CANALI;3;1;1;145.54;116.51;Sim;Baixo
+conceitoimoveistapejara;Sales;apartamentos;650000.0;VENDE-SE APTO NO ED. MUNIQUE;Tapejara;RS;Centro;;3;1;1;;116.51;Semi;Alto
+conceitoimoveistapejara;Sales;apartamentos;650000.0;VENDE-SE APTO NO ED. MURANO;Tapejara;RS;Centro;AV. ELISEU RECH;2;;;123.33;103.87;;
+conceitoimoveistapejara;Sales;apartamentos;650000.0;VENDE-SE APARTAMENTO TODO MOBILIADO NO ED. SOLARE;Tapejara;RS;Centro;Rua Cel. Lolico;3;1;1;126.97;100.0;Sim;Alto
+conceitoimoveistapejara;Sales;apartamentos;640000.0;ÓTIMO APARTAMENTO NO EDIFÍCIO PREMIER;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS;2;;2;;100.0;Semi;Médio
+conceitoimoveistapejara;Sales;apartamentos;640000.0;APARTAMENTO NOVO NO ED. SÃO FRANCISCO;Tapejara;RS;Centro;RUA CEL. GERVÁSIO;3;1;1;;100.0;;Médio
+conceitoimoveistapejara;Sales;apartamentos;640000.0;APARTAMENTOS SEMIACABADOS NO ED. SÃO FRANCISCO;Tapejara;RS;Centro;RUA CEL. GERVÁSIO;3;1;1;;100.0;;
+conceitoimoveistapejara;Sales;apartamentos;630000.0;VENDE-SE APTO NO ED. MURANO;Tapejara;RS;Centro;AV. ELISEU RECH;3;1;;131.56;110.8;;Alto
+conceitoimoveistapejara;Sales;apartamentos;600000.0;VENDE-SE APTO NO ED. GRAN LUIGI;Tapejara;RS;Centro;RUA DO COMÉRCIO;3;;1;;110.8;;Médio
+conceitoimoveistapejara;Sales;apartamentos;590000.0;VENDE-SE IMÓVEL EM MEIA PRAIA -SC;Itapema;SC;Meia Praia;RUA 408;2;2;1;;110.8;;
+conceitoimoveistapejara;Sales;apartamentos;580000.0;APARTAMENTO ED. DOM ALFREDO;Tapejara;RS;Centro;RUA SANTO CANALI;3;1;1;126.52;94.36;;Médio
+conceitoimoveistapejara;Sales;apartamentos;580000.0;APTOS DE FUNDOS SEMIACABADOS ED. SÃO FRANCISCO;Tapejara;RS;Centro;RUA CEL. GERVÁSIO;3;1;1;;94.36;;
+conceitoimoveistapejara;Sales;apartamentos;550000.0;VENDE-SE APTO NO ED. MUNIQUE;Tapejara;RS;Centro;RUA CEL. LOLICO;3;;1;;94.36;;
+conceitoimoveistapejara;Sales;apartamentos;550000.0;VENDE-SE APARTAMENTO NO ED. LAFAYETTE;Tapejara;RS;Centro;Rua do Comércio;2;;1;;94.36;;Médio
+conceitoimoveistapejara;Sales;apartamentos;530000.0;VENDE-SE APARTAMENTO NO ED. HENRIQUE;Tapejara;RS;São Cristovão;RUA JULIO DE CASTILHOS;2;1;2;;94.36;Semi;Médio
+conceitoimoveistapejara;Sales;apartamentos;525000.0;VENDE-SE APARTAMENTO NO ED.PROVENCE;Tapejara;RS;;R. Ângelo Dalzotto;2;;2;;94.36;;
+conceitoimoveistapejara;Sales;apartamentos;520000.0;VENDE-SE APARTAMENTO NO ED.SIENA;Tapejara;RS;Centro;R. Padre Nóbrega;2;;1;;94.36;;
+conceitoimoveistapejara;Sales;apartamentos;495000.0;COBERTURA DE 02 DORM EDIFÍCIO VITÓRIA;Tapejara;RS;Centro;Rua nove de agosto;2;;1;99.0;83.0;Semi;Alto
+conceitoimoveistapejara;Sales;apartamentos;460000.0;APTO SEMI-MOBILIADO NO ED. SÃO FRANCISCO;Tapejara;RS;Centro;;2;;1;;83.0;Semi;
+conceitoimoveistapejara;Sales;apartamentos;400000.0;VENDE-SE APTO NO ED. MONTE BELO;Tapejara;RS;Centro;Rua do Comércio;3;1;1;123.37;113.21;;
+conceitoimoveistapejara;Sales;apartamentos;400000.0;VENDE-SE APTO NO ED. MONTE BELO (DE FRENTE);Tapejara;RS;Centro;Rua do Comércio;3;1;1;123.37;113.21;;Médio
+conceitoimoveistapejara;Sales;apartamentos;390000.0;VENDE-SE APTO AO LADO DA PRAÇA CENTRAL;Tapejara;RS;Centro;RUA DO COMÉRCIO;2;1;;113.0;;;Baixo
+conceitoimoveistapejara;Sales;apartamentos;385000.0;POSICIONADO NA ESQUINA;Tapejara;RS;;LOTEAMENTO BIANCHINI NOVO;2;;1;;;;Baixo
+conceitoimoveistapejara;Sales;apartamentos;380000.0;APTO NO ED. MONTE BELLO (FUNDOS);Tapejara;RS;Centro;RUA DO COMÉRCIO;3;;1;;;;Alto
+conceitoimoveistapejara;Sales;apartamentos;380000.0;APTO NO ED. MONTE BELLO (FUNDOS);Tapejara;RS;Centro;RUA DO COMÉRCIO;3;;;;;;Alto
+conceitoimoveistapejara;Sales;apartamentos;370000.0;APTO DE 02 DORMITÓRIOS ED. VITÓRIA;Tapejara;RS;Centro;NOVE DE AGOSTO;2;;1;82.93;;;Médio
+conceitoimoveistapejara;Sales;apartamentos;360000.0;APARTAMENTO DE 01 DORMITÓRIO NO ED. PREMIER;Tapejara;RS;Centro;;1;;1;65.76;52.88;;Médio
+conceitoimoveistapejara;Sales;apartamentos;360000.0;VENDE-SE APARTAMENTO NO ED.VENEZA;Tapejara;RS;Centro;R. Osorio da Silveira;2;;;;52.88;Semi;
+conceitoimoveistapejara;Sales;apartamentos;350000.0;APARTAMENTO NO ED. SAN MARINO;Tapejara;RS;;RUA DO COMÉRCIO;3;;1;;52.88;;Médio
+conceitoimoveistapejara;Sales;apartamentos;;APTO SEMI ACABADO EDIFÍCIO PROVENCE;Tapejara;RS;Centro;ANGELO DALZOTTO;3;1;1;152.03;118.43;;Médio
+conceitoimoveistapejara;Sales;apartamentos;330000.0;VENDE-SE APTO 402 DE ESQUINA NO CINCRIS 3;Tapejara;RS;São Cristovão;Rua Aurélio Sossela;2;;1;;118.43;;Alto
+conceitoimoveistapejara;Sales;apartamentos;300000.0;APTO DE 02 DORMITÓRIOS - 304;Tapejara;RS;São Cristóvão;RUA VALERIANO UHINI;2;;1;;118.43;;
+conceitoimoveistapejara;Sales;apartamentos;300000.0;VENDE-SE APTO DE 02 DORMITÓRIOS NO ED. PLÁTANOS;Tapejara;RS;São Cristovão;Rua Valeriano Ughini;2;;1;;118.43;;Médio
+conceitoimoveistapejara;Sales;apartamentos;290000.0;APTO DE 02 DORMITÓRIOS - 302;Tapejara;RS;São Cristóvão;RUA VALERIANO UHINI;2;;1;;118.43;;
+conceitoimoveistapejara;Sales;apartamentos;290000.0;APTO DE 02 DORMITÓRIOS - 403;Tapejara;RS;São Cristóvão;RUA VALERIANO UHINI;2;;1;;118.43;;
+conceitoimoveistapejara;Sales;apartamentos;280000.0;APARTAMENTO ED. SÃO GERALDO;Tapejara;RS;Centro;RUA 9 DEGOSTO;2;;;;118.43;;
+conceitoimoveistapejara;Sales;apartamentos;270000.0;VENDE-SE APTO NO ED. CINCRIS III;Tapejara;RS;São Cristóvão;RUA AURÉLIO SOSSELA;2;;1;;118.43;;Alto
+conceitoimoveistapejara;Sales;apartamentos;255000.0;APTO 203 NO ED. CINCRIS 3;Tapejara;RS;São Cristóvão;RUA AURÉLIO SOSSELA;2;;1;;118.43;;
+conceitoimoveistapejara;Sales;apartamentos;250000.0;VENDE-SE APTO NO ED.VERONA;Tapejara;RS;Centro;RUA ASSIS BRASIL;2;;1;;118.43;;
+conceitoimoveistapejara;Sales;apartamentos;240000.0;APARTAMENTO NO ED. CINCRIS 3;Tapejara;RS;São Cristovão;Rua;2;;1;78.19;66.54;;
+conceitoimoveistapejara;Sales;apartamentos;238000.0;A POUCOS METROS DA AV. 7 DE SETEMBRO;Tapejara;RS;São Cristóvão;RUA VALERIANO UGHINI;1;;1;;66.54;;
+conceitoimoveistapejara;Sales;apartamentos;228000.0;APTO DE 1 DORMITÓRIO - 201;Tapejara;RS;São Cristóvão;RUA VALERIANO UGHINI;1;;1;;66.54;;
+conceitoimoveistapejara;Sales;apartamentos;220000.0;APARTAMENTO EM PASSO FUNDO;Passo Fundo;RS;;;2;;1;;66.54;;
+conceitoimoveistapejara;Sales;apartamentos;220000.0;VENDE-SE APTO DE 01 DORMITÓRIO NO CENTRO;Tapejara;RS;Centro;AV. SETE DE SETEMBRO;1;;;;66.54;;Médio
+conceitoimoveistapejara;Sales;apartamentos;215000.0;APTO DE 01 DORMITÓRIO NO ED. SAN MARINO;Tapejara;RS;Centro;RUA DO COMÉRCIO;1;;;;66.54;;
+conceitoimoveistapejara;Sales;apartamentos;189000.0;VENDE-SE ÓTIMO APTO NO ED.DORING;Tapejara;RS;Centro;R. do Comércio;1;;;35.0;28.0;;
+conceitoimoveistapejara;Sales;apartamentos;170000.0;VENDE-SE APTO NO ED. ANA PAULA TODO REFORMADO;Tapejara;RS;São Paulo;Rua Egídio Escatula;2;;1;113.73;62.2;;
+conceitoimoveistapejara;Sales;apartamentos;170000.0;VENDE-SE APTO NO RES. ANA PAULA EM TAPEJARA RS;Tapejara;RS;São Paulo;RUA EGÍDIO SCATOLA;2;;1;96.09;50.2;;Baixo
+conceitoimoveistapejara;Sales;apartamentos;170000.0;APARTAMENTO CONDOMÍNIO IZIDORO DANIELI;Tapejara;RS;Izidoro Danieli;;2;;1;;50.2;Semi;Baixo
+conceitoimoveistapejara;Sales;apartamentos;155000.0;VENDE-SE APARTAMENTO NO IZIDORO DANIELI;Tapejara;RS;;;2;;;;50.2;;
+conceitoimoveistapejara;Sales;apartamentos;;APARTAMENTOS EDIFICIO PREMIER;Tapejara;RS;;Rua Júlio de Castilhos;1;;;;50.2;;
+conceitoimoveistapejara;Sales;apartamentos;;APTO MODERNO NO PROVENCE RESIDENCIAL;Tapejara;RS;Centro;RUA PADRE NOBREGA;2;1;2;103.73;80.66;;
+conceitoimoveistapejara;Sales;apartamentos;;RESIDENCIAL MONPANAI EM FRENTE A PRACINHA;Tapejara;RS;;AV. ELISEU RECH;3;1;;;80.66;;
+conceitoimoveistapejara;Sales;apartamentos;;VENDE-SE APARTAMENTOS NA PLANTA.;Porto Belo;SC;Centro;RUA SÃO JOSÉ PETERMANN;3;3;2;;80.66;;
+conceitoimoveistapejara;Sales;apartamentos;;OPORTUNIDADE DE NEGÓCIO EM BALNEÁRIO PIÇARRAS;Tapejara;SC;;;3;;;;80.66;;
+conceitoimoveistapejara;Sales;apartamentos;;VENDE-SE APTOS. NO ED CONTEMPORÂNEO;Tapejara;RS;Centro;AV SETE DE SETEMBRO;2;;;;80.66;;
+conceitoimoveistapejara;Sales;apartamentos;;CASA GERMINADA DE ALTO PADRÃO;Tapejara;RS;Lot. Bianchini;;3;1;1;;80.66;;
+conceitoimoveistapejara;Sales;apartamentos;;VENDE-SE APTO EM PORTO BELLO-SC;Porto Belo;SC;Alto Pereque;Rua João Carlos Abraham;3;1;1;198.0;105.0;;
+conceitoimoveistapejara;Sales;apartamentos;;LÁ GRÁCIA RESIDENCE;Porto Belo;SC;Alto Pereque;R. NEREU RAMOS;3;2;1;;105.0;;JULHO/2026
+conceitoimoveistapejara;Sales;apartamentos;;ED. AIPÊ NO CENTRO DE TAPEJARA;Tapejara;RS;Centro;Rua 15 de Novembro;2;1;1;;105.0;;
+conceitoimoveistapejara;Sales;apartamentos;;APTOS PARA VENDA NO RES. MONET;Tapejara;RS;Centro;Rua do Comércio;2;1;1;;105.0;;
+conceitoimoveistapejara;Rents;casas;1350.0;ALUGA-SE CASA CENTRAL FRENTE COM BIBLIOTECA;Tapejara;RS;Centro;R. Cel. Gervásio;3;;;;105.0;;
+conceitoimoveistapejara;Rents;casas;1000.0;ALUGA-SE PARTE SUPERIOR;Tapejara;RS;;R. Manoel Teixeira;3;;;;105.0;;
+conceitoimoveistapejara;Rents;casas;;ALUGA-SE ÓTIMA CASA;Tapejara;RS;São Paulo;R. Amélia da Silva;2;;1;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;2600.0;ALUGA-SE APARTAMENTO COBERTURA NO ED.SOLARE;Tapejara;RS;Centro;Av coronel lolico;3;1;1;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;2500.0;ALUGA-SE ÓTIMO APARTAMENTO NO ED.NOBLESSE;Tapejara;RS;Centro;RUA INDEPENDENCIA,710;3;1;2;;105.0;Semi;Alto
+conceitoimoveistapejara;Rents;apartamentos;1700.0;ALUGA-SE ÓTIMO APARTAMENTO NO ED. MURANO;Tapejara;RS;;Av. Eliseu Rech;2;;;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;1450.0;ALUGA-SE ÓTIMO APTO NO ED.SITTA;Tapejara;RS;Centro;R. do Comércio;2;;;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;1300.0;ALUGA-SE APTO ED.PANORÂMICO;Tapejara;RS;;Av. Valdo Nunes Viêira;1;;1;;105.0;Sim;
+conceitoimoveistapejara;Rents;apartamentos;1150.0;ALUGA-SE ÓTIMO APARTAMENTO NO ED.MILANO;Tapejara;RS;;21 de abril;3;;;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;1100.0;ALUGA-SE ÓTIMO APARTAMENTO NO ED.MILANO;Tapejara;RS;;21 de abril;2;;;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;1000.0;PORÃO NO CENTRO;Tapejara;RS;Centro;Rua XV de Novembro;2;;1;;105.0;;Baixo
+conceitoimoveistapejara;Rents;apartamentos;900.0;ALUGA-SE ÓTIMO APARTAMENTO NO ED.IZIDORO DANIELI;Tapejara;RS;;izidoro danieli;2;;;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;750.0;ALUGA-SE APARTAMENTO NO ED.IZIDORO DANIELI;Tapejara;RS;;Condominio Izidoro Danieli;2;;;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;700.0;ALUGA-SE ÓTIMO APARTAMENTO;Tapejara;RS;;;1;;;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;700.0;QUITINETE NO ED. CINCRIS 6 AP-602;Tapejara;RS;;RUA VALERIANO UGHINI;1;;;;105.0;;
+conceitoimoveistapejara;Rents;apartamentos;700.0;QUITINETE NO ED. CINCRIS 6 AP-502;Tapejara;RS;;RUA VALERIANO UGHINI;1;;;;105.0;;
+conceitoimoveistapejara;Rents;comercial;6500.0;SALA COMERCIAL NO ED. ASTECA;Tapejara;RS;;Rua do Comércio;;;;;105.0;;
+conceitoimoveistapejara;Rents;comercial;6000.0;ALUGA-SE ÓTIMO PAVILHÃO;Tapejara;RS;;Av. SETE DE SETEMBRO;;;;;105.0;;
+conceitoimoveistapejara;Rents;comercial;3600.0;PAVILHÃO NA RUA SANTO CANALI;Tapejara;RS;Centro;RUA SANTO CANALI;;;1;850.0;450.0;;
+conceitoimoveistapejara;Rents;comercial;2600.0;ALUGA-SE CASA NA FRENTE DA PRAÇA CENTRAL;Tapejara;RS;Centro;R. Júlio de Castilhos;;;;;450.0;;
+conceitoimoveistapejara;Rents;comercial;2500.0;SALA COMERCIAL AO LADO DO SAÚDE CENTER;Tapejara;RS;Centro;RUA TRANQUILO BASSO;;;;73.0;;;
+conceitoimoveistapejara;Rents;comercial;2500.0;ALUGA-SE SALA COMERCIAL;Tapejara;RS;Centro;Rua Tranquilo Basso;;;1;;;;Baixo
+conceitoimoveistapejara;Rents;comercial;2200.0;ALUGA-SE CLINICA ODONTOLÓGICA;Tapejara;RS;Centro;RUA CORONEL LOLICO;;;;;;;Baixo
+conceitoimoveistapejara;Rents;comercial;2160.0;ALUGA-SE SALA COMERCIAL;Tapejara;RS;Lot. Bianchini;Rua Pedro Rebeschini;;;;160.0;;;
+conceitoimoveistapejara;Rents;comercial;2000.0;PAVILHÃO AO LADO DA  AGROMILK;Tapejara;RS;;RUA OSÓRIO DA SILVEIRA;;;;160.0;160.0;;
+conceitoimoveistapejara;Rents;comercial;1900.0;SALA COMERCIAL NO ED. MERIDIONAL;Tapejara;RS;;RUA XV DE NOVEMBRO;;;;;160.0;;
+conceitoimoveistapejara;Rents;comercial;1500.0;SALA COMERCIAL PRÓXIMA AO GRILO;Tapejara;RS;Centro;RUA JULIO DE CASTILHOS;;;;;160.0;;
+conceitoimoveistapejara;Rents;comercial;1400.0;ALUGA-SE SALA COMERCIAL;Tapejara;RS;Centro;Av. Eliseu Rech;;;;;160.0;;
+conceitoimoveistapejara;Rents;comercial;1300.0;ALUGA-SE ÓTIMA SALA COMERCIAL;Tapejara;RS;Centro;R. Valeriano Ughini;;;;;160.0;;
+conceitoimoveistapejara;Rents;comercial;1200.0;SALA AÉREA NO ED. MERIDIONAL;Tapejara;RS;;RUA DO COMÉRCIO;;;;;160.0;;
+conceitoimoveistapejara;Rents;comercial;790.0;SALA COMERCIAL NO ED PROFISSIONAL CENTER;Tapejara;RS;;RUA DO COMÉRCIO;;;;;160.0;;Médio
+conceitoimoveistapejara;Rents;comercial;790.0;SALA COMERCIAL NO ED. PROFISSIONAL CENTER;Tapejara;RS;Centro;RUA DO COMÉRCIO;;;;;160.0;;
