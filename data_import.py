@@ -19,28 +19,30 @@ db.create_schema()
 db.create_table()
 
 def process_csv(file_path):
-    with open(file_path, 'r') as csv_file:
+    with open(file_path, 'r', encoding='utf-8') as csv_file:
         reader = csv.DictReader(csv_file, delimiter=';')
         for row in reader:
-            print(row)
-            # db.insert(
-            #     row['real_estate_name'],
-            #     row['group_type'],
-            #     row['category_type'],
-            #     row['property_price'],
-            #     row['property_name'],
-            #     row['city_name'],
-            #     row['abbreviation_uf'],
-            #     row['neighborhood_name'],
-            #     row['address'],
-            #     row['bedrooms_number'],
-            #     row['suites_number'],
-            #     row['car_vacancies_number'],
-            #     row['property_area_size'],
-            #     row['private_property_area'],
-            #     row['furniture'],
-            #     row['floor']
-            # )
+            for key in row:
+                if not row[key]:
+                    row[key] = None
+            db.insert(
+                row['real_estate_name'],
+                row['group_type'],
+                row['category_type'],
+                row['property_price'],
+                row['property_name'],
+                row['city_name'],
+                row['abbreviation_uf'],
+                row['neighborhood_name'],
+                row['address'],
+                row['bedrooms_number'],
+                row['suites_number'],
+                row['car_vacancies_number'],
+                row['property_area_size'],
+                row['private_property_area'],
+                row['furniture'],
+                row['floor']
+            )
 
     db.disconnect()
 
